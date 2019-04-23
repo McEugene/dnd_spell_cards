@@ -1,0 +1,100 @@
+Agilité divine Transmutation
+Niveau : Prêtre 5
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : créature vivante touchée
+Durée : 1 round/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : non
+Grâce au pouvoir de son dieu tutélaire, le lanceur confère à une créature vivante agilité et habileté au combat. La cible bénéficie d'un bonus de base aux jets de Réflexes semblable à celui d'un roublard du niveau global du lanceur, d'un bonus d'altération de +4 en Dextérité et du don Attaque éclair pendant toute la durée du sort.
+Ailes de feu Transmutation [feu]
+Niveau : Druide 3
+Composantes : V G, M, F
+Temps d'incantation : 1 round
+Portée : personelle
+Cible : le jeteur de sorts
+Durée : 1 minute/niveau
+Ce sort transforme les bras du lanceur en ailes de feu brillantes. Les flammes ne lui infligent pas de dégâts et ne nuisent en rien à son équipement. Par contre, ne disposant plus de ses bras, il ne peut rien tenir en main et se révèle incapable de lancer des sorts à composantes gestuelles. Cependant, les anneaux, bracelets et autres objets portés au niveau des bras ou des mains au moment de l'incantation fonctionnent bel et bien. Les ailes confèrent au lanceur une vitesse de déplacement en vol de 18 mètres (12 mètres s'il porte une armure lourde ou intermédiaire) affublée d'une bonne manœuvrabilité. Il peut charger mais est incapable de courir tout en volant, et il ne saurait prendre les airs qu'avec une charge légère. L'utilisation de ce sort ne requiert pas davantage de concentration que s'il marchait, aussi le lanceur peut-il agir normalement.
+Si le sort arrive à terme alors que le personnage se trouve dans les airs, il descend au rythme de 18 mètres par round pendant 1d6 rounds, puis chute s'il n'a pas encore atterri. Cela vaut également en cas de dissipation du sort. Par contre, si le sort est annulé par une zone d'antimagie, le lanceur tombe comme une pierre.
+Le personnage a le droit de porter des attaques à mains nues à l'aide des ailes de feu, mais on considère alors qu'il n'est pas formé à leur maniement (il subit donc un malus de -4 aux jets d'attaque). En cas de réussite, il inflige 2d6 points de dégâts de feu, qui viennent s'ajouter à ses dégâts d'attaque à mains nues habituels.
+Les ailes sont éteintes (auquel cas le sort est annulé) par un sort d'extinction des feux, une immersion dans l'eau ou un vent de la force d'un ouragan.
+Composantes matérielles : une plume d'oiseau que le lanceur doit brûler lors de l'incantation.
+Focaliseur : une amulette dorée représentant un phénix.
+
+Arc tueur Évocation
+Niveau : Rodeur 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : arme à distance touchée
+Durée : 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Le sort canalise l'énergie divine vers une arme à distance de son choix. L'arme gagne alors d'un bonus d'altération de +5 aux jets d'attaque et de dégâts, mais également la propriété spéciale tueuse (bonus d'altération de +7 aux jets d'attaque et de dégâts, +2d6 points de dégâts) contre les adversaires du type précisé lors de l'incantation. À ce sujet, le lanceur doit choisir l'un de ses ennemis jurés. Le sort est automatiquement annulé au bout de 1 round si le personnage lâche son arme. Enfin, celui-ci ne saurait jouir de plus d'un arc tueur à la fois.
+Si le sort est lancé sur une arme magique, il prend le pas sur toutes les capacités de celle-ci, réprimant son bonus d'altération et ses propriétés jusqu'au terme de sa durée. Cette évocation n'est pas cumulable avec tout autre sort modifiant les armes d'une manière ou d'une autre. Ce sort n'a aucun effet sur les artefacts.
+Le bonus aux jets d'attaque d'une arme de maître n'est pas cumulable avec un bonus d'altération magique à l'attaque. Les munitions tirées grâce à l'arc tueur perdent leurs propriétés magiques (adoptant ainsi celles du sort), mais elles conservent leur faculté matérielle à passer outre la réduction des dégâts. Par exemple, on peut parfaitement tirer des flèches en argent à l'aide d'un arc tueur pour passer outre la réduction des dégâts des lycanthropes.
+Auréole de lumière Évocation [lumière]
+Niveau : Prêtre 1
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 minute/niveau ou jusqu'à utilisation (T)
+Une aura de lumière scintillante enveloppe le lanceur, restant présente jusqu'à ce qu'il la relâche sous la forme d'une explosion d'énergie divine. L'auréole de lumière produit autant de lumière qu'une lanterne, illuminant vivement dans un rayon de 9 mètres (et faiblement sur 9 mètres de plus).
+Par une action de mouvement, le lanceur peut rassembler l'énergie du sort autour de son bras tendu puis, au prix d'une action simple, la libérer en direction d'un ennemi situé dans un rayon de 9 mètres. S'il réussit une attaque de contact à distance, l'auréole de lumière inflige 1d8 points de dégâts, +1 par round écoulé depuis l'incantation (jusqu'à un maximum égal au niveau du lanceur de sorts). Le fait d'attaquer à l'aide de cette forme d'énergie met un terme au sort, que la cible soit atteinte ou non.
+
+Désorientation imaginaire Illusion (mirage) [mental]
+Niveau : Druide 6
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : une créature vivante
+Durée : 10 minutes/niveau (T)
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Le lanceur crée un relief et un paysage imaginaires en perpétuelle évolution, ce qui sème la confusion dans l'esprit du sujet quand il tente de se déplacer. Le sol semble se tortiller sous les pieds du sujet et son environnement semble se mouvoir de son propre chef, si bien qu'il lui est presque impossible de se déplacer en ligne droite.
+Au cours de chaque round où il tente de se déplacer, le sujet d'une désorientation imaginaire doit réussir un test de Survie (DD 20) pour distinguer le relief réel des éléments imaginaires. En cas de succès, il se déplace normalement. En cas d'échec, il se déplace dans une direction située à 90° (à gauche ou à droite). En raison du sort, le sujet ne réalise pas qu'il va dans la mauvaise direction avant d'interagir avec son environnement (en effectuant une attaque ou en manipulant un objet comme une porte, par exemple) ou la fin du round. S'il comprend qu'il se rend dans la mauvaise direction avant la fin du round, il peut effectuer un nouveau test de Survie pour tenter de redresser la barre, mais il ne saura pas si ce second test est couronné de succès ou non avant d'interagir avec son environnement ou la fin du round.
+Un sort de désorientation imaginaire n'affecte que les déplacements. Les créatures qui en sont les victimes sont à même de se battre, de lancer des sorts et d'agir normalement.
+
+Déclamation Invocation (création)
+Niveau : Prêtre 4
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : 18 m
+Zone d'effet : tous les alliés et ennemis situés dans un rayonnement de 18 m de rayon centré sur le lanceur de sorts
+Durée : 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+En déclamant un texte sacré ou une profession de foi, le lanceur invoque la bénédiction de son dieu sur lui-même et ses alliés, tout en semant le doute et la faiblesse chez ses ennemis. Le sort affecte tous les ennemis et les alliés du personnage qui se trouvent dans la zone d'effet du sort au moment où celui-ci est lancé. Les alliés du lanceur bénéficient d'un bonus de chance de +2 aux jets d'attaque et aux jets de sauvegarde, voire d'un bonus de +3 s'ils vénèrent la même divinité que le personnage. Ses ennemis sont frappés d'un malus de chance de -2 aux jets d'attaque et aux jets de sauvegarde. Une fois l'incantation terminée, le lanceur est libre d'agir à sa guise.
+Composantes matérielles : en plus du symbole sacré du personnage, il est nécessaire pour lancer ce sort de posséder un texte sacré qui fera office de focaliseur divin.
+
+Cyclone suprême Évocation [air, météo]
+Niveau : Druide 9
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : tornade de 6 m de rayon, jusqu'à 1,50 m de haut/niveau de lanceur de sorts, centrée n'importe où dans les limites de portée
+Durée : 1 round/niveau
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : oui
+Ce sort fait apparaître une tornade qui projette les ennemis dans les airs et détruit les bâtiments.
+Le cyclone suprême affecte les créatures selon leur taille et l'endroit où elles se trouvent par rapport à l'effet.
+Près de la tornade. Les créatures de taille G ou inférieure qui débutent leur tour de jeu dans un rayon de 18 mètres du centre du cyclone suprême doivent réussir un jet de Vigueur sous peine d'être attirées de 1d4 x 3 mètres vers l'œil du phénomène, subissant ainsi 1d4 points de dégâts non-létaux par tranche de 3 mètres parcourue.
+Les créatures de taille TG situées dans un rayon de 12 mètres de la tornade doivent réussir un jet de Vigueur sous peine d'être renversées. Enfin, les créatures de taille Gig ou C situées dans un rayon de 12 mètres du phénomène doivent réussir un jet de Vigueur si elles souhaitent s'éloigner de la tornade.
+Les créatures volantes de taille TG ou inférieure qui ratent leur jet de Vigueur sont aspirées vers le centre de la tornade, ubissant 2d6 points de dégâts en raison du ballottement. Les créatures volantes de taille Gig doivent réussir un jet de Vigueur sous peine d'être entraînées de 1d6 x 3 mètres vers le centre de la tornade. Enfin, les créatures volantes de taille C doivent également réussir un jet de Vigueur sous peine d'être entraînées de 1d6 x 1,50 mètre vers le centre de la tornade.
+Au sein de la tornade. Les créatures qui débutent leur tour de jeu au sein de la tornade subissent 6d6 points de dégâts par round pendant les 1d10 rounds où elles y restent (effectuez un jet de dégâts distinct pour chaque victime). Pendant ce temps, leur champ d'action est très limité. Il leur est notamment impossible d'attaquer, de lancer des sorts ou de se déplacer. Quand le cyclone suprême éjecte une créature, celle-ci réapparaît à 4d6 x 1,50 mètre du centre de la tornade, dans une direction choisie au hasard, et à 4d6 x 1,50 mètre au-dessus du sol (chute immédiate si elle n'est pas douée de facultés de vol).
+Relief et structures. La tornade déracine automatiquement les arbres et laisse de nombreux décombres dans son sillage. Les structures frappées par un tel phénomène subissent 2d6 x 10 points dégâts par round. Un round ou deux d'un tel traitement suffisent à détruire la plupart des bâtiments.
+Les attaques à distance ne sauraient franchir la tornade. Le cyclone suprême éteint les flammes avec lesquelles il entre en contact. Les tests de Perception auditive sont voués à l'échec en son sein.
+Enfin, le cyclone suprême reste stationnaire, sauf si le lanceur le fait bouger au prix d'une action de mouvement. Il se déplace alors de 18 mètres par round.
+
+Corps solaire Transmutation [Feu]
+Niveau : Ensorceleur/Magicien 2, Druide 2
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : 1,5 m
+Zone d'effet : une émanation de 1,50 m de rayon centrée sur le jeteur de sorts
+Durée : 1 round/niveau
+Jet de sauvegarde : Réflexes, 1/2 dégâts
+Résistance à la magie : oui
+En puisant dans la puissance du soleil, le lanceur parvient à dégager des flammes depuis son corps tout entier. Celles-ci s'étendent dans toutes les directions sur un rayon de 1,50 mètre, illuminant la zone et infligeant 1d4+1 points de dégâts de feu (jet de Réflexes pour demi-dégâts) à toutes les créatures qui touchent le personnage (sans affecter ce dernier).
