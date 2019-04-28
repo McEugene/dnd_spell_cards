@@ -6,7 +6,8 @@ import java.util.List;
 import static be.rha.dnd.Constants.MINIFIER;
 
 public class Spell {
-    private static final int DESCRIPTION_MAX_CHAR = 300;
+    private static final int DESCRIPTION_MAX_CHAR = 1000;
+    public static final String LATEX_NEW_LINE = "\\\\\n";
 
     private transient List<String> lines = new ArrayList<>();
     private String name = "";
@@ -75,7 +76,8 @@ public class Spell {
     }
 
     private String source() {
-        return book + " " + page;
+//        return book + " " + page;
+        return "Codex Divin 42";
     }
 
     private String enrichedDescription() {
@@ -83,16 +85,19 @@ public class Spell {
         result += orElse(MINIFIER.minify(save), "", "JDS : ");
         result += orElse(MINIFIER.minify(magicResist), "", "RM : ");
         result += orElse(MINIFIER.minify(areaOfEffect), "", "AOE : ");
-
+        result += LATEX_NEW_LINE;
         result += orElse(summary, description, "");
-        return result.substring(0, DESCRIPTION_MAX_CHAR) + "...";
+        if (result.length() > DESCRIPTION_MAX_CHAR) {
+            result = result.substring(0, DESCRIPTION_MAX_CHAR) + "...";
+        }
+        return result;
     }
 
     private String orElse(String field, String defaultValue, String prefix) {
         if (field.trim().isEmpty()) {
             return defaultValue;
         } else {
-            return prefix + field.trim() + "\\\\\n";
+            return prefix + field.trim() + LATEX_NEW_LINE;
         }
     }
 
