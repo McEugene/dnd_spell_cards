@@ -76,8 +76,7 @@ public class Spell {
     }
 
     private String source() {
-//        return book + " " + page;
-        return "Codex Divin 42";
+        return book + " " + page;
     }
 
     private String enrichedDescription() {
@@ -121,4 +120,9 @@ public class Spell {
         type = nameAndType.substring(spaceIndex).trim();
     }
 
+    public void enrich(String summary, String book, String page) {
+        this.summary = summary;
+        this.book = book;
+        this.page = page;
+    }
 }

@@ -10,6 +10,9 @@ public class EnrichJson {
     public static void main(String[] args) {
         try {
             List<Spell> spells = JSON_HELPER.readSpells(BASE_JSON_FILE_NAME);
+            spells.forEach(spell -> {
+                spell.enrich("", "Codex Divin", "42");
+            });
             JSON_HELPER.writeSpells(spells, FINAL_JSON_FILE_NAME);
         } catch (IOException e) {
             e.printStackTrace();
