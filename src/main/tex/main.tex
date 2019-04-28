@@ -4,7 +4,7 @@
 \usepackage{background}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[paperheight=8.89cm,paperwidth=6.35cm,margin=0.6cm,top=22mm,bottom=10mm,headheight=1cm]{geometry}
+\usepackage[paperheight=8.89cm,paperwidth=6.35cm,margin=0.20cm,top=20mm,bottom=10mm,headheight=1cm]{geometry}
 
 \ifxetex
 \usepackage{fontspec}
@@ -17,7 +17,7 @@
 \sloppy
 \setlength{\headsep}{3mm}
 \pagestyle{fancy}
-\chead{\scshape\scriptsize\spellType\\[-1.8mm]\Large\color{headercolor}\mbox{\spellTitle}}
+\chead{\scshape\scriptsize\spellType\scshape\scriptsize\class\scshape\scriptsize\level\\[-1.8mm]\Large\color{headercolor}\mbox{\spellTitle}}
 \cfoot{\if\relax\spellsource\relax\else\scriptsize\spellsource\fi}
 \setlength{\parindent}{0pt}
 
@@ -58,6 +58,17 @@
         \centering\footnotesize\scshape{\color{headercolor}Durée}
 
         \duration
+	\end{minipage}\\[3mm]
+    \begin{minipage}[t]{0.49\textwidth}
+        \centering\footnotesize\scshape{\color{headercolor}Cible}
+
+        \target
+	\end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.49\textwidth}
+        \centering\footnotesize\scshape{\color{headercolor}JDS}
+
+        \save
 	\end{minipage}
     \vspace{3mm}
     \headrule

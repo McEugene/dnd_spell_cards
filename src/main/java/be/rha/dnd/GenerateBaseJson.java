@@ -1,40 +1,29 @@
-package be.rha;
+package be.rha.dnd;
 
-import java.io.*;
-import java.nio.charset.Charset;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+import static be.rha.dnd.Constants.*;
+
+public class GenerateBaseJson {
 
     public static void main(String[] args) {
-
         try {
-
             List<Spell> spells = getSpells();
             spells.forEach(Spell::build);
 
-            /*Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            String json = gson.toJson(spells);
-            System.out.println(json);*/
-
-            Path path = Paths.get("target/spells.tex");
-
-            try (BufferedWriter writer = Files.newBufferedWriter(path, Charset.forName("UTF-8"))) {
-                for (Spell spell : spells) {
-                    writer.write(spell.toTex());
-                }
-            }
+            JSON_HELPER.writeSpells(spells, BASE_JSON_FILE_NAME);
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
     private static List<Spell> getSpells() throws IOException {
-        File f = new File("src/main/resources/example.txt");
+        File f = new File(INPUT_FILE_NAME);
 
         BufferedReader b = new BufferedReader(new FileReader(f));
         String readLine;

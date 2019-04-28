@@ -1,4 +1,4 @@
-package be.rha;
+package be.rha.dnd;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -17,6 +17,9 @@ public class Spell {
     private String magicResist = "";
     private String areaOfEffect = "";
     private String description = "";
+    private String summary = "";
+    private String book = "";
+    private String page = "";
 
     public void addLine(String line) {
         lines.add(line);
