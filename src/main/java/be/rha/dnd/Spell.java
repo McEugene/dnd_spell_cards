@@ -3,7 +3,11 @@ package be.rha.dnd;
 import java.util.ArrayList;
 import java.util.List;
 
+import static be.rha.dnd.Constants.MINIFIER;
+
 public class Spell {
+    private static final int DESCRIPTION_MAX_CHAR = 300;
+
     private transient List<String> lines = new ArrayList<>();
     private String name = "";
     private String type = "";
@@ -66,8 +70,30 @@ public class Spell {
     }
 
     public String toTex() {
-        return String.format("\\begin{spell}{%s}{%s}{%s}{%s}{%s}{%s}{%s}{%s}{%s}{%s}{%s}{%s}\n\n%s\n\n\\end{spell}\n",
-                name, type, classAndLevel, classAndLevel, components, castTime, range, target, duration, save, magicResist, areaOfEffect, description);
+        return String.format("\\begin{spell}{%s}{%s}{%s}{%s}{%s}{%s}{%s}{%s}\n\n%s\n\n\\end{spell}\n",
+                name, type, classAndLevel, source(), components, MINIFIER.minify(castTime), MINIFIER.minify(range), MINIFIER.minify(duration), enrichedDescription());
+    }
+
+    private String source() {
+        return book + " " + page;
+    }
+
+    private String enrichedDescription() {
+        String result = orElse(MINIFIER.minify(target), "", "CIBLE : ");
+        result += orElse(MINIFIER.minify(save), "", "JDS : ");
+        result += orElse(MINIFIER.minify(magicResist), "", "RM : ");
+        result += orElse(MINIFIER.minify(areaOfEffect), "", "AOE : ");
+
+        result += orElse(summary, description, "");
+        return result.substring(0, DESCRIPTION_MAX_CHAR) + "...";
+    }
+
+    private String orElse(String field, String defaultValue, String prefix) {
+        if (field.trim().isEmpty()) {
+            return defaultValue;
+        } else {
+            return prefix + field.trim() + "\\\\\n";
+        }
     }
 
     private void setNameAndType(String nameAndType) {
