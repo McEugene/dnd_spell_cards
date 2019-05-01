@@ -5,10 +5,21 @@ import java.util.Objects;
 public class ClassAndLevel {
     private String className;
     private int lvl;
+    private boolean allLvl = false;
+    private boolean allClasses = false;
+
+    public static ClassAndLevel allClassesAndLvl() {
+        return new ClassAndLevel();
+    }
 
     public ClassAndLevel(String className, int lvl) {
         this.className = className;
         this.lvl = lvl;
+    }
+
+    private ClassAndLevel() {
+        this.allClasses = true;
+        this.allLvl = true;
     }
 
     @Override
@@ -31,5 +42,13 @@ public class ClassAndLevel {
 
     public int getLvl() {
         return lvl;
+    }
+
+    public boolean isAllLvl() {
+        return allLvl;
+    }
+
+    public boolean isAllClasses() {
+        return allClasses;
     }
 }

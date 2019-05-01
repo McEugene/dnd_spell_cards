@@ -2,6 +2,7 @@ package be.rha.dnd;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 import static be.rha.dnd.Constants.MINIFIER;
 
@@ -68,16 +69,20 @@ public class Spell {
     }
 
     public void buildClassAndLevels() {
-        String[] splittedByClassAndLevel = classAndLevel.split(",");
-        for (int i = 0; i < splittedByClassAndLevel.length; i++) {
-            String[] splitted = splittedByClassAndLevel[i].trim().split(" ");
-            classAndLevels.add(new ClassAndLevel(splitted[0], Integer.valueOf(splitted[1])));
+        if (!classAndLevel.trim().isEmpty()) {
+            String[] splittedByClassAndLevel = classAndLevel.split(",");
+            for (int i = 0; i < splittedByClassAndLevel.length; i++) {
+                String[] splitted = splittedByClassAndLevel[i].trim().split(" ");
+                classAndLevels.add(new ClassAndLevel(splitted[0], Integer.valueOf(splitted[1])));
+            }
+        } else {
+            classAndLevels.add(ClassAndLevel.allClassesAndLvl());
         }
     }
 
     private String removeLineHeader(int i) {
         String[] splitted = lines.get(i).split(":");
-        return splitted.length == 1 ? splitted[0].trim() : splitted[1].trim();
+        return splitted.length == 1 ? "" : splitted[1].trim();
     }
 
     public String toTex() {
@@ -139,13 +144,13 @@ public class Spell {
     public boolean hasClass(List<String> classes) {
         return classAndLevels
                 .stream()
-                .anyMatch(cal -> classes.contains(cal.getClassName()));
+                .anyMatch(cal -> cal.isAllClasses() || classes.contains(cal.getClassName()));
     }
 
     public boolean hasLvl(List<Integer> lvls) {
         return classAndLevels
                 .stream()
-                .anyMatch(cal -> lvls.contains(cal.getLvl()));
+                .anyMatch(cal -> cal.isAllLvl() || lvls.contains(cal.getLvl()));
     }
 
     public String getName() {
@@ -154,5 +159,32 @@ public class Spell {
 
     public void enrich(SpellSummary spellSummary) {
         enrich(spellSummary.getSummary(), spellSummary.getBook(), spellSummary.getPage());
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Spell spell = (Spell) o;
+        return Objects.equals(getName(), spell.getName()) &&
+                Objects.equals(type, spell.type) &&
+                Objects.equals(classAndLevel, spell.classAndLevel) &&
+                Objects.equals(components, spell.components) &&
+                Objects.equals(castTime, spell.castTime) &&
+                Objects.equals(range, spell.range) &&
+                Objects.equals(target, spell.target) &&
+                Objects.equals(duration, spell.duration) &&
+                Objects.equals(save, spell.save) &&
+                Objects.equals(magicResist, spell.magicResist) &&
+                Objects.equals(areaOfEffect, spell.areaOfEffect) &&
+                Objects.equals(description, spell.description) &&
+                Objects.equals(summary, spell.summary) &&
+                Objects.equals(book, spell.book) &&
+                Objects.equals(page, spell.page);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getName(), type, classAndLevel, components, castTime, range, target, duration, save, magicResist, areaOfEffect, description, summary, book, page);
     }
 }
