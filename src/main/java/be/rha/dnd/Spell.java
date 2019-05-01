@@ -10,6 +10,7 @@ public class Spell {
     public static final String LATEX_NEW_LINE = "\\\\\n";
 
     private transient List<String> lines = new ArrayList<>();
+    private transient List<ClassAndLevel> classAndLevels = new ArrayList<>();
     private String name = "";
     private String type = "";
     private String classAndLevel = "";
@@ -62,6 +63,15 @@ public class Spell {
                 }
                 description += lines.get(i);
             }
+        }
+        buildClassAndLevels();
+    }
+
+    public void buildClassAndLevels() {
+        String[] splittedByClassAndLevel = classAndLevel.split(",");
+        for (int i = 0; i < splittedByClassAndLevel.length; i++) {
+            String[] splitted = splittedByClassAndLevel[i].trim().split(" ");
+            classAndLevels.add(new ClassAndLevel(splitted[0], Integer.valueOf(splitted[1])));
         }
     }
 
@@ -124,5 +134,17 @@ public class Spell {
         this.summary = summary;
         this.book = book;
         this.page = page;
+    }
+
+    public boolean hasClass(List<String> classes) {
+        return classAndLevels
+                .stream()
+                .anyMatch(cal -> classes.contains(cal.getClassName()));
+    }
+
+    public boolean hasLvl(List<Integer> lvls) {
+        return classAndLevels
+                .stream()
+                .anyMatch(cal -> lvls.contains(cal.getLvl()));
     }
 }

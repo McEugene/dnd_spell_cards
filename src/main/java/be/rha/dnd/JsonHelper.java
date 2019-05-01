@@ -29,8 +29,7 @@ public class JsonHelper {
     }
 
     public List<Spell> readSpells(String fileName) throws FileNotFoundException {
-        Type collectionType = new TypeToken<Collection<Spell>>() {
-        }.getType();
+        Type collectionType = new TypeToken<Collection<Spell>>() {}.getType();
         JsonReader reader = new JsonReader(new FileReader(fileName));
         return GSON.fromJson(reader, collectionType);
     }

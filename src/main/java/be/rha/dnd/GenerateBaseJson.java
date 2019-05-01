@@ -5,18 +5,27 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
+import java.util.stream.Collectors;
 
 import static be.rha.dnd.Constants.*;
 
 public class GenerateBaseJson {
 
+    private static final List<String> CLASSES = Collections.singletonList("Prêtre");
+    private static final List<Integer> LVLS = Arrays.asList(0, 1, 2, 3, 4);
+
     public static void main(String[] args) {
         try {
             List<Spell> spells = getSpells();
             spells.forEach(Spell::build);
-
-            JSON_HELPER.writeSpells(spells, BASE_JSON_FILE_NAME);
+            List<Spell> filteredSpells = spells.stream()
+                    .filter(spell -> spell.hasClass(CLASSES))
+                    .filter(spell -> spell.hasLvl(LVLS))
+                    .collect(Collectors.toList());
+            JSON_HELPER.writeSpells(filteredSpells, BASE_JSON_FILE_NAME);
         } catch (IOException e) {
             e.printStackTrace();
         }
