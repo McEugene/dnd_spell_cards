@@ -7,10 +7,8 @@ import java.util.Objects;
 import static be.rha.dnd.Constants.MINIFIER;
 
 public class Spell {
-    private static final int DESCRIPTION_MAX_CHAR = 1000;
     public static final String LATEX_NEW_LINE = "\\\\\n";
-
-    private transient List<String> lines = new ArrayList<>();
+    private static final int DESCRIPTION_MAX_CHAR = 1000;
     private transient List<ClassAndLevel> classAndLevels = new ArrayList<>();
     private String name = "";
     private String type = "";
@@ -27,63 +25,6 @@ public class Spell {
     private String summary = "";
     private String book = "";
     private String page = "";
-
-    public void addLine(String line) {
-        lines.add(line);
-    }
-
-    public String popLine() {
-        return lines.remove(lines.size() - 1);
-    }
-
-    public void build() {
-        for (int i = 0; i < lines.size(); i++) {
-            if (i == 0) {
-                setNameAndType(lines.get(i));
-            } else if (lines.get(i).startsWith("Niveau :")) {
-                classAndLevel = removeLineHeader(i);
-            } else if (lines.get(i).startsWith("Composantes :")) {
-                components = removeLineHeader(i);
-            } else if (lines.get(i).startsWith("Temps d'incantation :")) {
-                castTime = removeLineHeader(i);
-            } else if (lines.get(i).startsWith("Portée :")) {
-                range = removeLineHeader(i);
-            } else if (lines.get(i).startsWith("Cible :")) {
-                target = removeLineHeader(i);
-            } else if (lines.get(i).startsWith("Durée :")) {
-                duration = removeLineHeader(i);
-            } else if (lines.get(i).startsWith("Jet de sauvegarde :")) {
-                save = removeLineHeader(i);
-            } else if (lines.get(i).startsWith("Résistance à la magie :")) {
-                magicResist = removeLineHeader(i);
-            } else if (lines.get(i).startsWith("Zone d'effet :")) {
-                areaOfEffect = removeLineHeader(i);
-            } else {
-                if (!description.isEmpty()) {
-                    description += "\n";
-                }
-                description += lines.get(i);
-            }
-        }
-        buildClassAndLevels();
-    }
-
-    public void buildClassAndLevels() {
-        if (!classAndLevel.trim().isEmpty()) {
-            String[] splittedByClassAndLevel = classAndLevel.split(",");
-            for (int i = 0; i < splittedByClassAndLevel.length; i++) {
-                String[] splitted = splittedByClassAndLevel[i].trim().split(" ");
-                classAndLevels.add(new ClassAndLevel(splitted[0], Integer.valueOf(splitted[1])));
-            }
-        } else {
-            classAndLevels.add(ClassAndLevel.allClassesAndLvl());
-        }
-    }
-
-    private String removeLineHeader(int i) {
-        String[] splitted = lines.get(i).split(":");
-        return splitted.length == 1 ? "" : splitted[1].trim();
-    }
 
     public String toTex() {
         return String.format("\\begin{spell}{%s}{%s}{%s}{%s}{%s}{%s}{%s}{%s}\n\n%s\n\n\\end{spell}\n",
@@ -115,32 +56,6 @@ public class Spell {
         }
     }
 
-    private void setNameAndType(String nameAndType) {
-        int indexOfBracket = nameAndType.indexOf("[");
-        int indexOfParenthesis = nameAndType.indexOf("(");
-        int index;
-        if (indexOfBracket != -1 && indexOfParenthesis != -1) {
-            index = Math.min(indexOfBracket, indexOfParenthesis);
-        } else {
-            index = Math.max(indexOfBracket, indexOfParenthesis);
-        }
-        String noBracketOrPar;
-        if (index != -1) {
-            noBracketOrPar = nameAndType.substring(0, index).trim();
-        } else {
-            noBracketOrPar = nameAndType;
-        }
-        int spaceIndex = noBracketOrPar.lastIndexOf(" ");
-        name = noBracketOrPar.substring(0, spaceIndex).trim();
-        type = nameAndType.substring(spaceIndex).trim();
-    }
-
-    public void enrich(String summary, String book, String page) {
-        this.summary = summary;
-        this.book = book;
-        this.page = page;
-    }
-
     public boolean hasClass(List<String> classes) {
         return classAndLevels
                 .stream()
@@ -157,8 +72,137 @@ public class Spell {
         return name;
     }
 
-    public void enrich(SpellSummary spellSummary) {
-        enrich(spellSummary.getSummary(), spellSummary.getBook(), spellSummary.getPage());
+    public List<ClassAndLevel> getClassAndLevels() {
+        return classAndLevels;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public String getClassAndLevel() {
+        return classAndLevel;
+    }
+
+    public String getComponents() {
+        return components;
+    }
+
+    public String getCastTime() {
+        return castTime;
+    }
+
+    public String getRange() {
+        return range;
+    }
+
+    public String getTarget() {
+        return target;
+    }
+
+    public String getDuration() {
+        return duration;
+    }
+
+    public String getSave() {
+        return save;
+    }
+
+    public String getMagicResist() {
+        return magicResist;
+    }
+
+    public String getAreaOfEffect() {
+        return areaOfEffect;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public String appendDescription(String toAppend) {
+        description += toAppend;
+        return getDescription();
+    }
+
+    public String getSummary() {
+        return summary;
+    }
+
+    public String getBook() {
+        return book;
+    }
+
+    public String getPage() {
+        return page;
+    }
+
+    public void setClassAndLevels(List<ClassAndLevel> classAndLevels) {
+        this.classAndLevels = classAndLevels;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public void setClassAndLevel(String classAndLevel) {
+        this.classAndLevel = classAndLevel;
+    }
+
+    public void setComponents(String components) {
+        this.components = components;
+    }
+
+    public void setCastTime(String castTime) {
+        this.castTime = castTime;
+    }
+
+    public void setRange(String range) {
+        this.range = range;
+    }
+
+    public void setTarget(String target) {
+        this.target = target;
+    }
+
+    public void setDuration(String duration) {
+        this.duration = duration;
+    }
+
+    public void setSave(String save) {
+        this.save = save;
+    }
+
+    public void setMagicResist(String magicResist) {
+        this.magicResist = magicResist;
+    }
+
+    public void setAreaOfEffect(String areaOfEffect) {
+        this.areaOfEffect = areaOfEffect;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public void setSummary(String summary) {
+        this.summary = summary;
+    }
+
+    public void setBook(String book) {
+        this.book = book;
+    }
+
+    public void setPage(String page) {
+        this.page = page;
+    }
+
+    public void addClassAndLevel(ClassAndLevel cal) {
+        classAndLevels.add(cal);
     }
 
     @Override

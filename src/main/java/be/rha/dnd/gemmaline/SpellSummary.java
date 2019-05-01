@@ -1,4 +1,4 @@
-package be.rha.dnd;
+package be.rha.dnd.gemmaline;
 
 public class SpellSummary {
 

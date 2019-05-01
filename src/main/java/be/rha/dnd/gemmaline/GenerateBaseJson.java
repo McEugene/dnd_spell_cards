@@ -1,8 +1,8 @@
-package be.rha.dnd;
+package be.rha.dnd.gemmaline;
+
+import be.rha.dnd.Spell;
 
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
@@ -15,6 +15,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 import static be.rha.dnd.Constants.*;
+import static be.rha.dnd.gemmaline.GemmalineJsonHelper.BASE_JSON_FILE_NAME;
 
 public class GenerateBaseJson {
 
@@ -23,8 +24,8 @@ public class GenerateBaseJson {
 
     public static void main(String[] args) {
         try {
-            List<Spell> spells = getSpells();
-            spells.forEach(Spell::build);
+            List<GemmalineSpell> spells = getSpells();
+            spells.forEach(GemmalineSpell::build);
             List<Spell> filteredSpells = spells.stream()
                     .distinct()
                     .filter(spell -> spell.hasClass(CLASSES))
@@ -36,29 +37,29 @@ public class GenerateBaseJson {
         }
     }
 
-    private static List<Spell> getSpells() throws IOException {
+    private static List<GemmalineSpell> getSpells() throws IOException {
         List<Path> paths = Files.list(Paths.get("src/main/resources/books"))
                 .filter(Files::isRegularFile)
                 .collect(Collectors.toList());
-        List<Spell> allSpells = new ArrayList<>();
+        List<GemmalineSpell> allSpells = new ArrayList<>();
         for (Path path : paths) {
             allSpells.addAll(getSpells(path));
         }
         return allSpells;
     }
 
-    private static List<Spell> getSpells(Path filePath) throws IOException {
-        List<Spell> spells;
+    private static List<GemmalineSpell> getSpells(Path filePath) throws IOException {
+        List<GemmalineSpell> spells;
         try (BufferedReader b = Files.newBufferedReader(filePath, Charset.forName("UTF-8"))) {
             String readLine;
             spells = new ArrayList<>();
-            Spell spell = new Spell();
+            GemmalineSpell spell = new GemmalineSpell();
             spells.add(spell);
             boolean first = true;
             while ((readLine = b.readLine()) != null) {
                 if (readLine.startsWith("Niveau :")) {
                     if (!first) {
-                        Spell newSpell = new Spell();
+                        GemmalineSpell newSpell = new GemmalineSpell();
                         newSpell.addLine(spell.popLine());
                         spell = newSpell;
                         spells.add(spell);
