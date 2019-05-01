@@ -1,0 +1,2738 @@
+[
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 0",
+		"name": "Blessure superficielle",
+		"school": "N\u00e9cromancie",
+		"summary": "le pr\u00eatre g\u00e9n\u00e8re un transfert d'\u00e9nergie n\u00e9gative faisant perdre 1 point de vie \u00e0 sa cible. (JdS Vol annule)"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 0",
+		"name": "Cr\u00e9ation d'eau",
+		"school": "Invocation (cr\u00e9ation) [eau]",
+		"summary": "Cr\u00e9e 8 litres d'eau pure/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 0",
+		"name": "D\u00e9tection de la magie",
+		"school": "Universel",
+		"summary": "D\u00e9tecte sorts et objets magiques \u00e0 18 m \u00e0 la ronde."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 0",
+		"name": "D\u00e9tection du poison",
+		"school": "Divination",
+		"summary": "D\u00e9tecte le poison chez 1 cr\u00e9ature ou 1 petit objet."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "Pr\u00ea 0",
+		"name": "Lecture de la magie",
+		"school": "Divination",
+		"summary": "Permet de lire parchemins et livres de sorts."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, M/FD",
+		"level": "Pr\u00ea 0",
+		"name": "Lumi\u00e8re",
+		"school": "\u00c9vocation [lumi\u00e8re]",
+		"summary": "Fait briller un objet comme une torche."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 0",
+		"name": "Purification de nourriture et deau",
+		"school": "Transmutation",
+		"summary": "Purifie 30 dm\u00b3/niveau de nourriture et d'eau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 0",
+		"name": "R\u00e9paration",
+		"school": "Transmutation",
+		"summary": "R\u00e9pare sommairement un objet."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 0",
+		"name": "R\u00e9sistance",
+		"school": "Abjuration",
+		"summary": "Conf\u00e8re +1 aux jets de sauvegarde."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 0",
+		"name": "Soins superficiels",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Rend 1 pv \u00e0 la cible."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 0",
+		"name": "Stimulant",
+		"school": "Transmutation",
+		"summary": "Conf\u00e8re 1 pv temporaire \u00e0 la cible."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "Alignement ind\u00e9tectable",
+		"school": "Abjuration",
+		"summary": "emp\u00eache de conna\u00eetre par divination l'alignement de la cr\u00e9ature ou de l'objet prot\u00e9g\u00e9."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "Anath\u00e8me",
+		"school": "N\u00e9cromancie [mental, terreur]",
+		"summary": "Cette mal\u00e9diction emplit la cible d'une vive terreur qui lui fait perdre toute confiance. Elle est secou\u00e9e."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "Arme magique",
+		"school": "Transmutation",
+		"summary": "Conf\u00e8re un bonus de +1 \u00e0 une arme."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "B\u00e9n\u00e9diction",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "bonus de moral de +1, tant aux jets d'attaque qu'aux jets de sauvegarde contre la terreur"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 1",
+		"name": "B\u00e9n\u00e9diction de l'eau",
+		"school": "Transmutation [Bien]",
+		"summary": "transforme 1/2 l d'eau commune en eau b\u00e9nite"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 1",
+		"name": "Blessure l\u00e9g\u00e8re",
+		"school": "N\u00e9cromancie",
+		"summary": "\u00e9nergie n\u00e9gative infligeant 1d8 points de d\u00e9g\u00e2ts, +1 par niveau de lanceur de sorts (jusqu'\u00e0 un maximum de +5), \u00e0 une cible"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 1",
+		"name": "Bouclier de la foi",
+		"school": "Abjuration",
+		"summary": "+2 \u00e0 la CA, +1 tous les six niveaux de lanceur de sorts (jusqu'\u00e0 un bonus maximum de +5 au niveau 18)"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 1",
+		"name": "Bouclier entropique",
+		"school": "Abjuration",
+		"summary": "chaque attaque \u00e0 distance prenant le personnage pour cible a 20 % de chances de le rater"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 1",
+		"name": "Brume de dissimulation",
+		"school": "Invocation (cr\u00e9ation)",
+		"summary": "Le PJ est entour\u00e9 de brouillard."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 1",
+		"name": "Compr\u00e9hension des langages",
+		"school": "Divination",
+		"summary": "Le PJ comprend tous les langages \u00e9crits ou parl\u00e9s."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "Convocation de monstres I",
+		"school": "Invocation (convocation)",
+		"summary": "Appelle une cr\u00e9ature extraplanaire de niveau 1  luttant pour le PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 1",
+		"name": "D\u00e9tection de la Loi",
+		"school": "Divination",
+		"summary": "R\u00e9v\u00e8le l'aura des cr\u00e9atures, sorts out objets."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 1",
+		"name": "D\u00e9tection des morts-vivants",
+		"school": "Divination",
+		"summary": "R\u00e9v\u00e8le les morts-vivants \u00e0 18 m ou moins."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 1",
+		"name": "D\u00e9tection du Bien",
+		"school": "Divination",
+		"summary": "R\u00e9v\u00e8le l'aura des cr\u00e9atures, sorts out objets."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "D\u00e9tection du Chaos",
+		"school": "Divination",
+		"summary": "Ce sort d\u00e9c\u00e8le la pr\u00e9sence, l'intensit\u00e9 et le nombre d'aura chaotiques"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "D\u00e9tection du Mal",
+		"school": "Divination",
+		"summary": "R\u00e9v\u00e8le l'aura des cr\u00e9atures, sorts out objets."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 3",
+		"name": "Dissimulation d'objet",
+		"school": "Abjuration",
+		"summary": "Dissimule un objet \u00e0 la scrutation."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 1",
+		"name": "Endurance aux \u00e9nergies destructives",
+		"school": "Abjuration",
+		"summary": "Prot\u00e8ge des environnements chauds ou froids."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "Faveur divine",
+		"school": "\u00c9vocation",
+		"summary": "Faisant appel \u00e0 la sagesse de son dieu, le perso obtient  +1/3niv du LS en attaque et d\u00e9g\u00e2ts"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 1",
+		"name": "Frayeur",
+		"school": "N\u00e9cromancie [mental, terreur]",
+		"summary": "Une cr\u00e9ature \u00e0 5 DV ou moins fuit pendant 1d4 rounds."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "Impr\u00e9cation",
+		"school": "Enchantement (coercition) [mental, terreur]",
+		"summary": "Etant le contraire de B\u00e9n\u00e9diction, ce sort s\u00e8me doute et crainte chez l'adversaire, lui infligeant -1 aux jets d'attaque et JdS  Terreur."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V",
+		"level": "Pr\u00ea 1",
+		"name": "Injonction",
+		"school": "Enchantement (coercition) [langage, mental]",
+		"summary": "Le pr\u00eatre donne \u00e0 la cible un ordre d'un mot, qu'elle s'applique \u00e0 suivre de son mieux."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "Invisibilit\u00e9 pour les morts-vivants",
+		"school": "Abjuration",
+		"summary": "Les morts-vivants ne peuvent ni voir, ni entendre, ni sentir les cr\u00e9atures prot\u00e9g\u00e9es"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 1",
+		"name": "Mal\u00e9diction de l'eau",
+		"school": "N\u00e9cromancie [Mal]",
+		"summary": "Transforme un demi litre d'eau en eau maudite"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 1",
+		"name": "Perception de la mort",
+		"school": "N\u00e9cromancie [Mal]",
+		"summary": "R\u00e9v\u00e8le l'\u00e9tat de sant\u00e9 des cr\u00e9atures \u00e0 9 m \u00e0 la ronde"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "Pierre magique",
+		"school": "Transmutation",
+		"summary": "3 projectiles gagnent +1 aux jets d'attaque, infligent 1d6+1 points de d\u00e9g\u00e2ts."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 1",
+		"name": "Protection contre la Loi",
+		"school": "Abjuration [Chaos]",
+		"summary": "+2 \u00e0 la CA et aux jets de sauvegarde, emp\u00eache le contr\u00f4le mental, repousse \u00e9l\u00e9mentaires et Ext\u00e9rieurs."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 1",
+		"name": "Protection contre le Bien",
+		"school": "Abjuration [Mal]",
+		"summary": "+2 \u00e0 la CA et aux jets de sauvegarde, emp\u00eache le contr\u00f4le mental, repousse \u00e9l\u00e9mentaires et Ext\u00e9rieurs."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 1",
+		"name": "Protection contre le Chaos",
+		"school": "Abjuration [Loi]",
+		"summary": "+2 \u00e0 la CA et aux jets de sauvegarde, emp\u00eache le contr\u00f4le mental, repousse \u00e9l\u00e9mentaires et Ext\u00e9rieurs."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 1",
+		"name": "Protection contre le Mal",
+		"school": "Abjuration [Bien]",
+		"summary": "+2 \u00e0 la CA et aux jets de sauvegarde, emp\u00eache le contr\u00f4le mental, repousse \u00e9l\u00e9mentaires et Ext\u00e9rieurs."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 1",
+		"name": "Regain d'assurance",
+		"school": "Abjuration",
+		"summary": "Donne au sujet un bonus de moral de +4 aux jets de sauvegarde contre la terreur pendant 10 minutes"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "R\u00e9paration int\u00e9grale",
+		"school": "Transmutation",
+		"summary": "Ce sort est semblable \u00e0 r\u00e9paration, si ce n'est qu'il r\u00e9pare totalement l'objet choisi, m\u00eame si celui-ci est endommag\u00e9 en de multiples endroits."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "R\u00e9sistance aux \u00e9nergies destructives",
+		"school": "Abjuration",
+		"summary": "Prot\u00e8ge contre la forme d'\u00e9nergie choisie \u00e0 raison de 10 points de d\u00e9g\u00e2ts/attaque."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "Restauration partielle",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Dissipe effets magiques affaiblissants ou rend 1d4 points de caract\u00e9ristique perdus."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "Sanctuaire",
+		"school": "Abjuration",
+		"summary": "Tout adversaire voulant attaquer le LS, ratant son JdS  Vol, est incapable d'attaquer le b\u00e9n\u00e9ficiaire"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 1",
+		"name": "Soins l\u00e9gers",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Rend 1d8 pv au sujet, +1/niveau (max. +5)."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "Soins mod\u00e9r\u00e9s",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Rend 2d8 pv au sujet, +1/niveau (max. +10)."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, M/FD",
+		"level": "Pr\u00ea 2",
+		"name": "T\u00e9n\u00e8bres",
+		"school": "Evocation Inf\u00e9rieure [obscurit\u00e9] (sorcier)",
+		"summary": "Obscurit\u00e9 surnaturelle sur 6 m de rayon."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Aide",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "bonus de moral de +1 aux jets d'attaque et aux JdS contre la terreur, et 1d8 points de vie temporaires +1 par niveau de lanceur de sorts"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Apaisement des \u00e9motions",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "calme (mais ne contr\u00f4le pas)  les cr\u00e9atures agit\u00e9es"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Arme align\u00e9e",
+		"school": "Transmutation [voir description]",
+		"summary": "Ce sort rend une arme bonne, mauvaise, loyale ou chaotique, au choix du pr\u00eatre."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Arme spirituelle",
+		"school": "\u00c9vocation [force]",
+		"summary": "Le pr\u00eatre cr\u00e9e une arme d'\u00e9nergie pure avec un alignement"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M, F",
+		"level": "",
+		"name": "Augure",
+		"school": "Divination",
+		"summary": "Augure r\u00e9v\u00e8le au pr\u00eatre si l'action que ses compagnons ou lui s'appr\u00eatent \u00e0 entreprendre aura de bonnes ou de mauvaises cons\u00e9quences dans un avenir proche."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "Blessure mod\u00e9r\u00e9e",
+		"school": "N\u00e9cromancie",
+		"summary": "\u00e9nergie n\u00e9gative infligeant 2d8 points de d\u00e9g\u00e2ts, +1 par niveau de lanceur de sorts (jusqu'\u00e0 un maximum de +10), \u00e0 une cible"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F/FD",
+		"level": "Pr\u00ea 2",
+		"name": "Cacophonie",
+		"school": "\u00c9vocation [son]",
+		"summary": "d\u00e9cha\u00eene une v\u00e9ritable cacophonie. Chaque cr\u00e9ature subit 1d8 points de vie et doit r\u00e9ussir un jet de Vigueur sous peine d'\u00eatre \u00e9tourdies pendant 1 round"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V",
+		"level": "Pr\u00ea 3",
+		"name": "C\u00e9cit\u00e9/surdit\u00e9",
+		"school": "N\u00e9cromancie",
+		"summary": "Rend la cible aveugle ou sourde."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Cons\u00e9cration",
+		"school": "\u00c9vocation [Bien]",
+		"summary": "Ce sort b\u00e9nit un lieu (+3 pour repousser les morts vivants, malus de -1 pour ces derniers,  en attaque, d\u00e9g\u00e2ts et JdS)"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Convocation de monstres II",
+		"school": "Invocation (convocation)",
+		"summary": "Appelle une cr\u00e9ature extraplanaire de niveau 2 (ou 1D3 de niv1) luttant pour le PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "D\u00e9livrance de la paralysie",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "D\u00e9livre de la paralysie, d'immobilisation et de lenteur"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "D\u00e9tection des pi\u00e8ges",
+		"school": "Divination",
+		"summary": "Le PJ rep\u00e8re les pi\u00e8ges comme un roublard."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "Discours captivant",
+		"school": "Enchantement (charme) [langage, mental, son]",
+		"summary": "Le perso captive un groupe en chantant ou discourant 1 R, apr\u00e8s lequel les individus affect\u00e9s boivent ses paroles et oublient ce qui les entoure."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, M/FD",
+		"level": "Pr\u00ea 4",
+		"name": "Don des langues",
+		"school": "Divination",
+		"summary": "Permet de parler toutes les langues."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Endurance de l'ours",
+		"school": "Transmutation",
+		"summary": "Conf\u00e8re +4 en Con pendant 1 minute/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 3",
+		"name": "Flamme \u00e9ternelle",
+		"school": "\u00c9vocation [lumi\u00e8re]",
+		"summary": "Torche permanente ne d\u00e9gageant aucune chaleur."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 2",
+		"name": "Force de taureau",
+		"school": "Transmutation",
+		"summary": "Conf\u00e8re +4 en Force pendant 1 minute/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 2",
+		"name": "Fracassement",
+		"school": "\u00c9vocation [son]",
+		"summary": "Endommage objets ou cr\u00e9atures cristallines."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F/FD",
+		"level": "Pr\u00ea 2",
+		"name": "Immobilisation de personne",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "Immobilise un humano\u00efde pendant 1 round/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F/FD",
+		"level": "Pr\u00ea 3",
+		"name": "Localisation d'objet",
+		"school": "Divination",
+		"summary": "Indique la direction de l'objet cherch\u00e9."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "Mise \u00e0 mort",
+		"school": "N\u00e9cromancie [Mal, mort]",
+		"summary": "Une cible se trouvant \u00e0 - de 0pv meurt si elle rate son JdS, et le LS gagne temporairemet 1D8 pv, +2 en For et +1 niv de LS (sorts +efficaces mais pas de nouveaux possibles)"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 3",
+		"name": "Mur de vent",
+		"school": "\u00c9vocation [air]",
+		"summary": "D\u00e9tourne projectiles, gaz et cr\u00e9atures de taille modeste."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 2",
+		"name": "Pr\u00e9servation des morts",
+		"school": "N\u00e9cromancie",
+		"summary": "Pr\u00e9serve un cadavre."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Profanation",
+		"school": "\u00c9vocation [Mal]",
+		"summary": "Impr\u00e8gne une zone d'\u00e9nergie n\u00e9gative. -3 aux jets de Cha pour repousser les morts vivants qui ont +1 \u00e0 l'attaque, d\u00e9gats et JdS"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 3",
+		"name": "Protection contre les \u00e9nergies destructives",
+		"school": "Abjuration",
+		"summary": "Absorbe 12 points de d\u00e9g\u00e2ts/niveau inflig\u00e9s par le type d'\u00e9nergie choisi."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "Pr\u00ea 2",
+		"name": "Protection d'autrui",
+		"school": "Abjuration",
+		"summary": "Le PJ subit 1/2 d\u00e9g\u00e2ts \u00e0 la place du sujet"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Ralentissement du poison",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Neutralise le poison pendant 1 heure/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "Rapport",
+		"school": "Divination",
+		"summary": "Permet de savoir o\u00f9 en sont ses compagnons en cas de s\u00e9paration du groupe."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 2",
+		"name": "Sagesse du hibou",
+		"school": "Transmutation",
+		"summary": "Conf\u00e8re +4 en Sag pendant 1 minute/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "Silence",
+		"school": "Illusion (hallucination)",
+		"summary": "Au terme de l'incantation, un silence absolu s'abat sur la zone choisie par le personnage"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 2",
+		"name": "Splendeur de l'aigle",
+		"school": "Transmutation",
+		"summary": "Conf\u00e8re +4 en Cha pendant 1 minute/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Zone de v\u00e9rit\u00e9",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "Les cr\u00e9atures affect\u00e9es ne peuvent pas mentir."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 4",
+		"name": "Ancre dimensionnelle",
+		"school": "Abjuration",
+		"summary": "Emp\u00eache tout d\u00e9placement extradimensionnel."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Animation des morts",
+		"school": "N\u00e9cromancie [Mal]",
+		"summary": "Cr\u00e9e squelettes et zombis morts- vivants."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 4",
+		"name": "Arme magique supr\u00eame",
+		"school": "Transmutation",
+		"summary": "Conf\u00e8re un bonus (+1 tous les 4 niveaux du LS)\u00e0 une arme (max. +5)."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Blessure grave",
+		"school": "N\u00e9cromancie",
+		"summary": "\u00e9nergie n\u00e9gative infligeant 3d8 points de d\u00e9g\u00e2ts, +1 par niveau de lanceur de sorts (jusqu'\u00e0 un maximum de +15), \u00e0 une cible"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 3",
+		"name": "Cercle magique contre la Loi",
+		"school": "Abjuration [Chaos]",
+		"summary": "Comme protection, mais avec un rayon de 3 m et une dur\u00e9e de 10 minutes/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 3",
+		"name": "Cercle magique contre le Bien",
+		"school": "Abjuration [Mal]",
+		"summary": "Comme protection, mais avec un rayon de 3 m et une dur\u00e9e de 10 minutes/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 3",
+		"name": "Cercle magique contre le Chaos",
+		"school": "Abjuration [Loi]",
+		"summary": "Comme protection, mais avec un rayon de 3 m et une dur\u00e9e de 10 minutes/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 3",
+		"name": "Cercle magique contre le Mal",
+		"school": "Abjuration [Bien]",
+		"summary": "Comme protection, mais avec un rayon de 3 m et une dur\u00e9e de 10 minutes/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 5",
+		"name": "Colonne de feu",
+		"school": "\u00c9vocation [feu]",
+		"summary": "Feu c\u00e9leste et divin (1d6 points de d\u00e9g\u00e2ts/niveau.)."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 3",
+		"name": "Communication avec les morts",
+		"school": "N\u00e9cromancie [langage]",
+		"summary": "Ce sort ranime partiellement un cadavre \u00e0 la vie, pouvant alors r\u00e9pondre \u00e0 1 question tous les 2 niv du Pr\u00eatre."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Contagion",
+		"school": "N\u00e9cromancie [Mal]",
+		"summary": "Infecte la cible."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 4",
+		"name": "Contr\u00f4le de l'eau",
+		"school": "Transmutation [eau]",
+		"summary": "Abaisse ou \u00e9l\u00e8ve le niveau de l'eau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 3",
+		"name": "Convocation de monstres III",
+		"school": "Invocation (convocation)",
+		"summary": "Appelle une cr\u00e9ature extraplanaire de niveau 3 (ou 1d3 de niv2 ou 1d4+1 de niv1) luttant pour le PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Cr\u00e9ation de nourriture et d'eau",
+		"school": "Invocation (cr\u00e9ation)",
+		"summary": "Ce sort fait appara\u00eetre une nourriture simple qui ne se conserve que 24h, et de l'eau pure qui se conserve."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "D\u00e9livrance des mal\u00e9dictions",
+		"school": "Abjuration",
+		"summary": "Lib\u00e8re des mal\u00e9dictions."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "D\u00e9tection du mensonge",
+		"school": "Divination",
+		"summary": "D\u00e9tecte si le sujet sur lequel se concentre le LS ment ou non"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Dissipation de la magie",
+		"school": "Abjuration",
+		"summary": "Annule sorts et effets magiques."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 4",
+		"name": "Divination",
+		"school": "Divination",
+		"summary": "Permet d'obtenir un indice important en rapport avec une question ayant trait \u00e0 un objectif, un \u00e9v\u00e9nement ou une activit\u00e9 devant avoir lieu dans la semaine \u00e0 venir"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Empoisonnement",
+		"school": "N\u00e9cromancie",
+		"summary": "Le sujet perd 1d10 points de Con, idem 1 minute plus tard."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 3",
+		"name": "Fa\u00e7onnage de la pierre",
+		"school": "Transmutation [terre]",
+		"summary": "Permet de modeler la pierre."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 3",
+		"name": "Fusion dans la pierre",
+		"school": "Transmutation [terre]",
+		"summary": "ermet d'entrer dans la pierre."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 3",
+		"name": "Glyphe de garde",
+		"school": "Abjuration",
+		"summary": "Cr\u00e9 un glyphe pour d\u00e9fendre un lieu ou un objet."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Gu\u00e9rison de la c\u00e9cit\u00e9/surdit\u00e9",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Soigne la c\u00e9cit\u00e9 ou la surdit\u00e9."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Gu\u00e9rison des maladies",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Gu\u00e9rit tous les maux du sujet."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Lumi\u00e8re br\u00fblante",
+		"school": "\u00c9vocation",
+		"summary": "De la main du LS jailli un rayon qui, s'il tuche sa cible, lui inflige 1d8 pv/ 2 niv du LS ( + si la cible craint la lumi\u00e8re mais - pour les  cr\u00e9atures artificielles))"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Lumi\u00e8re du jour",
+		"school": "\u00c9vocation [lumi\u00e8re]",
+		"summary": "Vive lumi\u00e8re sur 18 m de rayon."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 3",
+		"name": "Main du berger",
+		"school": "\u00c9vocation",
+		"summary": "Ce sort fait appara\u00eetre une main spectrale, que le perso peut envoyer \u00e0 la recherche de quelqu'un dans un rayon de 7,5 km"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Mal\u00e9diction",
+		"school": "N\u00e9cromancie",
+		"summary": "-6 \u00e0 une caract\u00e9ristique, -4 aux jets d'attaque, jets de sauvegarde et tests de comp\u00e9tence, ou 50 % de chances de perdre chaque action"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 3",
+		"name": "Marche sur l'onde",
+		"school": "Transmutation [eau]",
+		"summary": "Les b\u00e9n\u00e9ficiaires du sort peuvent marcher sur n'importe quel liquide avec autant d'aisance que sur la terre ferme"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "N\u00e9gation de l'invisibilit\u00e9",
+		"school": "\u00c9vocation",
+		"summary": "Dissipe l'invisibilit\u00e9 sur 1,50m/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 4",
+		"name": "Neutralisation du poison",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Rend le poison inoffensif."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 3",
+		"name": "Panoplie magique",
+		"school": "Transmutation",
+		"summary": "Donne un +1 d'alt\u00e9ration/4 niv de Pr\u00ea + enchante les vetements"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 3",
+		"name": "Pri\u00e8re",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "Ce sort permet au personnage de demander l'aide de son dieu pour ses alli\u00e9s (et lui-m\u00eame) tout en handicapant ses ennemis."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "R\u00e9pulsif",
+		"school": "Abjuration",
+		"summary": "Les insectes, araign\u00e9es et autres vermines restent \u00e0 3 m du PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 3",
+		"name": "Respiration aquatique",
+		"school": "Transmutation",
+		"summary": "Permet de respirer sous l'eau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD, F",
+		"level": "Pr\u00ea 5",
+		"name": "Scrutation",
+		"school": "Divination (scrutation)",
+		"summary": "Permet d'espionner le sujet \u00e0 distance."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Soins importants",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Rend 3d8 pv au sujet, +1/niveau (max. +15)."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 4",
+		"name": "Soins intensifs",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Rend 4d8 pv au sujet, +1/niveau (max. +20)."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD, PX",
+		"level": "Pr\u00ea 4",
+		"name": "Alli\u00e9 d'outreplan",
+		"school": "Invocation (appel) [voir description]",
+		"summary": "Le pr\u00eatre demande les services d'un \u00e9l\u00e9mentaire ou Ext\u00e9rieur de 6 DV ou moins"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 5",
+		"name": "Annulation d'enchantement",
+		"school": "Abjuration",
+		"summary": "Lib\u00e8re la cible des Enchantements, des alt\u00e9rations, des mal\u00e9dictions et de la p\u00e9trification."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 4",
+		"name": "Blessure critique",
+		"school": "N\u00e9cromancie",
+		"summary": "\u00e9nergie n\u00e9gative infligeant 4d8 points de d\u00e9g\u00e2ts, +1 par niveau de lanceur de sorts (jusqu'\u00e0 un maximum de +20), \u00e0 une cible"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "",
+		"name": "Ch\u00e2timent sacr\u00e9",
+		"school": "\u00c9vocation [Bien]",
+		"summary": "Aveugle les cr\u00e9atures neutre ou mauvaises 1R + 1d8 pv/niv du LS"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 4",
+		"name": "Communication \u00e0 distance",
+		"school": "\u00c9vocation",
+		"summary": "Transmet un court message n'importe o\u00f9."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "",
+		"name": "Convocation d'ombres",
+		"school": "Illusion (ombre)",
+		"summary": "Reproduit les Invocations de 3e niveau ou moins ; 20 % sont r\u00e9elles."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F/FD",
+		"level": "Pr\u00ea 4",
+		"name": "Convocation de monstres IV",
+		"school": "Invocation (convocation)",
+		"summary": "Appelle une cr\u00e9ature extraplanaire de niveau 4 (ou 1d3 de niv3 ou 1d4+1 de niv moindre) luttant pour le PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "",
+		"name": "Courroux de l'ordre",
+		"school": "\u00c9vocation [Loi]",
+		"summary": "Les cr\u00e9atures chaotiques atteintes perdent 1d8 pv / 3 niv de LS  (1D6 par niv pour les ext\u00e9rieurs) qui sont de plus h\u00e9b\u00e9t\u00e9es 1R (annul\u00e9 par JdS Ref qui r\u00e9duit aussi les d\u00e9gats de 1/2)"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Immunit\u00e9 contre les sorts",
+		"school": "Abjuration",
+		"summary": "L'individu prot\u00e9g\u00e9 est immunis\u00e9 contre les effets d'un sort sp\u00e9cifique - 4e niveau maxi - tous les 4 niv du pr\u00eatre"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Libert\u00e9 de mouvement",
+		"school": "Abjuration",
+		"summary": "La cible bouge normalement malgr\u00e9 les entraves."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F/FD",
+		"level": "",
+		"name": "Localisation de cr\u00e9ature",
+		"school": "Divination",
+		"summary": "Indique la direction d'une cr\u00e9ature connue."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Marche dans les airs",
+		"school": "Transmutation",
+		"summary": "Le sujet marche dans les airs comme sur la terre ferme."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 5",
+		"name": "Marque de la justice",
+		"school": "N\u00e9cromancie",
+		"summary": "Un sujet consentant est marqu\u00e9 d'un signe le poussant \u00e0 rester dans \"le droit\" chemin ou, le cas \u00e9ch\u00e9ant, \u00e0 \u00eatre maudit"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "",
+		"name": "Marteau du Chaos",
+		"school": "\u00c9vocation [Chaos]",
+		"summary": "Ce sort g\u00e9n\u00e8re une \u00e9nergie chaotique qui frappe les adversaires du pr\u00eatre."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Protection contre la mort",
+		"school": "N\u00e9cromancie",
+		"summary": "Conf\u00e8re une immunit\u00e9 contre les sorts de mort et les effets d'\u00e9nergie n\u00e9gative."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Puissance divine",
+		"school": "\u00c9vocation",
+		"summary": "Donne au LS un BBA = \u00e0 son niveau, +6 en Force +1 pv/niv"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 5",
+		"name": "Rejet du Chaos",
+		"school": "Abjuration [Loi]",
+		"summary": "Ce sort est semblable \u00e0 rejet du Mal, si ce n'est que le pr\u00eatre est entour\u00e9 d'une lumi\u00e8re bleue, affectant les cr\u00e9atures chaotiques et les sorts du Chaos"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 5",
+		"name": "Rejet du Mal",
+		"school": "Abjuration [Bien]",
+		"summary": "Conf\u00e8re +4 \u00e0 la CA contre le mal, peut renvoyer une cr\u00e9ature du mal dans son plan d'origine et peut dissiper un sort du mal."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Renvoi",
+		"school": "Abjuration",
+		"summary": "Force une cr\u00e9ature \u00e0 repartir dans son plan d'origine."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 4",
+		"name": "Restauration",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Rend niveau et points de caract\u00e9ristiques perdus."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 5",
+		"name": "Soins l\u00e9gers de groupe",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Rend 1d8 pv \u00e0 de nombreuses cr\u00e9atures, +1/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "",
+		"name": "T\u00e9n\u00e8bres maudites",
+		"school": "\u00c9vocation [Mal]",
+		"summary": "Rend les cr\u00e9atures bonnes fi\u00e9vreuses 1D4R + 1D8pv/2 niv du LS ou 1D6 par niv pour les Ext\u00earieurs bons. Les neutres ont demi d\u00e9gats. Un JdS Vig  r\u00e9ussi divise par deux."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Transfert de sorts",
+		"school": "\u00c9vocation",
+		"summary": "Le pr\u00ea transf\u00e8re \u00e0 qui il veut un ou + sorts  pr\u00e9par\u00e9s"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Vermine g\u00e9ante",
+		"school": "Transmutation",
+		"summary": "Transforme les mille-pattes, scorpions et araign\u00e9es en vermine g\u00e9ante."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 5",
+		"name": "Arme destructrice",
+		"school": "Transmutation",
+		"summary": "Ce sort rend une arme de corps \u00e0 corps particuli\u00e8rement meurtri\u00e8re pour les morts-vivants."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 5",
+		"name": "Blessure l\u00e9g\u00e8re de groupe",
+		"school": "N\u00e9cromancie",
+		"summary": "\u00e9nergie n\u00e9gative infligeant 1d8 points de d\u00e9g\u00e2ts, +1 par niveau de lanceur de sorts (jusqu'\u00e0 un maximum de +5), \u00e0 toutes les cr\u00e9atures vivantes situ\u00e9es alentour."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "Pr\u00ea 5",
+		"name": "Changement de plan",
+		"school": "Invocation (t\u00e9l\u00e9portation)",
+		"summary": "Permet de changer de plan (8 sujets max.)."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M, FD, PX",
+		"level": "Pr\u00ea 5",
+		"name": "Communion",
+		"school": "Divination",
+		"summary": "Ce sort permet au pr\u00eatre de contacter son dieu (ou un serviteur) et de lui poser des questions auxquelles il r\u00e9pond par oui ou par non"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F/FD",
+		"level": "Pr\u00ea 5",
+		"name": "Convocation de monstres V",
+		"school": "Invocation (convocation)",
+		"summary": "Appelle une cr\u00e9ature extraplanaire de niveau 5 (ou 1d3 de niv4 ou 1d4+1 de niv moindre) luttant pour le PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 6",
+		"name": "Dissipation supr\u00eame",
+		"school": "Abjuration",
+		"summary": "Comme dissipation de la magie, mais jusqu'\u00e0 +20."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 5",
+		"name": "Ex\u00e9cution",
+		"school": "N\u00e9cromancie [mort]",
+		"summary": "Le pr\u00ea, si il r\u00e9ussit son att au corps \u00e0 corps, tue une cr\u00e9ature si elle rate son JdS Vig (elle perd de toutes fa\u00e7ons 3d6 pv +1/niv du LS)"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 5",
+		"name": "Fl\u00e9au d'insectes",
+		"school": "Invocation (convocation) [voir texte]",
+		"summary": "Convoque une nu\u00e9e de criquets tout les 3 niveaux"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 5",
+		"name": "Force du colosse",
+		"school": "Transmutation",
+		"summary": "Double la taille. x8 le poids. +4 en For,  +2 en Con et CA + R\u00e9duction des d\u00e9g\u00e2ts"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V",
+		"level": "Pr\u00ea 5",
+		"name": "Injonction supr\u00eame",
+		"school": "Enchantement (coercition) [langage, mental]",
+		"summary": "Le LS donne \u00e0 une cr\u00e9ature par niveau un ordre d'un mot, qu'elle s'applique \u00e0 suivre de son mieux"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "",
+		"name": "Mur d'\u00e9pines",
+		"school": "Invocation (cr\u00e9ation)",
+		"summary": "\u00c9pines blessant quiconque tente de passer."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 5",
+		"name": "Mur de pierre",
+		"school": "Invocation (cr\u00e9ation) [terre]",
+		"summary": "Cr\u00e9e un mur qui peut \u00eatre fa\u00e7onn\u00e9."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M, F, FD, PX",
+		"level": "Pr\u00ea 5",
+		"name": "P\u00e9nitence",
+		"school": "Abjuration",
+		"summary": "Permet au sujet d'expier ses fautes."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M, FD",
+		"level": "Pr\u00ea 5",
+		"name": "Rappel \u00e0 la vie",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Le personnage rend la vie \u00e0 un d\u00e9funt."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 5",
+		"name": "Rejet de la Loi",
+		"school": "Abjuration [Chaos]",
+		"summary": "Ce sort donne un bonus de +4 \u00e0 la CA contre les cr\u00e9atures loyales ou la renvoie dans son plan d'origine ou  dissipe un sort de la Loi"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 5",
+		"name": "Rejet du Bien",
+		"school": "Abjuration [Mal]",
+		"summary": "Donne  +4 \u00e0 la CA contre les cr\u00e9atures bonnes et  chasse un Ext\u00earieur bon si attaque corps \u00e0 corps r\u00e9ussi et JdS Vol et RM  rat\u00e9s ou dissipe un sort du Bien"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 5",
+		"name": "R\u00e9sistance \u00e0 la magie",
+		"school": "Abjuration",
+		"summary": "L'individu touch\u00e9 acquiert une r\u00e9sistance \u00e0 la magie \u00e9gale \u00e0 12 + niveau de lanceur de sorts."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M, FD",
+		"level": "Pr\u00ea 5",
+		"name": "Sanctification",
+		"school": "\u00c9vocation [Bien]",
+		"summary": "Rend un site sacr\u00e9."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 5",
+		"name": "Sanctification mal\u00e9fique",
+		"school": "\u00c9vocation [Mal]",
+		"summary": "Rend un site maudit."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 5",
+		"name": "Symbole de douleur",
+		"school": "N\u00e9cromancie [Mal]",
+		"summary": "La rune inflige de terribles douleurs."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 5",
+		"name": "Symbole de sommeil",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "La rune plonge les cr\u00e9atures proches dans un sommeil catatonique."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 5",
+		"name": "Vision lucide",
+		"school": "Divination",
+		"summary": "Permet de voir les choses telles qu'elles sont."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD, PX",
+		"level": "Pr\u00ea 6",
+		"name": "Alli\u00e9 majeur d'outreplan",
+		"school": "Invocation (appel) [voir description d'alli\u00e9 d'outreplan]",
+		"summary": "Le pr\u00eatre demande les services d'une entit\u00e9 ayant jusqu'\u00e0 12 DV"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 6",
+		"name": "Animation d'objets",
+		"school": "Transmutation",
+		"summary": "Ce sort anime les objets inertes et leur donne un semblant de vie"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 6",
+		"name": "Annihilation de mort-vivant",
+		"school": "N\u00e9cromancie",
+		"summary": "D\u00e9truit 1d4 DV de morts- vivants/niveau (max. 20d4)."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "Pr\u00ea 6",
+		"name": "Bannissement",
+		"school": "Abjuration",
+		"summary": "Bannit 2 DV/niveau de cr\u00e9atures extraplanaires."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 6",
+		"name": "Barri\u00e8re de lames",
+		"school": "\u00c9vocation [force]",
+		"summary": "Ce sort fait appara\u00eetre un mur de lames ac\u00e9r\u00e9es comme des rasoirs qui tourbillonnent autour dun point central, cr\u00e9ant ainsi une barri\u00e8re immobile et verticale."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 6",
+		"name": "Blessure mod\u00e9r\u00e9e de groupe",
+		"school": "N\u00e9cromancie",
+		"summary": "2d8 points de d\u00e9g\u00e2ts, +1 / niv de LS jusqu'\u00e0 un maximum de +30, \u00e0 toutes les cr\u00e9atures vivantes situ\u00e9es alentour"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F/FD",
+		"level": "Pr\u00ea 7",
+		"name": "Champ de force",
+		"school": "Abjuration",
+		"summary": "Nul ne peut approcher du PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 7",
+		"name": "Contr\u00f4le du climat",
+		"school": "Transmutation",
+		"summary": "Modifie le climat local."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F/FD",
+		"level": "Pr\u00ea 6",
+		"name": "Convocation de monstres VI",
+		"school": "Invocation (convocation)",
+		"summary": "Appelle une cr\u00e9ature extraplanaire de niveau 6 (ou 1d3 de niv5 ou 1d4+1 de niv moindre) luttant pour le PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 6",
+		"name": "Coquille antivie",
+		"school": "Abjuration",
+		"summary": "Tient les cr\u00e9atures vivantes \u00e0 distance (3 m)."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 6",
+		"name": "Cr\u00e9ation de mort-vivant",
+		"school": "N\u00e9cromancie [Mal]",
+		"summary": "Cr\u00e9e des morts vivants puissants ( Goule, bl\u00eame, momie ou mohrg.)"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "",
+		"name": "Eclair multiple",
+		"school": "\u00c9vocation [\u00e9lectricit\u00e9]",
+		"summary": "1d6 pts de d\u00e9g\u00e2ts/niveau ; 1 \u00e9clair secondaire/niveau infligeant demi-d\u00e9g\u00e2ts."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 6",
+		"name": "Endurance de l'ours de groupe",
+		"school": "Transmutation",
+		"summary": "Les sujets b\u00e9n\u00e9f\u00e9cient de +4 en Const (pv, jds  Vig, tests ...)"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 6",
+		"name": "Festin des h\u00e9ros",
+		"school": "Invocation (cr\u00e9ation)",
+		"summary": "Le pr\u00eatre cr\u00e9e un grand festin"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 6",
+		"name": "Force de taureau de groupe",
+		"school": "Transmutation",
+		"summary": "Comme force de taureau, mais affecte 1 sujet/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 6",
+		"name": "Glyphe de garde supr\u00eame",
+		"school": "Abjuration",
+		"summary": "Cr\u00e9 un glyphe pour d\u00e9fendre un lieu ou un objet"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 6",
+		"name": "Gu\u00e9rison supr\u00eame",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Soigne 10 points de d\u00e9g\u00e2ts/niveau, les maladies et les troubles mentaux."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M, FD",
+		"level": "Pr\u00ea 6",
+		"name": "Interdiction",
+		"school": "Abjuration",
+		"summary": "Ce sort bloque les cr\u00e9atures \u00e0 l'AL diff\u00e9rent du LS en leur infligeant des d\u00e9gats + ou - importants en fonction de la diff\u00e9rence d'AL"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 6",
+		"name": "Mise \u00e0 mal",
+		"school": "N\u00e9cromancie",
+		"summary": "Ce sort transmet 10 pv/niv du LS d'\u00e9nergie n\u00e9gative \u00e0 la cible. (1/2 d\u00e9g\u00e2ts si JdS r\u00e9ussi)"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V",
+		"level": "Pr\u00ea 6",
+		"name": "Mot de rappel",
+		"school": "Invocation (t\u00e9l\u00e9portation)",
+		"summary": "T\u00e9l\u00e9porte le PJ \u00e0 un endroit choisi \u00e0 l'avance."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "Pr\u00ea 6",
+		"name": "Orientation",
+		"school": "Divination",
+		"summary": "Indique comment se rendre \u00e0 l'endroit choisi."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 6",
+		"name": "Qu\u00eate",
+		"school": "Enchantement (coercition) [langage, mental]",
+		"summary": "Comme mission, mais affecte n'importe quelle cr\u00e9ature."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 6",
+		"name": "Sagesse du hibou de groupe",
+		"school": "Transmutation",
+		"summary": "+4 en Sagesse, affecte 1 sujet/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 7",
+		"name": "Scrutation supr\u00eame",
+		"school": "Divination (scrutation)",
+		"summary": "Comme scrutation, mais plus rapidement et plus longtemps."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 6",
+		"name": "Soins mod\u00e9r\u00e9s de groupe",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Rend 2d8 pv \u00e0 de nombreuses cr\u00e9atures, +1/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 6",
+		"name": "Splendeur de l'aigle de groupe",
+		"school": "Transmutation",
+		"summary": "Comme splendeur de l'aigle (+4 en Charisme) , mais affecte 1 sujet/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 6",
+		"name": "Symbole de persuasion",
+		"school": "Enchantement (charme) [mental]",
+		"summary": "La rune charme les cr\u00e9atures proches."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 6",
+		"name": "Symbole de terreur",
+		"school": "N\u00e9cromancie [mental, terreur]",
+		"summary": "La rune frappe les cr\u00e9atures proches de panique."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 6",
+		"name": "Vent divin",
+		"school": "Transmutation [air]",
+		"summary": "Transforme les cibles en vapeur et les emporte rapidement."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 8",
+		"name": "Zone d'antimagie",
+		"school": "Abjuration",
+		"summary": "Cr\u00e9e une sph\u00e9re de 3m, se d\u00e9placant avec le LS, r\u00e9primant toute magie p\u00e9n\u00e9trant dans sa zone d'effet"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V",
+		"level": "Pr\u00ea 7",
+		"name": "Blasph\u00e8me",
+		"school": "\u00c9vocation [Mal, son]",
+		"summary": "Tue, paralyse, affaiblit ou h\u00e9b\u00e8te les cibles non mauvaises."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 7",
+		"name": "Blessure grave de groupe",
+		"school": "N\u00e9cromancie",
+		"summary": "\u00e9nergie n\u00e9gative infligeant 3d8 points de d\u00e9g\u00e2ts, +1 par niveau de lanceur de sorts (jusqu'\u00e0 un maximum de +35), \u00e0 toutes les cr\u00e9atures vivantes situ\u00e9es alentour."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F/FD",
+		"level": "Pr\u00ea 7",
+		"name": "Convocation de monstres VII",
+		"school": "Invocation (convocation)",
+		"summary": "Appelle une cr\u00e9ature extraplanaire de niveau 7 (ou 1d3 de niv6 ou 1d4+1 de niv moindre) luttant pour le PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V",
+		"level": "Pr\u00ea 7",
+		"name": "D\u00e9cret",
+		"school": "\u00c9vocation [Loi, son]",
+		"summary": "Les cr\u00e9atures d'AL autre que loyal entendant le D\u00e9cret sont affect\u00e9es selon leurs DV, allant de Assourdissement \u00e0 Mort en passant par Lenteur et Paralysie"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "Pr\u00ea 7",
+		"name": "Destruction",
+		"school": "N\u00e9cromancie [mort]",
+		"summary": "tue instantan\u00e9ment la cible et l'enveloppe d'un feu sacr\u00e9 (ou maudit) consumant son corps."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "",
+		"name": "Ecran",
+		"school": "Illusion (hallucination)",
+		"summary": "Emp\u00eache de voir dans une zone, m\u00eame par scrutation."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 7",
+		"name": "Forme \u00e9th\u00e9r\u00e9e",
+		"school": "Transmutation",
+		"summary": "Le PJ passe dans le plan \u00c9th\u00e9r\u00e9 pour 1 round/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V",
+		"level": "Pr\u00ea 7",
+		"name": "Parole du Chaos",
+		"school": "\u00c9vocation [Chaos, son]",
+		"summary": "Les cr\u00e9atures non chaotiques sont victimes d'\u00e9tourdissement, assourdissement et/ou confusion. Renvoi dans son plan d'origine si elle est extraplannaire"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V",
+		"level": "Pr\u00ea 7",
+		"name": "Parole sacr\u00e9e",
+		"school": "\u00c9vocation [Bien, son]",
+		"summary": "Les cr\u00e9atures d'alignement autre que bon subissent assourdissement, c\u00e9cit\u00e9 et/ou paralysise. Bannissement pour les cr\u00e9atures extraplannaires autres que bonnes (JDS -4)"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 7",
+		"name": "Refuge",
+		"school": "Transmutation [t\u00e9l\u00e9portation]",
+		"summary": "Enchante un objet pour ramener son possesseur jusqu'au PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 7",
+		"name": "R\u00e9g\u00e9n\u00e9ration",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Fait repousser les membres tranch\u00e9s, rend 4d8 points de vie, +1/niveau (max. +35)."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, PX",
+		"level": "Pr\u00ea 7",
+		"name": "Restauration supr\u00eame",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Ce sort dissipe tous les niveaux n\u00e9gatifs affectant la cible, qui retrouve le niveau maximum qu'elle ait jamais atteint, dissipe les effets r\u00e9duisant les caract\u00e9ristiques et fait dispara\u00eetre toutes les formes d'ali\u00e9nation mentale"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M, FD",
+		"level": "Pr\u00ea 7",
+		"name": "R\u00e9surrection",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Ram\u00e8ne un mort \u00e0 la vie."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 7",
+		"name": "Soins importants de groupe",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Rend 3d8 PV \u00e0 de nombreuses cr\u00e9atures, +1/niveau"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 7",
+		"name": "Symbole d'\u00e9tourdissement",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "La rune \u00e9tourdit les cr\u00e9atures proches."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 7",
+		"name": "Symbole de faiblesse",
+		"school": "N\u00e9cromancie",
+		"summary": "La rune affaiblit les cr\u00e9atures proches."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 8",
+		"name": "Temp\u00eate de feu",
+		"school": "\u00c9vocation [feu]",
+		"summary": "Inflige 1d6 points de d\u00e9g\u00e2ts de feu/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 8",
+		"name": "Tremblement de terre",
+		"school": "\u00c9vocation [terre]",
+		"summary": "Secousse sismique dans un rayon de 1,50 m/niv."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD, PX",
+		"level": "Pr\u00ea 8",
+		"name": "Alli\u00e9 supr\u00eame d'outreplan",
+		"school": "Invocation (appel) [voir description d'alli\u00e9 d'outreplan]",
+		"summary": "Le pr\u00eatre demande \u00e0 son dieu les services d'une entit\u00e9 ayant jusqu'\u00e0 18 DV, ou jusqu'\u00e0 3 cr\u00e9atures de m\u00eame type dont les DV cumul\u00e9s ne d\u00e9passent pas 18, de m\u00eame alignement que lui (s'il ne sert aucun dieu particulier), ou que son dieu lui enverra"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "Pr\u00ea 8",
+		"name": "Aura maudite",
+		"school": "Abjuration [Mal]",
+		"summary": "Les personnages sont entour\u00e9s d'une aura de t\u00e9n\u00e8bres les prot\u00e8geant des attaques et des sorts des cr\u00e9atures d'alignement bon, affaiblissant ces derni\u00e8res lorsqu'elles frappent les personnages."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "Pr\u00ea 8",
+		"name": "Aura sacr\u00e9e",
+		"school": "Abjuration [Bien]",
+		"summary": "Les personnages sont entour\u00e9s d'une aura de lumi\u00e8re les prot\u00e8geant des attaques et des sorts des cr\u00e9atures d'alignement mauvais, aveuglant ces derni\u00e8res lorsqu'elles frappent les personnages."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 8",
+		"name": "Blessure critique de groupe",
+		"school": "N\u00e9cromancie",
+		"summary": "\u00e9nergie n\u00e9gative infligeant 4d8 points de d\u00e9g\u00e2ts, +1 par niveau de lanceur de sorts (jusqu'\u00e0 un maximum de +40), \u00e0 toutes les cr\u00e9atures vivantes situ\u00e9es alentour."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "Pr\u00ea 8",
+		"name": "Bouclier de la Loi",
+		"school": "Abjuration [Loi]",
+		"summary": "Cr\u00e9  une aura bleut\u00e9e des attaques et des sorts des cr\u00e9atures chaotiques, ralentissant ces derni\u00e8res lorsqu'elles frappent les personnages"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F/FD",
+		"level": "Pr\u00ea 8",
+		"name": "Convocation de monstres VIII",
+		"school": "Invocation (convocation)",
+		"summary": "Appelle une cr\u00e9ature extraplanaire de niveau 8 (ou 1d3 de niv7 ou 1d4+1 de niv moindre) luttant pour le PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 8",
+		"name": "Cr\u00e9ation de mort-vivant dominant",
+		"school": "N\u00e9cromancie [Mal]",
+		"summary": "Ce sort  permet de cr\u00e9er des morts-vivants tr\u00e8s dangereux (Ombres, \u00e2me en peine, spectres ou d\u00e9voreur d'\u00e2me)"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 8",
+		"name": "Immunit\u00e9 contre les sorts supr\u00eame",
+		"school": "Abjuration",
+		"summary": "Comme immunit\u00e9 contre les sorts, mais jusqu'au 8\u00e8me niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 8",
+		"name": "Localisation supr\u00eame",
+		"school": "Divination",
+		"summary": "Localise pr\u00e9cis\u00e9ment une cr\u00e9ature ou un objet."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "Pr\u00ea 8",
+		"name": "Manteau du Chaos",
+		"school": "Abjuration [Chaos]",
+		"summary": "+4 \u00e0 la CA, bonus de r\u00e9sistance de +4 et RM de 25 contre les sorts de la Loi."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 8",
+		"name": "Soins intensifs de groupe",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Rend 4d8 pv \u00e0 de nombreuses cr\u00e9atures, +1/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 8",
+		"name": "Symbole d'ali\u00e9nation mentale",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "La rune frappe les cr\u00e9atures proches de d\u00e9mence."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "",
+		"level": "Pr\u00ea 8",
+		"name": "Symbole de mort",
+		"school": "N\u00e9cromancie [mort]",
+		"summary": "La rune tue les cr\u00e9atures proches atant r\u00e9at\u00e9 leur JdS Vigueur."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 8",
+		"name": "Verrou dimensionnel",
+		"school": "Abjuration",
+		"summary": "T\u00e9l\u00e9portation et voyages interplanaires bloqu\u00e9s pendant 1 jour/niveau."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 9",
+		"name": "Absorption d'\u00e9nergie",
+		"school": "N\u00e9cromancie",
+		"summary": "La cible gagne 2d4 niveaux n\u00e9gatifs."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F",
+		"level": "Pr\u00ea 9",
+		"name": "Capture d'\u00e2me",
+		"school": "N\u00e9cromancie",
+		"summary": "Retient l'\u00e2me d'un d\u00e9funt pour emp\u00eacher sa r\u00e9surrection."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, F/FD",
+		"level": "Pr\u00ea 9",
+		"name": "Convocation de monstres IX",
+		"school": "Invocation (convocation)",
+		"summary": "Appelle une ou plusieurs cr\u00e9atures extraplanaires luttant pour le PJ."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 9",
+		"name": "Gu\u00e9rison supr\u00eame de groupe",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Gu\u00e9rison qui fonctionne \u00e0 distance et sur plusieurs cr\u00e9atures \u00e0 la fois"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 9",
+		"name": "Implosion",
+		"school": "\u00c9vocation",
+		"summary": "Chaque round que le pr\u00eatre passe \u00e0 se concentrer, il tue une cr\u00e9ature diff\u00e9rente en provoquant son implosion"
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, PX (voir description)",
+		"level": "Pr\u00ea 9",
+		"name": "Miracle",
+		"school": "\u00c9vocation",
+		"summary": "Le pr\u00eatre pr\u00e9sente une demande \u00e0 son dieu et le prie de l'exaucer."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 9",
+		"name": "Passage dans l'\u00e9ther",
+		"school": "Transmutation",
+		"summary": "Emm\u00e8ne plusieurs cr\u00e9atures dans le plan \u00c9th\u00e9r\u00e9."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, PX (voir description)",
+		"level": "Pr\u00ea 9",
+		"name": "Portail",
+		"school": "Invocation (appel ou cr\u00e9ation)",
+		"summary": "Relie deux plans pour se d\u00e9placer ou appeler une entit\u00e9."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 9",
+		"name": "Projection astrale",
+		"school": "N\u00e9cromancie",
+		"summary": "Emm\u00e8ne le PJ et ses compagnons dans le plan Astral."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G, M, FD",
+		"level": "Pr\u00ea 9",
+		"name": "R\u00e9surrection supr\u00eame",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Ram\u00e8ne un mort \u00e0 la vie, sans avoir besoin du corps."
+	},
+	{
+		"book": "Manuel des Joueurs",
+		"components": "V, G",
+		"level": "Pr\u00ea 9",
+		"name": "Temp\u00eate vengeresse",
+		"school": "Invocation (conjuration)",
+		"summary": "Temp\u00eate m\u00ealant acide, \u00e9clairs et gr\u00ealons."
+	},
+	{
+		"book": "Codex aventureux",
+		"components": "V, FD",
+		"level": "Pr\u00ea 1",
+		"name": "Fl\u00e9au des tombeaux",
+		"school": "Divination (bien)",
+		"summary": "Pendant 1 round, le personnage peut porter des attaques sournoises contre les morts-vivants comme s'ils n'y \u00e9taient pas immunis\u00e9s"
+	},
+	{
+		"book": "Codex aventureux",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 2",
+		"name": "Intuition du gu\u00e9risseur",
+		"school": "Divination",
+		"summary": "le personnage puise dans son savoir de gu\u00e9risseur pour rendre ses sorts de soins plus puissants. Selon son degr\u00e9 de maitrise en Premiers secours, il peut annuler certains \u00e9tats tel que \u00e9puisement, \u00e9blouissements etc..."
+	},
+	{
+		"book": "Codex aventureux",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Acier silencieux",
+		"school": "Transmutation",
+		"summary": "le malus d'armure aux tests ne s'applique pas aux tests de d\u00e9placement silencieux et de discr\u00e9tion"
+	},
+	{
+		"book": "Codex aventureux",
+		"components": "V",
+		"level": "",
+		"name": "Arme sonique",
+		"school": "Transmutation [son]",
+		"summary": "Conf\u00e8re une \u00e9nergie sonique \u00e0 une arme infligeant 1d6 pv supl\u00e9mentaires"
+	},
+	{
+		"book": "Codex aventureux",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Intuition divine",
+		"school": "Divination",
+		"summary": "Le personnage gagne un bonus d'intuition de 5 + son niveau de lanceur de sorts pour un seul test de comp\u00e9tence."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 1",
+		"name": "Aur\u00e9ole de lumi\u00e8re",
+		"school": "\u00c9vocation [lumi\u00e8re]",
+		"summary": "En cr\u00e9ant une aura lumineuse et \u00e9clairante, Le LS, s'il r\u00e9ussit une attaque de contact \u00e0 distance, inflige 1d8 points de d\u00e9g\u00e2ts, +1 par round \u00e9coul\u00e9"
+	},
+	{
+		"book": "Codex divin, Compendium arcanique",
+		"components": "V, F",
+		"level": "Pr\u00ea 1",
+		"name": "Mauvais augure",
+		"school": "Divination",
+		"summary": "le personnage sait si I'avenir lui r\u00e9serve des dangers."
+	},
+	{
+		"book": "Codex divin",
+		"components": "",
+		"level": "Pr\u00ea 1",
+		"name": "R\u00e9surgence",
+		"school": "Abjuration",
+		"summary": "Le sujet a le droit de rejouer un jet de sauvegarde."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "Pr\u00ea 1",
+		"name": "Vigueur mineur",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "La cible recouvre 1 PV/round (15 rounds max)."
+	},
+	{
+		"book": "Codex martial, Codex divin",
+		"components": "V, G",
+		"level": "",
+		"name": "Contact ali\u00e9nant",
+		"school": "Enchantement [mental]",
+		"summary": "En r\u00e9ussissant une attaque de contact, le LS peut brouiller les id\u00e9es de la cible qui devient h\u00e9b\u00e9t\u00e9e, ne pouvant se d\u00e9placer ni lancer des sorts"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Mal\u00e9diction de la malchance",
+		"school": "Transmutation",
+		"summary": "malus de -3 aux jets d'attaque, jets de sauvegarde, tests de caract\u00e9ristique et de comp\u00e9tence"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Pr\u00e9cision b\u00e9nie",
+		"school": "Divination",
+		"summary": "Bonus de +2 aux attaques \u00e0 distance des alli\u00e9s."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 2",
+		"name": "Ronces",
+		"school": "Transmutation",
+		"summary": "Une arme en bois se couvre d'\u00e9pines et inflige +1 points de d\u00e9g\u00e2ts/niveau de lanceur de sorts (+10 max)."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 3",
+		"name": "Toile de ronces",
+		"school": "Transmutation",
+		"summary": "Enchev\u00eatre les cr\u00e9atures et inflige 2d6 points de d\u00e9g\u00e2ts."
+	},
+	{
+		"book": "Codex divin",
+		"components": "G, M",
+		"level": "Pr\u00ea 2",
+		"name": "Vague de tristesse",
+		"school": "Enchantement [Mal, mental]",
+		"summary": "Comme Mal\u00e9diction, mais malus plus importants"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 2",
+		"name": "Vengeance divine",
+		"school": "Invocation (convocation)",
+		"summary": "implore un dieu qui punit la cible en lui infligeant  1D6 pv/  2 niv de LS (1D6 par niv si la cible est un mort vivant)"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 3",
+		"name": "Barbelures",
+		"school": "Transmutation",
+		"summary": "similaire \u00e0 Ronces, mais l'arme affect\u00e9e a un bonus d'alt\u00e9ration de +2 aux jets d'attaque et sa zone de critique possible est doubl\u00e9e."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Cha\u00eene de t\u00e9moins",
+		"school": "Divination",
+		"summary": "Le pr\u00eatre charge un capteur magique d'infiltrer une zone."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "D\u00e9vastation",
+		"school": "N\u00e9cromancie [Mal]",
+		"summary": "Paralys\u00e9e de douleur, la cible est sans d\u00e9fense."
+	},
+	{
+		"book": "Codex martial, Codex divin",
+		"components": "V, G",
+		"level": "",
+		"name": "Explosion de force",
+		"school": "\u00c9vocation [force]",
+		"summary": "Cette attaque de contact \u00e0 distance inflige 1d6 points de d\u00e9g\u00e2ts tous les deux niveaux de lanceur de sorts. Une cible touch\u00e9e ratant son JdS Vig est renvers\u00e9e"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 3",
+		"name": "Flammes de la foi",
+		"school": "\u00c9vocation",
+		"summary": "Conf\u00e8re \u00e0 une arme la propri\u00e9t\u00e9 sp\u00e9ciale de feu intense."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Lien t\u00e9l\u00e9pathique mineur",
+		"school": "Divination [mental]",
+		"summary": "Un lien t\u00e9l\u00e9pathique qui ignore la barri\u00e8re du langage se forme entre le personnage et un individu dot\u00e9 d'une valeur d'Intelligence de 6 ou plus"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, M, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Perception du climat",
+		"school": "Divination",
+		"summary": "Pr\u00e9voit le temps qu'il fera pendant la semaine \u00e0 venir."
+	},
+	{
+		"book": "Codex divin",
+		"components": "",
+		"level": "Pr\u00ea 4",
+		"name": "R\u00e9surgence de groupe",
+		"school": "Abjuration",
+		"summary": "Comme R\u00e9surgence, mais affecte plusieurs cibles. R\u00e9surgence: Le sujet a le droit de rejouer un jet de sauvegarde."
+	},
+	{
+		"book": "Codex divin",
+		"components": "",
+		"level": "Pr\u00ea 3",
+		"name": "Vigueur",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "La cible recouvre 2 PV/round (25 rounds max)."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Vigueur mineur de groupe",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Conf\u00e8re 1pv/R \u00e0 un groupe de perso"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 3",
+		"name": "Visage divin mineur",
+		"school": "Transmutation [Bien, Mal]",
+		"summary": "Le perso prend une forme se raprochant de celle de son dieu et obtient +4 en Cha et r\u00e9sistance de 10 \u00e0 deux des trois types d'\u00e9nergie suvante : acide, \u00e9lectricit\u00e9 ou froid s'il est bon ; feu et froid s'il est mauvais"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Arme de la divinit\u00e9",
+		"school": "Transmutation",
+		"summary": "Le perso peut manier l'arme de pr\u00e9dilection de son dieu avec un bonus de +1 att et d\u00e9gats, et certains pouvoirs en fonction du dieu."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Brume sombre",
+		"school": "Illusion (mirage)",
+		"summary": "La brume obscurcit toute vision \u00e0 1m50 et peut aussi prot\u00e9ger"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "Pr\u00ea 4",
+		"name": "Maelstr\u00f6m d'\u00e9nergie destructive",
+		"school": "\u00c9vocation [acide, \u00e9lectricit\u00e9, feu, froid ou son]",
+		"summary": "Une explosion d'\u00e9nergie destructive centr\u00e9e sur le pr\u00eatre blesse les cr\u00e9atures alentour."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Retour macabre",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Un alli\u00e9 tu\u00e9 est rappel\u00e9 \u00e0 la vie pendant 1 minute/niveau."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V",
+		"level": "Pr\u00ea 4",
+		"name": "Rudoiement",
+		"school": "\u00c9vocation [son]",
+		"summary": "Assourdi les ennemis de m\u00eame alignement et inflige des d\u00e9gats \u00e0 ceux d'AL diff\u00e9rent"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "Pr\u00ea 5",
+		"name": "Agilit\u00e9 divine",
+		"school": "Transmutation",
+		"summary": "bonus aux JdS Ref comme un Roublard du niv du LS, +4 en Dext\u00e9rit\u00e9 et don Attaque \u00e9clair"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Horde de rats",
+		"school": "Invocation (convocation)",
+		"summary": "Le personnage invoque plusieurs nu\u00e9es de rats (une tous les 2 niv de LS,  maxi 6 au niv 12)"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD, PX",
+		"level": "Pr\u00ea 5",
+		"name": "Pacte de vigueur",
+		"school": "\u00c9vocation",
+		"summary": "Ce sort permet de conclure un accord entre la cible et un dieu. Ce dernier lui offre alors sa protection en cas de n\u00e9cessit\u00e9."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, F",
+		"level": "",
+		"name": "Rayons d'ensorcellement",
+		"school": "Enchantement [mental]",
+		"summary": "Le LS poss\u00e9de une attaque de rayon par round, rendant la victime h\u00e9b\u00e9t\u00e9e et ne pouvant ni lancer des sorts ni se d\u00e9placer pendant 1-3 R"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 5",
+		"name": "Souffle de dragon",
+		"school": "\u00c9vocation [Bien ou Mal]",
+		"summary": "Le pr\u00eatre choisit une esp\u00e8ce de dragon dont il reproduit le souffle."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 5",
+		"name": "Subversion planaire",
+		"school": "Transmutation",
+		"summary": "R\u00e9duit la RD et la RM de la cible."
+	},
+	{
+		"book": "Codex divin",
+		"components": "",
+		"level": "Pr\u00ea 5",
+		"name": "Vigueur supr\u00eame",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "La cible recouvre 4 PV/round (25 rounds max)."
+	},
+	{
+		"book": "Codex divin",
+		"components": "",
+		"level": "Pr\u00ea 6",
+		"name": "Cercle de vigueur",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Conf\u00e8re 3pv/R \u00e0 un groupe de perso"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 6",
+		"name": "Chute de com\u00e8te",
+		"school": "Invocation (cr\u00e9ation)",
+		"summary": "Une com\u00e8te s'abat sur les ennemis, ce qui les blesse et les envoie \u00e0 terre."
+	},
+	{
+		"book": "Codex divin",
+		"components": "G, FD",
+		"level": "",
+		"name": "D\u00e9corporation",
+		"school": "Divination",
+		"summary": "Le LS  tombe dans un profond sommeil et son esprit peut voyager \u00e0 30m par Round, et voir et entendre comme s'il se trouvait sur place"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "",
+		"name": "Eclair de gloire",
+		"school": "\u00c9vocation [Bien]",
+		"summary": "Un rayon d'\u00e9nergie positive inflige des d\u00e9g\u00e2ts sul\u00e9mentaires aux  morts vivants et aux Ext\u00earieurs mal\u00e9fiques"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, M, FD",
+		"level": "",
+		"name": "Mal\u00e9diction de la lycanthropie",
+		"school": "N\u00e9cromancie",
+		"summary": "Induit, par simple contact, une lycanthropie temporaire chez un humano\u00efde"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "Pr\u00ea 7",
+		"name": "Mal\u00e9diction supr\u00eame",
+		"school": "Transmutation",
+		"summary": "Maudit la cr\u00e9ature touch\u00e9e. Au choix, il r\u00e9duit des carac, inflige -8 aux jets ou donne 75% de chances de ne pas agir \u00e0 chaque R"
+	},
+	{
+		"book": "Codex divin",
+		"components": "",
+		"level": "Pr\u00ea 6",
+		"name": "Pacte du z\u00e9lote",
+		"school": "\u00c9vocation",
+		"summary": "Ce sort donne +4  \u00e0 l'att et d\u00e9gats x2 contre un alignement oppos\u00e9."
+	},
+	{
+		"book": "Codex divin",
+		"components": "",
+		"level": "Pr\u00ea 6",
+		"name": "Visage divin",
+		"school": "Transmutation [Bien, Mal]",
+		"summary": "le lanceur adopte toutes les particularit\u00e9s d'une cr\u00e9ature c\u00e9leste ou fi\u00e9lon"
+	},
+	{
+		"book": "Codex martial, Codex divin",
+		"components": "V, G, M, FD",
+		"level": "Pr\u00ea 8",
+		"name": "Araign\u00e9e mentale",
+		"school": "Divination [mental]",
+		"summary": "Permet d'espionner les pens\u00e9es de 8 cr\u00e9atures (maxi) \u00e0 la fois."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, F, FD",
+		"level": "",
+		"name": "Fl\u00e9au",
+		"school": "N\u00e9cromancie",
+		"summary": "Ce sort vicieux frappe d'une maladie grave toutes les cibles qui ratent leur JdS, inflige un affaiblissement temporaire de 1d3 points de For et de Dex par jour"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 7",
+		"name": "Fureur vertueuse des fid\u00e8les",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "LS et alli\u00e9s sont envahis de fureur divine et obtiennent +1 aux jets d'attaque et aux JdS contre la terreur, tout en gagnant 1d8 pv temporaires"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD, PX",
+		"level": "Pr\u00ea 7",
+		"name": "Pacte de regain",
+		"school": "Invocation (gu\u00e9rison)",
+		"summary": "Ce sort permet de nouer un pacte entre la cible et un dieu  qui use alors de son \u00e9nergie divine pour d\u00e9barrasser le sujet des afflictions qui le frappent"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 7",
+		"name": "R\u00e9sistance \u00e0 la magie de groupe",
+		"school": "Abjuration",
+		"summary": "Comme R\u00e9sistance \u00e0 la magie, mais affecte plusieurs cibles."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Trombe d'eau",
+		"school": "Invocation (cr\u00e9ation)",
+		"summary": "Ce sort \u00e9l\u00e8ve dans les airs une colonne d'eau tourbillonnante qui s'effondre et aspire les cr\u00e9atures    (3D8 pv et pris au piege 3R)"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, M Temps dincantation : 1 action simple",
+		"level": "Pr\u00ea 7",
+		"name": "Vague de limon",
+		"school": "Invocation (convocation)",
+		"summary": "Cr\u00e9e une \u00e9tendue de limon vert de 4,50m."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, M, PX",
+		"level": "",
+		"name": "Cr\u00e9ation v\u00e9ritable",
+		"school": "Invocation (cr\u00e9ation)",
+		"summary": "Ce sort permet de cr\u00e9er un objet non magique compos\u00e9 de n'importe quelle mati\u00e8re inerte."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "",
+		"name": "Domination v\u00e9ritable",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "Comme Domination (contr\u00f4le un humano\u00efe taille M maxi)  mais avec JdS \u00e0 -4."
+	},
+	{
+		"book": "Codex martial, Codex divin",
+		"components": "V",
+		"level": "",
+		"name": "Hurlement ali\u00e9nant",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "La cible agit de mani\u00e8re incoh\u00e9rente. Hurlant et courant dans tous les sens, elle ne peut faire d'action, subit -4 \u00e0 la CA et ne peut tirer de JdS Ref"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, M, FD, PX",
+		"level": "Pr\u00ea 8",
+		"name": "Pacte mortel",
+		"school": "N\u00e9cromancie [Mal]",
+		"summary": "Ce sort permet \u00e0 la cible de conclure un accord avec le dieu du pr\u00eatre afin que ce dernier la ram\u00e8ne \u00e0 la vie si elle est tu\u00e9e."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 8",
+		"name": "Rage temp\u00eate",
+		"school": "Transmutation [\u00e9lectricit\u00e9]",
+		"summary": "Le pr\u00eatre vole et ses yeux lancent des \u00e9clairs."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Tourbillon",
+		"school": "Invocation (cr\u00e9ation)",
+		"summary": "Les cr\u00e9atures et objets qui se trouvent dans le tourbillon cr\u00e9\u00e9 et \u00e0 moins de 15 m doivent r\u00e9ussir un jet de R\u00e9flexes ou \u00eatre aspir\u00e9s, subissant 3d8 points de d\u00e9g\u00e2ts contondants par round et y restant pi\u00e9g\u00e9s pendant 2d4 rounds"
+	},
+	{
+		"book": "Codex divin, Manuel des Joueurs de Faer\u00fbn (Royaumes Oubli\u00e9s)",
+		"components": "V, G",
+		"level": "",
+		"name": "Avalanche vengeresse",
+		"school": "Invocation (cr\u00e9ation) [froid]",
+		"summary": "Une avalanche de neige appara\u00eet depuis les airs, ensevelissant ses adversaires et les transformant en gla\u00e7ons"
+	},
+	{
+		"book": "Codex divin, Draconomicon  (Royaumes Oubli\u00e9s)",
+		"components": "V, G, PX",
+		"level": "",
+		"name": "Esclave monstrueux",
+		"school": "Enchantement (coercition) [mental]",
+		"summary": "Ce sort est identique \u00e0 domination v\u00e9ritable (Permet de contr\u00f4ler un humano\u00efde taille M ou - ), si ce n'est que le sujet est \u00e0 jamais domin\u00e9 s'il rate son jet de Volont\u00e9 initial."
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G",
+		"level": "",
+		"name": "Nu\u00e9e d'Otyughs",
+		"school": "Invocation (cr\u00e9ation)",
+		"summary": "Ce sort cr\u00e9e des otyughs \u00e0 partir d'une grande masse d'ordures et d'immondices"
+	},
+	{
+		"book": "Codex divin",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Pavillon de grandeur",
+		"school": "Invocation (cr\u00e9ation)",
+		"summary": "Invocation d'une tente magnifique \u00e0 cheval entre un autre plan, avec festin et gu\u00e9rison x2"
+	},
+	{
+		"book": "Codex divin",
+		"components": "",
+		"level": "Pr\u00ea 9",
+		"name": "Visage divin supr\u00eame",
+		"school": "Transmutation [Bien, Mal]",
+		"summary": "Le LS adopte les qualit\u00e9s d'un demi-c\u00e9leste ou demi-fi\u00e9lon sans leurs pouvoirs magiques"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G",
+		"level": "",
+		"name": "Manteau de sombre puissance",
+		"school": "Abjuration",
+		"summary": "La cible est entour\u00e9e d'une brume obscure qui prot\u00e8ge du soleil sans entraver la vision et donne +4 \u00e0 tous les JdS"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, M",
+		"level": "",
+		"name": "Gemme explosive",
+		"school": "Invocation (cr\u00e9ation) [force]",
+		"summary": "Ce sort transforme jusqu'\u00e0 cinq gemmes en bombes que le lanceur, et lui seul, peut alors envoyer \u00e0 ses ennemis."
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, M/FD",
+		"level": "",
+		"name": "Rayon de lune",
+		"school": "\u00c9vocation [lumi\u00e8re]",
+		"summary": "les lycanthropes  affect\u00e9s sous leur forme humano\u00efde doivent r\u00e9ussir un jet de Volont\u00e9 ou reprendre de force leur apparence animale"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 3",
+		"name": "R\u00e9sistance aux \u00e9nergies destructives de groupe",
+		"school": "Abjuration",
+		"summary": "conf\u00e8re une r\u00e9sistance (10) contre acide, \u00e9lectricit\u00e9, feu, froid ou son, \u00e0 plusieurs cr\u00e9atures"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, M/PD",
+		"level": "",
+		"name": "Sabre de lune",
+		"school": "\u00c9vocation",
+		"summary": "Un rayon de lumi\u00e8re lunaire de 90 cm appara\u00eet dans la main du LS. Jet de toucher r\u00e9ussi inflige 1d8 pv + 1 / 2 niv du LS et 2d8 pv  + 1 par niv du LS pour les morts vivants."
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD (voire M, F et PX)",
+		"level": "",
+		"name": "Sort universel",
+		"school": "Transmutation",
+		"summary": "Ce sort permet au pr\u00eatre de lire et de pr\u00e9parer un sort de magie profane de niv 2 maxi"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Armure des t\u00e9n\u00e8bres",
+		"school": "Abjuration [obscurit\u00e9]",
+		"summary": "+3 \u00e0 la CA +1 tous les  4 niveaux du pr\u00eatre (bonus maximum +8) + vision dans le noir (port\u00e9e 18 m\u00e8tres)  +2 \u00e0 tous les JdS contre les sorts et effets saints, du Bien ou de la lumi\u00e8re."
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 5",
+		"name": "Rayonnement incandescent",
+		"school": "\u00c9vocation [feu, lumi\u00e8re]",
+		"summary": "Une boule de lumi\u00e8re \u00e9blouie toute cr\u00e9ature de la zone + 2d6 pv par R"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G",
+		"level": "Pr\u00ea 4",
+		"name": "Test de r\u00e9sistance",
+		"school": "Divination",
+		"summary": "Le LS saisit la nature exacte et les failles des d\u00e9fenses magiques d'une cr\u00e9ature, ce qui lui conf\u00e8re un bonus de +10 au test de niv de LS visant \u00e0 passer outre sa r\u00e9sistance \u00e0 la magie"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G",
+		"level": "",
+		"name": "Eclair des t\u00e9n\u00e8bres obscurit\u00e9",
+		"school": "\u00c9vocation [obscurit\u00e9]",
+		"summary": "1 \u00e9clair / 2niv du LS  d'ombres jaillissent des mains du LS, infligeant , si jet de toucher r\u00e9ussi,  2d8 pv et \u00e9tourdissat la cible"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Forme arachnide",
+		"school": "Transmutation",
+		"summary": "Le pr\u00eatre peut se transformer en drider ou araign\u00e9e monstrueuse taille TP \u00e0 G"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, M/FD",
+		"level": "",
+		"name": "Voie lunaire",
+		"school": "\u00c9vocation [force]",
+		"summary": "Ce sort cr\u00e9e un escalier ou pont menant d'un endroit \u00e0 un autre."
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G",
+		"level": "Pr\u00ea 6",
+		"name": "Immunit\u00e9 contre les \u00e9nergies destructives",
+		"school": "Abjuration",
+		"summary": "Absorbe les d\u00e9g\u00e2t d'un un des cinq types d'\u00e9nergies destructives (acide, \u00e9lectricit\u00e9, feu, froid ou son)"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V",
+		"level": "Pr\u00ea 8",
+		"name": "Lame de lumi\u00e8re",
+		"school": "Transmutation",
+		"summary": "Une arme devient lumineuse comme une torche. Elle emp\u00eache les bonus d'armure \u00e0 la CA. Un perso tu\u00e9 par cette arme arme ne peut \u00eatre ramen\u00e9 \u00e0 la vie sauf avec des sorts puissants"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Machine fantastique",
+		"school": "Illusion (ombre)",
+		"summary": "Le LS cr\u00e9e et controle une cr\u00e9ature artificielle taille G qui effectue des taches ou peut combattre ..."
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Mal\u00e9diction arachnide",
+		"school": "Transmutation [mental]",
+		"summary": "Transforme une cr\u00e9ature en une sorte de Drider ob\u00e9issant aux ordres mentaux du LS"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD (voire M, F et PX)",
+		"level": "",
+		"name": "Sort universel am\u00e9lior\u00e9",
+		"school": "Transmutation",
+		"summary": "Ce sort permet au pr\u00eatre de lire et de pr\u00e9parer un sort de magie profane, de niveau 5 maximum"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Araign\u00e9es de pierre",
+		"school": "Transmutation",
+		"summary": "Le pr\u00eatre transforme 1d3 cailloux en cr\u00e9atures artificielles de taille TP \u00e0 TG ressemblant \u00e0 des araign\u00e9es monstrueuses de pierre"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G",
+		"level": "Pr\u00ea 7",
+		"name": "D\u00e9p\u00e9rissement",
+		"school": "N\u00e9cromancie",
+		"summary": "Si le perso r\u00e9ussit une attaque  au corps \u00e0 corps, il inflige un affaiblissement temporaire de 1 point de For et 1 de Con tous les 2 niv de LS"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "M\u00e2choire de pierre",
+		"school": "Transmutation",
+		"summary": "Le pr\u00eatre anime une ouverture de caverne ou une grotte naturelle qui peut bouger ou attaquer"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 9",
+		"name": "Convocation de monolithe \u00e9l\u00e9mentaire",
+		"school": "Invocation (convocation) [voir description]",
+		"summary": "Le personnage convoque un monolithe \u00e9l\u00e9mentaire (cf. page 157 du Codex profane)"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Feu de lune",
+		"school": "\u00c9vocation [lumi\u00e8re]",
+		"summary": "Tte cr\u00e9ature dans la ZE perdent 1d8 pv/2 niv de LS (x2 pour lycanthropes et  morts vivants). Les aura magiques brillent et les apparences trompeuses sont r\u00e9v\u00e9l\u00e9es"
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Machine fantastique am\u00e9lior\u00e9e",
+		"school": "Illusion (ombre)",
+		"summary": "Le LS cr\u00e9e et controle une cr\u00e9ature artificielle taille G qui effectue des taches ou peut combattre ..."
+	},
+	{
+		"book": "Codex profane",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "M\u00e9tamorphose arachnide",
+		"school": "Transmutation",
+		"summary": "transforme une cr\u00e9ature consentante par niveau en une araign\u00e9e monstrueuse de taille TP \u00e0 TG"
+	},
+	{
+		"book": "Codex martial",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "D\u00e9tection des aberrations",
+		"school": "Divination",
+		"summary": "Ce sort permet de d\u00e9tecter les aberrations pr\u00e9sentes dans la zone d'effet"
+	},
+	{
+		"book": "Codex martial",
+		"components": "V, G",
+		"level": "Pr\u00ea 2",
+		"name": "\u00c9clair des t\u00e9n\u00e8bres",
+		"school": "\u00c9vocation [obscurit\u00e9, Mal]",
+		"summary": "Si attaque \u00e0 distance r\u00e9ussie, un \u00e9clair de t\u00e9n\u00e8bres glac\u00e9es part de la main gauche du LS et inflige 1D8 pv tout les 2 niv du pr\u00eatre. La clble doit ensuite r\u00e9ussir un JdS Vigueur ou \u00eatre \u00e9tourdie 1R"
+	},
+	{
+		"book": "Draconomicon  (Royaumes Oubli\u00e9s)  (Royaumes Oubli\u00e9s), Codex martial",
+		"components": "V, G",
+		"level": "Pr\u00ea 3",
+		"name": "Manteau de bravoure",
+		"school": "Abjuration [mental]",
+		"summary": "Tous les alli\u00e9s du LS (compris) dans la ZE obtiennent un bonus de moral sur les JdS contre la terreur = niv du LS (maxi +10)."
+	},
+	{
+		"book": "Codex martial",
+		"components": "V, G, M/FD",
+		"level": "Pr\u00ea 5",
+		"name": "D\u00e9pravation",
+		"school": "Enchantement [Mal, mental]",
+		"summary": "Rend une cr\u00e9ature mauvaise"
+	},
+	{
+		"book": "Codex martial, Les chapitres sacr\u00e9s",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 4",
+		"name": "Rapport supr\u00eame",
+		"school": "Divination",
+		"summary": "Comme Rapport, \tPermet de savoir o\u00f9 en sont ses compagnons en cas de s\u00e9paration du groupe, mais avec  possibilit\u00e9 de lancer des sorts \u00e0 travers le lien."
+	},
+	{
+		"book": "Codex martial",
+		"components": "V, M/FD",
+		"level": "Pr\u00ea 4",
+		"name": "T\u00e9n\u00e8bres des damn\u00e9s",
+		"school": "\u00c9vocation [obscurit\u00e9, Mal]",
+		"summary": "Ce sort est comme T\u00e9n\u00e0bres mais, en plus,  les cr\u00e9atures dans la zone subissent 2D6 pv/R si elles sont d'alignement bon et 1D6 /R si elles sont neutres."
+	},
+	{
+		"book": "Codex martial",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Furie vaillante",
+		"school": "Transmutation",
+		"summary": "Conf\u00e8re \u00e0 la cible, en bonus de moral, +4 For et Constit et +2 JdS Volont\u00e9. +1 att si att \u00e0 outrance."
+	},
+	{
+		"book": "Codex martial",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 8",
+		"name": "Contamination",
+		"school": "Transmutation [Mal]",
+		"summary": "Empoisonne et pollue eau ou autre liquide (mort si baignade, perte de pv si bue)"
+	},
+	{
+		"book": "Codex martial",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Rugissement du lion",
+		"school": "\u00c9vocation [son]",
+		"summary": "Rugissement du LS 1d8 p d\u00e9gats de son  / 2 niv de LS aux ennemis dans la ZE et les assourdit pendant 1 R. JdS r\u00e9ussi : pas d'assourdissement et 1/2 d\u00e9g\u00e2ts. +1 attaque et JdS terreur et +1pv    temporaires par niv LS pour les alli\u00e9s."
+	},
+	{
+		"book": "Codex martial",
+		"components": "",
+		"level": "",
+		"name": "Manteau de bravoure supr\u00eame",
+		"school": "Abjuration [mental]",
+		"summary": "Tous les alli\u00e9s du LS (compris) dans la ZE sont immunis\u00e9s contre la terreur et obtiennent un bonus de moral de +2 sur les jets d'attaque."
+	},
+	{
+		"book": "Codex martial",
+		"components": "V, G, M",
+		"level": "Pr\u00ea 9",
+		"name": "Saccage",
+		"school": "Transmutation [Mal]",
+		"summary": "Le LS d\u00e9truit et corrompt une grande surface de terre, tuant majorit\u00e9 des plantes"
+	},
+	{
+		"book": "Compendium arcanique",
+		"components": "G, M",
+		"level": "Pr\u00ea 1",
+		"name": "Ailes de la mer",
+		"school": "Transmutation",
+		"summary": "+9 m \u00e0 la VD \u00e0 la nage du sujet."
+	},
+	{
+		"book": "Compendium arcanique",
+		"components": "V, G, FD",
+		"level": "",
+		"name": "Creusement rapide",
+		"school": "Transmutation",
+		"summary": "Ce sort augmente la vitesse de d\u00e9placement de creusement du sujet de +6 m\u00e8tres, si le sujet en a d\u00e9j\u00e0."
+	},
+	{
+		"book": "Compendium arcanique",
+		"components": "V, G, FD",
+		"level": "Pr\u00ea 5",
+		"name": "Sanctuaire de groupe",
+		"school": "Abjuration",
+		"summary": "Ce sort est identique \u00e0 sanctuaire, si ce n'est qu'il prot\u00e8ge plusieurs cibles"
+	},
+	{
+		"book": "Compendium arcanique",
+		"components": "V",
+		"level": "",
+		"name": "\u00c9quilibre n\u00e9cromantique",
+		"school": "N\u00e9cromancie",
+		"summary": "Ce sort blesse ou soigne les cr\u00e9atures situ\u00e9es dans la zone en fonction de leur alignement et de leur place vis-\u00e0-vis de la vie"
+	}
+]

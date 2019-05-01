@@ -147,4 +147,12 @@ public class Spell {
                 .stream()
                 .anyMatch(cal -> lvls.contains(cal.getLvl()));
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public void enrich(SpellSummary spellSummary) {
+        enrich(spellSummary.getSummary(), spellSummary.getBook(), spellSummary.getPage());
+    }
 }

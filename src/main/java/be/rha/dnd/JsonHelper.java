@@ -33,4 +33,10 @@ public class JsonHelper {
         JsonReader reader = new JsonReader(new FileReader(fileName));
         return GSON.fromJson(reader, collectionType);
     }
+
+    public List<SpellSummary> readSummaries(String fileName) throws FileNotFoundException {
+        Type collectionType = new TypeToken<Collection<SpellSummary>>() {}.getType();
+        JsonReader reader = new JsonReader(new FileReader(fileName));
+        return GSON.fromJson(reader, collectionType);
+    }
 }

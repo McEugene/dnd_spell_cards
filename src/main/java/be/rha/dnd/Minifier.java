@@ -10,7 +10,7 @@ public class Minifier {
                 .replace("niveau", "lvl")
                 .replace("action simple", "AS")
                 .replace("moyenne", "moy")
-                .replace("le jeteur de sorts", "perso")
+                .replace("le jeteur de sorts", "LS")
                 .trim();
     }
 }
