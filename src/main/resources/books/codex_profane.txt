@@ -1,0 +1,1386 @@
+Absorption Abjuration
+Niveau : Ensorceleur/Magicien 9
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : personnel
+Cible : le jeteur de sorts
+Durée : jusqu'à épuisement du potentiel ou 10 minutes/ niveau
+Les sorts et les pouvoirs magiques qui prennent le personnage pour cible sont absorbés et leur énergie est conservée jusqu'à ce qu'il les utilise pour jeter ses propres sors. Cette abjuration ne fonctionne que contre les sorts à distance qui prennent directement le personnage pour cible. Les sorts de contact, les sorts à effet et les sorts de zone ne sont pas concernés.
+Une fois le sort jeté, le personnage peut absorber 1d4+6 niveaux (le MD jette secrètement le dé et note le nombre exact). Le niveau de chaque sort absorbé est alors soustrait au total.
+Si un sort est affecté partiellement (parce que son niveau est supérieur aux niveaux qu'il est encore possible d'absorber), divisez les niveaux restants par le niveau de sort original pour déterminer la fraction de l'effet qui franchit l'absorption. Pour les sorts infligeant des dégâts, le personnage subit cette fraction des dégâts. Pour les autres, le personnage a eu une chance proportionnelle à cette fraction d'être affecté.
+Par exemple, il reste trois niveaux de sort à une absorption et le personnage est la cible d'une domination (sort du 5e niveau). L'absorption absorbe trois niveaux de sort et le personnage a 40 % de chances d'être affecté (2/5). Si tel est le cas, le personnage a toutefois droit à un jet de sauvegarde, du moins si le sort en autorise un habituellement. Si le personnage est frappé par une désintégration (sort du 6e niveau) et qu'il lui reste quatre niveaux de sort à!absorption, il ne subit que 33 % des dégâts normalement infligés (2/6). Le personnage peut utiliser l'énergie magique absorbée pour jeter n'importe quel sort préalablement préparé, sans que la préparation disparaisse de sa liste, s'efface de sa mémoire ou compte dans le nombre de sorts auquel il a droit quotidiennement (il lui faut donc tenir un compte des niveaux de sort absorbés et utilisés). Les niveaux d'énergie magique accumulés doivent être supérieurs ou égaux au niveau du sort à jeter et le personnage doit être en possession des composantes matérielles requises pour ce sort, qui sont alors utilisées.
+Aiguille spirituelle Transmutation
+Niveau :
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : un esprit
+Durée : 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+Le wu jen tend la main et projette une aiguille qui pénètre l'aura d'un esprit. S'il réussit une attaque à distance normale, l'esprit perd le bénéfice de son intangibilité et est cloué sur place (perte du bonus de Dextérité à la CA et bonus de +4 aux jets d'attaque pour les assaillants). L'esprit ne peut donc plus se déplacer, mais il a le droit d'effectuer des actions simples et des actions complexes (ce qui inclut des attaques). Un esprit immobilisé est incapable d'utiliser les pouvoirs surnaturels et magiques susceptibles de le téléporter (comme porte dimensionnelle ou téléportation) ou d'altérer son état (comme état gazeux ou forme éthérée). L'esprit ne peut retirer l'aiguille qui l'immobilise, mais une autre créature peut y parvenir au prix d'une action simple.
+Composantes matérielles : une longue aiguille en métal.
+
+Aiguilles empoisonnées Transmutation
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature
+Durée : instantanée
+Jet de sauvegarde : aucun et Vigueur, annule ; voir description
+Résistance à la magie : oui
+Le wu jen tend un doigt vers la cible sur laquelle s'abat une pluie d'aiguilles empoisonnées. Si le personnage réussit une attaque à distance normale, la cible subit 1d4 points de dégâts par niveau de lanceur de sorts (jusqu'à un maximum de 5d4) et choisit l'un des trois effets ci-dessous.
+
+La cible subit un affaiblissement temporaire de 1d8 points de Constitution sur-le-champ, puis un autre 1 minute après. À chaque fois, elle a droit à un jet de Vigueur pour annuler les effets.
+La cible est paralysée pendant 2d6 minutes. Elle a droit à un jet de Vigueur pour annuler l'effet.
+La cible subit un affaiblissement temporaire de 1d10 points de Dextérité sur-le-champ, puis un autre 1 minute après. A chaque fois, elle a droit à un jet de Vigueur pour annuler les effets.
+
+Composantes matérielles : une longue aiguille en métal.
+
+Amélioration de familier Universel
+Niveau : Ensorceleur/Magicien 3
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : le familier touché
+Durée : 1 heure/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui (inoffensif)
+Le familier est empli d'une vigueur nouvelle, ce qui lui confère un bonus d'aptitude de +2 aux sauvegardes, aux jets d'attaque et aux jets de dégâts au corps à corps. Il bénéficie également d'un bonus d'esquive de +2 à la CA.
+Animation de l’eau Transmutation [eau]
+Niveau : Druide 1
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 cube d'eau de 1,50 m d'arête max.
+Ce sort est similaire à Animation du bois, mais le personnage ne peut animer de l'eau pour un volume supérieur à celui qui est fixé ci-dessus. L'eau animée par ce sort a une solidité de 0 mais deux fois plus de points de résistance qu'un objet animé normal de sa taille.
+Composantes matérielles : une fiole remplie d'eau de source et d'huile de cinabre.
+
+Animation du bois Transmutation
+Niveau : Druide 1
+Composantes : V, G, M
+Temps d'incantation : 1 round
+Portée : contact
+Cible : 1 objet en bois de taille P ou inférieur
+Durée : concentration, jusqu'à 1 round/niveau (T)
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sor insuffle mobilité et semblant de vie à un objet en bois de taille P ou inférieur. L'objet animé attaque sur-le-champs la cible qu'on lui désigne, quelle qu'elle soit. Le bois animé a le profil d'un objet animé de sa taille.
+Les objets animés par ce sort ont une solidité de 5. Par contre, il est impossible d'animer un objet porté ou tenu par une créature.
+Composantes matérielles : un mélange de poudre de cinabre et de noyaux de pêche
+
+Animation du feu Transmutation [feu]
+Niveau : Druide 2
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 cube de flammes de 1,50 m de côté max.
+Ce sort est similaire à Animation du bois, mais le personnage ne peut animer un feu dépassant le volume fixé ci-dessus. Le feu animé présente le sous-type Feu et l'attaque spéciale de départ de feu d'un élémentaire de Feu. Quand il réussit une attaque de coup, il inflige des dégâts contondants et des dégâts de feu. De plus, il est capable d'embraser son adversaire (DD de sauvegarde égal à 12). Un feu animé par ce sort a une solidité de 0. Composante matérielle : une poignée de charbon de bois, de soufre et de cristaux de soude.
+Anneau de lames Invocation (création)
+Niveau : Prêtre 3
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : personnel
+Cible : le jeteur de sorts
+Durée : 1 minute/niveau
+Ce sort invoque un anneau horizontal de lames métalliques qui tourbillonnent autour du personnage. L'anneau s'étend à 1,50 mètre du sujet et couvre toutes les cases adjacentes à son espace occupé. De plus, il se déplace avec le sujet. À chaque round, au tour de jeu du sujet, les lames infligent 1d6 points de dégâts aux créatures situées dans la zone, +1 point par niveau de lanceur de sorts (jusqu'à un maximum de +10).
+Les lames invoquées par un prêtre loyal sont en fer froid. Celles qui sont invoquées par un prêtre chaotique sont en argent et celles d'un prêtre neutre sont en acier.
+Composantes matérielles : une petite dague.
+
+Arc de foudre Invocation (création) [électricité]
+Niveau : Ensorceleur/Magicien 5, Druide 4
+Composantes : V, G, M/FD
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m +1,50 m/2 niveaux)
+Zone d'effet : une ligne entre deux créatures
+Durée : instantanée
+Jet de sauvegarde : Réflexes, 1/2 dégâts
+Résistance à la magie : non
+Le personnage crée une conductivité naturelle entre deux créatures et un éclair forme un arc électrique entre elles. Cet éclair inflige 1d6 points de dégâts d'électricité par niveau de lanceur de sorts (jusqu'à un maximum de 15d6) aux deux créatures mais également à tout ce qui se trouve entre elles.
+Les deux sujets doivent se situer à portée et le personnage doit être à même de les prendre pour cibles (comme s'ils étaient les cibles du sort). Tracez une ligne allant d'un coin de l'espace de la première créature à un coin de l'espace de la seconde.
+Composantes matérielles : deux baguettes en métal.
+
+Armure de mage suprême Invocation (création) [force]
+Niveau : Ensorceleur/Magicien 3
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : créature touchée
+Durée : 1 heure/niveau (T)
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Ce sort est identique à Armure de mage, si ce n'est que son champ de force tangible confère un bonus d'armure de +6 à la CA.
+Composantes matérielles : une minuscule targe en platine d'une valeur de 25 po.
+
+Arrache-cœur Nécromancie
+Niveau :
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : une ou plusieurs créatures, aucune ne devant se situer à plus de 9 m d'une autre
+Durée : instantanée
+Jet de sauvegarde : Vigueur, annule
+Résistance à la magie : oui
+D'un revers de la main, le personnage lance des traits d'énergie invisibles vers ses cibles, tuant chacune en leur arrachant le cœur (Vigueur, annule). Arrache-cœur affecte un nombre de créatures dont le total de dés de vie est inférieur ou égal au niveau de lanceur de sorts du personnage, aucune ne pouvant avoir plus de 4 DV. Ce sort affecte d'abord les créatures qui ont le nombre de dés de vie le plus faible. En cas d'égalité, les plus proches du point d'origine sont les premières affectées. Si le capital de dés de vie restant ne suffit pas pour affecter les dernières créatures, il est inutilisable et perdu. Les créatures dénuées d'anatomie (comme les vases) ou dont la survie ne repose pas sur un cœur (comme les morts-vivants et les créatures artificielles) ne peuvent être affectées par ce sort.
+Assaillants imaginaires Illusion (fantasme) [mental, terreur]
+Niveau : Ensorceleur/Magicien 2
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature vivante
+Durée : instantanée
+Jet de sauvegarde : Volonté, dévoile (en cas d'interaction) puis Vigueur, annule ; voir description
+Résistance à la magie : oui
+Le mage crée des images fantasmagoriques de créatures cauchemardesques dans l'esprit de la cible. Elles prennent la forme de silhouettes d'ombre pour le mage mais sont invisibles aux yeux d'autrui. Si la cible réussit son jet de Volonté initial, elle comprend que les images ne sont pas réelles et le sort échoue. Dans le cas contraire, les fantasmes frappent le sujet, lui infligeant des affaiblissements temporaires de 4 points de Sagesse et de 4 points de Dextérité (réduits de moitié s'il réussit un jet de Vigueur). Si la cible réussit son jet de Volonté et possède un casque de télépathie, le sort est renvoyé à son auteur.
+Bouclier de feu de groupe Évocation [feu ou froid]
+Niveau : Ensorceleur/Magicien 5
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : Cibles : un ou plusieurs alliés, aucun ne devant se situer à plus de 9 m d'un autre
+Durée : 1 round/niveau (T)
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Ce sort fonctionne sur le même principe que Bouclier de feu, mais il affecte plusieurs cibles.
+Brouillard gelant Invocation (création) [froid]
+Niveau : Ensorceleur/Magicien 5
+Composantes : G, M
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : émanation de brume de 6 m de rayon et de 6 m de haut
+Durée : 1 minute/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Un banc de brume glacée naît en un point désigné par le mage, réduisant la vision (ce qui inclut la vision dans le noir) à 1,50 mètre. Les créatures situées dans la première tranche de 1,50 mètre bénéficient d'un camouflage, contre un camouflage total pour celles qui se trouvent au-delà.
+À chaque round, au tour de jeu du mage, le brouillard gelant inflige 1d6 points de dégâts de froid aux créatures et objets situés dans la zone. Le brouillard gelant est si épais que les créatures qui tentent de progresser en son sein avancent à une vitesse maximale de 1,50 mètre (quelle que soit leur vitesse de déplacement habituelle). De plus, elles subissent un malus de -2 aux jets d'attaque et aux jets de dégâts au corps à corps, mais également un malus de -6 aux jets d'attaque à distance (mais pas aux jets d'attaque à distance des sorts). Une cible tombant au sein du nuage de brume est ralentie, chaque tranche de 3 mètres de brouillard réduisant sa distance de chute de totale de 3 mètres. Brouillard gelant dépose également une fine couche de givre verglaçant sur toutes les surfaces situées en son sein. À chaque round, au tour de jeu du mage, les créatures présentes dans la zone doivent donc réussir un jet de Réflexes sous peine de chuter. Une créature parvenant à rester debout doit réussir un test d'Équilibre (DD 10) si elle souhaite se déplacer. Si elle rate ce test de 5 points ou plus, elle tombe. Enfin, les créatures situées au sein du brouillard gelant ne peuvent réaliser de pas de placement.
+Un vent violent (45 km/h ou plus) disperse la brume en 1 round. Ce sort ne fonctionne pas sous l'eau.
+Chandelle du cadavre Invocation (création)
+Niveau : Ensorceleur/Magicien 3
+Composantes : G, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : ne main fantomatique et une chandelle
+Durée : 1 minute/niveau (T) ; voir description
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Une main fantomatique portant une chandelle allumée apparaît à l'endroit désigné par le personnage. La chandelle émet de la lumière dans un rayon de 1,50 mètre. La main se déplace suivant la volonté du personnage (aucune concentration n'est requise) : en avant ou en arrière, vers le haut ou vers le bas, tout droit ou en tournant aux angles que formes les murs, etc. Elle se déplace à une vitesse maximale de 15 mètres par round. La main comme la chandelle sont intangibles et peuvent traverser les objets, ce qui en fait un outil très utile pour simuler une présence fantomatique. De plus, la chandelle du cadavre illumine les êtres et les objets cachés, éthérés et invisibles, qui prennent une apparence légèrement plus visible avec des contours incertains. Les créatures éthérées restent inaccessibles depuis le plan Matériel (sauf en ce qui concerne les effets de force), mais celles qui sont invisibles bénéficient simplement d'un camouflage (20 % de chances de les rater) et perdent le bonus aux jets d'attaque découlant de l'invisibilité lorsqu'elles se trouvent dans un rayon de 1,50 mètre de la chandelle. La lueur fantomatique a également pour effet de rendre les créatures et objets intangibles un peu plus matériels. Les êtres intangibles situés dans un rayon de 1,50 mètre de la chandelle du cadavre n'ont que 30 % de chances d'éviter les dégâts infligés par des créatures tangibles (mais ils conservent tous les autres avantages relatifs à leur état). La main, de taille Min, est dotée de 1 point de vie par niveau de lanceur de sorts et d'une CA 14 + un bonus de parade égal au modificateur de Charisme du personnage. Ses jets de sauvegarde sont identiques à ceux de son invocateur et elle est immunisée contre les sorts qui n'infligent pas de dégâts. L'effet du sort se termine si la main est détruite. Enfin, elle disparaît si la distance la séparant du personnage excède la portée du sort.
+Composantes matérielles : une partie d'un cadavre n'ayant jamais été traité par un produit le préservant de la décomposition.
+
+Char de nuage Invocation (création) [eau]
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : contact et personnelle
+Cible : le lanceur de sorts et les créatures consentantes touchées
+Durée : 10 minutes (T)
+Ce sort permet au personnage et aux créatures consentantes touchées de planer sur un char constitué de nuages dans la direction choisie par le wu jen. Ce dernier peut emmener une créature de taille M ou inférieure (équipée jusqu'à concurrence de sa charge maximale) tous les quatre niveaux de lanceur de sorts. Une créature de taille G compte comme deux créatures de taille M, une créature de taille TG compte comme deux créatures de taille G, etc.
+Le char de nuage se déplace à la vitesse de 15 kilomètres par minute, si bien qu'il peut couvrir une distance de 150 kilomètres pendant la durée du sort. Le wu jen et ses passagers ne sentent rien des effets de la vitesse de déplacement et le voyage est des plus paisibles, même dans les pires conditions météorologiques. A la fin du sort, le nuage se pose doucement au sol et disparaît.
+Si le sort arrive à terme alors que le char de nuage se trouve encore dans les airs, la magie s'évanouit lentement, si bien que le nuage descend de 18 mètres par round pendant 1d6 rounds. S'il atteint le sol durant ce laps de temps, l'atterrissage se fait en douceur. Dans le cas contraire, les passagers subissent des dégâts de chute correspondant à la distance les séparant du sol. Le char de nuage perd doucement de l'altitude s'il est dissipé mais disparaît instantanément s'il est annulé par une zone d'antimagie.
+Composantes matérielles : une boulette de coton.
+
+Coeur de pierre
+Niveau : Ensorceleur/Magicien 8
+Composantes : V, G, F, PX
+Temps d'incantation : 1 heure
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 an
+Le mage échange son cœur contre une pierre parfaite, altérant ainsi la nature même de son corps. Son cœur, encore vivant, peut alors être rangé ou caché où bon lui semble, mais il ne cesse de battre pendant la durée du sort.
+Tant qu'il jouit de cœur de pierre, le personnage bénéficie d'une réduction des dégâts (5/—) et d'une résistance à l'électricité (5), au feu (5) et au froid (5). Toutefois, il est sujet aux désavantages qui suivent. Premièrement, son rythme de guérison naturelle est réduit à 1 point de vie par jour (quel que soit son niveau global et la durée de ses plages de repos). Deuxièmement, toute tentative visant à le soigner via un sort d'Invocation (guérison), ou un pouvoir magique ou surnaturel reproduisant un tel effet, passe par un test de niveau de lanceur de sorts (DD 10 + niveau de lanceur de sorts du mage). Enfin, le cœur palpitant du personnage est vulnérable. S'il est abîmé ou détruit, le mage meurt sur-le-champ.
+Cœur de pierre peut être dissipé. Dans ce cas, le cœur du mage retrouve instantanément sa place dans la cage thoracique du personnage alors que la pierre est téléporté là où se trouvait le cœur palpitant. De même, les deux cœurs échangent leurs places si le mage pénètre au sein d'une zone d'antimagie (annulant temporairement l'effet du sort), mais le sort reprend son cours dès que le personnage en ressort. Transmutation de la pierre en chair met également un terme au sort, mais le mage bénéficie tout de même d'un jet de Vigueur pour y résister.
+Focaliseur : une pierre sculptée en forme de cœur d'une qualité exceptionnelle (jade, obsidienne ou marbre veiné d'or) et d'une valeur de 5 000 po.
+Coût en points d'expérience : 1 000 PX
+
+Communion avec les esprits mineure Divination
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 10 minutes
+Portée : 3 m
+Cible : 1 esprit mineur
+Durée : 1 minute/niveau
+Jet de sauvegarde : Volonté, annule ; voir description
+Résistance à la magie : non
+Ce sort permet au wu jen d'entrer en contact avec n'importe quel esprit de l'endroit ayant 4 DV maximum. Le personnage doit connaître l'identité de cet esprit et se trouver dans un rayon de 3 mètres de lui. Le wu jen peut alors lui poser une question tous les deux niveaux de lanceur de sorts. Les connaissances de l'esprit contacté sont limitées aux sujets traitant des environs (par exemple, l'esprit d'un grand arbre du village ne saura rien de ce qui se passe hors de la communauté). De plus, les questions doivent appeler des réponses d'un mot. « Possible » ou « incertain » sont des réponses plausibles car les esprits ne sont pas nécessairement omniscients. Cependant, si un réponse d'un mot est contraire aux intérêts de l'esprit ou susceptible d'induire les personnages en erreur, le MD peut répondre pas une phrase courte (cinq mots maximum).
+Si l'esprit a déjà été contacté par communion avec les esprits mineure (ou communion avec les esprits suprême) au cours de la semaine écoulée, le sort n'a aucun effet. Si l'alignement de l'esprit est différent de celui du wu jen, il a droit à un jet de Volonté pour résister au sort. Les questions non posées sont perdues si le sort cesse de faire effet.
+Composantes matérielles : de l'encens et une offrande d'une valeur de 10 po.
+
+Communion avec les esprits suprême Divination
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : V G, M, PX
+Cible : 1 esprit
+Ce sort est identique à Communion avec les esprits mineure, si ce n'est qu'il permet d'entrer en contact avec n'importe quel esprit, quel que soit son nombre de dés de vie. Le wu jen peut lui poser une question par niveau de lanceur de sorts.
+Composantes matérielles : de l'encens et une offrande d'une valeur de 25 po.
+Coût en points d'expérience : 100 PX.
+
+Concentration accrue Abjuration
+Niveau : Ensorceleur/Magicien 5
+Composantes : G
+Temps d'incantation : 1 action rapide
+Portée : personnel
+Cible : le jeteur de sorts
+Durée : concentration, jusqu'à 20 minutes/niveau ; voir description
+Le personnage lance ce sort au prix d'une action rapide et augmente ses facultés de concentration sur un sort qu'il a déjà jeté. Cette abjuration compte parmi les rares sorts (concentration suprême en étant un autre) qu'il est possible de lancer tout en maintenant la concentration nécessaire à un autre. Concentration accrue confère au personnage un bonus de circonstances de +10 aux tests de Concentration visant à maintenir sa concentration sur l'autre sort. Ses effets durent tant qu'il reste ainsi concentré sur le premier sort (jusqu'à un maximum de 20 minutes).
+Concentration suprême Abjuration
+Niveau :
+Durée : 10 minutes (T)
+Ce sort est semblable à Concentration accrue, si ce n'est que le wu jen n'a plus besoin de se concentrer de façon consciente sur le sort lancé juste avant celui-ci. En effet, son inconscient maintient la concentration nécessaire. Le wu jen peut donc entreprendre d'autres actions, parmi lesquelles se déplacer, attaquer et même lancer d'autres sorts. À moins de le tuer, seuls des sorts mentaux (comme confusion ou débilité) sont susceptibles de perturber sa concentration sur le premier sort. Néanmoins, il est également possible de le convaincre de mettre un terme à la concentration suprême (et au sort attenant) en usant de charme ou de suggestion.
+Convocation de monolithe élémentaire Invocation (convocation)
+Niveau : Ensorceleur/Magicien 9, Prêtre 9, Druide 9
+Composantes : V, G, M/FD
+Temps d'incantation : 1 round entier
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : monolithe élémentaire convoqué
+Durée : concentration, jusqu'à 1 round/niveau (T)
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Le personnage convoque une créature particulièrement puissante connue sous le nom de monolithe élémentaire. Celle-ci apparaît à l'endroit désigné et agit sur-le-champ, attaquant les adversaires du lanceur de sorts au mieux de ses facultés. Si le personnage parle la langue de la créature et est suffisamment proche pour communiquer avec elle, il peut lui ordonner de ne pas attaquer, de s'en prendre à un ennemi précis ou de réaliser quelque autre action. Le monolithe ne saurait être convoqué dans un environnement qui lui est hostile (par exemple, on ne peut appeler un monolithe du Feu sous l'eau ou un monolithe de la Terre dans les airs).
+Un sort de convocation invoquant une créature de l'Air, de l'Eau, du Feu ou de la Terre est considéré comme un sort du même type.
+Composantes matérielles : une gemme d'une valeur de 100 po (aigue-marine pour l'air, perle pour l'eau, grenat pour le feu et tourmaline pour la terre).
+
+Décorporation suprême Nécromancie
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : personnel
+Cible : le jeteur de sorts
+Durée : 1 minute (T)
+L'esprit du wu jen quitte son corps, mais ce dernier conserve un semblant de vie. Cet esprit est une créature intangible pour tout ce qui est en rapport avec ses déplacements, ses particularités et ses faiblesses. Il se déplace à la vitesse de 27 mètres par round mais ne peut s'éloigner de plus de 60 mètres de son corps. Sous forme d'esprit, un lanceur de sorts usant de communion avec les esprits mineure ou de communion avec les esprits suprême peut communiquer avec le wu jen. Ce dernier peut lancer des sorts pourvus de composantes verbales uniquement. Il ne peut porter d'attaques physiques ni affecter le monde matériel. Enfin, au prix d'une action simple, son esprit peut rallier son corps à son tour de jeu.
+Sous forme d'esprit, le corps du wu jen gît dans un état de semi-veille. Il a droit à une action de mouvement par round, perd son bonus de Dextérité à la CA (le cas échéant) et confère à ses adversaires un bonus de +2 aux jets d'attaque. S'il se situe dans un rayon de 1,50 mètre de son corps, le wu jen peut ordonner à celui-ci de réaliser des actions basiques, comme marcher, parler (lentement et sans véritablement articuler) ou manger. Les dégâts infligés à l'esprit ou au corps sont soustraits du total de points de vie su personnage. Si ceux-ci tombent à 0 ou moins, le personnage est tué. De même, le wu jen décède si son corps se retrouve à plus de 60 mètres de son esprit et qu'il ne peut le suivre (en raison d'une aiguille spirituelle, par exemple), ou s'il se révèle incapable de rallier son corps à la fin du sort.
+Composantes matérielles : un petit mouhn à prière.
+
+Défiguration Illusion (fantasme) [mental, terreur]
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 round entier
+Portée : contact
+Cible : la créature touchée
+Durée : 1 round/niveau
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Ce sort transforme le visage de la cible en une vision d'horreur terrifiante. Il peut faire apparaître à peu près toutes les combinaisons de traits repoussants (peau bleue, face de perroquet, trompe, défenses en décomposition, voire pire), mais il ne permet pas de reproduire l'apparence d'une créature ou d'une personne connue du lanceur de sorts. Les créatures qui voient la cible (à l'exception du lanceur de sorts et de ses alliés) doivent réussir un jet de Volonté sous peine d'être secouées.
+Composantes matérielles : une palette miniature sur laquelle sont disposées des couleurs hétérogènes.
+
+Dégel Évocation
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : un cube de glace de 1,50 m de côté/niveau ou de neige de 3 m de côté/niveau, ou une créature du froid/niveau
+Durée : instantanée
+Jet de sauvegarde : aucun ou Vigueur, 1/2 dégâts ; voir description
+Résistance à la magie : voir description
+Ce sort permet au wu jen de faire fondre de la glace ou de la neige et d'infliger des dégâts aux créatures du froid. La glace et le neige ordinaires fondent automatiquement (pas de jet de sauvegarde et pas de résistance à la magie). La glace fondue crée un volume d'eau équivalent qui coule et se répand selon les caractéristiques de l'endroit. La neige fondue crée un volume d'eau égal à 1/10 de son volume original (un wu jen de niveau 10 faisant fondre dix cubes de 3 mètres de côté créera donc un volume d'eau de 3 mètres de côté). Dans les deux cas, selon la température locale, il est possible que l'eau gèle de nouveau et gêne les déplacements.
+Contre les créatures du froid, le sort inflige 2 points de dégâts par niveau de lanceur de sorts (jusqu'à un maximum de 10 points), moitié moins si elles réussissent un jet de Vigueur. Face à de la neige ou de la glace magiques (comme un mur de glace), le sort inflige autant de dégâts et peut briser la glace, mais il ne la fait pas fondre. La résistance à la magie des créatures du froid s'applique (le cas échéant).
+Composantes matérielles : quelques cristaux de sel et une pincée de suie.
+
+Détection des métamorphes Divination
+Niveau : Ensorceleur/Magicien 3
+Composantes : V, G, M
+Temps d'incantation : 1 round entier
+Portée : personnel
+Cible : le jeteur de sorts
+Durée : 1 round/niveau
+En consacrant une action simple à se concentrer, le personnage peut voir la véritable forme des créatures présentes dans un rayon de 18 mètres. À chaque round, il peut examiner une créature présente dans son champ de vision et déterminer si elle est métamorphosée, déguisée ou transmuée et quelle est sa forme véritable. Si le personnage examine un métamorphe sous sa forme véritable, il sait qu'il s'agit d'un métamorphe, mais ignore quelles autres formes il est capable d'adopter.
+S'agissant de ce sort, toute créature présentant le sous-type métamorphe ou un pouvoir extraordinaire ou surnaturel lui permettant de se transformer est considérée comme étant un métamorphe. Un magicien qui connaît le sort modification d'apparence n'est pas un métamorphe (car un sort n'est pas un pouvoir extraordinaire ou surnaturel), mais un barghest en est un (puisqu'il possède un pouvoir surnaturel lui permettant de se transformer, et ce bien qu'il relève du type Extérieur).
+Composantes matérielles : un baume fait à partir de miel et de fleurs de lotus dont le lanceur de sorts s'applique une couche sur les paupières.
+
+Dissipation voleuse Abjuration
+Niveau : Ensorceleur/Magicien 9
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : lanceur de sorts, créature ou objet ; ou un rayonnement de 6 m de rayon
+Durée : instantanée
+Jet de sauvegarde : voir description
+Résistance à la magie : non
+Dissipation voleuse est identique à dissipation de la magie, si ce n'est que le niveau de lanceur de sorts maximal est égal à +25 (et non à +10) aux tests de dissipation. De plus, comme dans le cas d'une dissipation suprême, le mage a une chance de dissiper les effets vulnérables à Délivrance des malédictions ; même si dissipation de la magie ne peut normalement rien contre eux. Quand il lance une dissipation à cible ou un contresort, le mage peut décider de dérober les sorts dissipés et de s'en approprier la puissance. Quand il a recours à une dissipation à cible, effectuez un test d'Art de la magie (DD 25 + niveau de sort) pour identifier le sort visé ou chaque sort affectant la cible (créature ou objet).
+S'il le souhaite, le mage peut donc dérober chaque sort dissipé à l'aide d'une dissipation à cible, l'effet étant redirigé pour son compte et continuant d'agir comme si son auteur l'avait jeté sur le personnage sans interruption ni extension de durée. Une fois le sort dérobé, le mage l'identifie si ce n'est pas déjà fait (cf. ci-dessous). Si le sujet en était l'auteur et qu'il est possible de mettre un terme au sort, le personnage peut y mettre fin comme s'il l'avait lancé en personne. Si le sujet en était l'auteur et qu'il requiert un minimum de concentration, le personnage peut prendre le relais et le maintenir comme s'il l'avait jeté.
+Le personnage peut tenter de voler un sort qu'il n'a pas su identifier par l'intermédiaire du test d'Art de la magie, mais il s'agit d'une entreprise hasardeuse puisqu'il n'en connaît pas les effets. Par exemple, si le mage n'arrive pas à identifier un sort dont profite un ennemi et qu'il souhaite tout de même le lui dérober, il peut très bien être victime d'un sort de domination dont souffrait son adversaire. La résistance à la magie du personnage n'est pas applicable contre les sorts nuisibles qu'il dérobe sans savoir où il met les pieds, mais il a droit au même jet de sauvegarde (le cas échéant) que le sujet d'origine.
+Si le mage décide de dérober un sort qu'il a contré à l'aide de dissipation voleuse, il en prend le contrôle une fois l'incantation de son adversaire terminée. Il peut alors en rediriger les effets vers les cibles ou la zone de son choix (ce qui inclut, pourquoi pas, l'auteur original du sort). Là encore, il doit effectuer un test d'Art de la magie (DD 25 + niveau du sort) pour identifier le sort qu'il souhaite dérober, mais il est libre de le rediriger même s'il n'en connaît pas les effets, la portée et la zone. Notez cependant que si les conditions d'incantation habituelles ne sont pas remplies (par exemple, parce que le mage s'est trompé de cible ou de portée), le sort échoue.
+Dissipation voleuse peut être utilisé pour lancer une dissipation de zone jouissant du niveau de lanceur de sorts maximal accru, mais les effets magiques ainsi dissipés ne sont pas dérobés.
+Duplication corporelle Invocation (création)
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : 3 m
+Effet : 1 double/5 niveaux
+Durée : 1 minute
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort fait apparaître un ou plusieurs doubles du lanceur de sorts, qui ont les mêmes valeurs de caractéristiques, niveaux de classe, compétences, dons, personnalité, souvenirs, armes, armure et équipement que lui. Ces doubles ne possèdent cependant que des versions ordinaires de ses objets magiques. Ils peuvent tout faire, mis à part lancer des sorts ou utiliser des objets à potentiel magique ou à fin d'incantation. Ils obéissent au lanceur de sorts et sont amicaux envers ses compagnons (mais également entre eux). Le lanceur de sorts peut leur ordonner de faire n'importe quoi, y compris une action qu'il ne ferait pas lui-même (charger un dragon ou sauter du sommet d'une falaise, par exemple).
+Ces doubles n'ont que le quart de ses points de vie au moment où il a lancé le sort. Ils subissent normalement les dégâts, mais si l'un d'entre eux est tué, il disparaît et le lanceur de sorts subit 10 points de dégâts. Quand le sort cesse de faire effet, tous les doubles (et leur équipement) disparaissent. Le lanceur de sorts ne subit aucun dégât de ce fait. Il est impossible de distinguer ces doubles du lanceur de sorts.
+Eau empoisonnée Transmutation
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 round entier
+Portée : contact
+Cible : 3 décilitres d'eau/niveau
+Durée : instantanée
+Jet de sauvegarde : aucun ; voir description
+Résistance à la magie : non
+Ce sort change une certaine quantité d'eau en un volume égal de poison d'ingestion incolore et dénué de goût. Le DD de sauvegarde de ce poison est égal au DD du sort. Une fois avalé, le poison inflige un affaiblissement temporaire de 1 point de Constitution, puis un affaiblissement temporaire de 1d8 points de Constitution 1 minute après. Un jet de Volonté réussi permet à chaque fois d'annuler les dégâts. L'ingestion d'une dose du poison (3 décilitres) suffit à déclencher cet effet. En ingérer une plus grande quantité ne l'aggrave pas.
+Composantes matérielles : un croc de serpent venimeux et un héliotrope d'une valeur de 50 po.
+
+Échange muet Enchantement [mental]
+Niveau :
+Composantes : F
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature intelligente
+Durée : 1 round
+Jet de sauvegarde : aucun
+Résistance à la magie : oui (inoffensif)
+Ce sort permet au wu jeu de transmettre un message simple à une créature douée d'intelligence située à portée en utilisant d'autres moyens de communication que la parole. Si le personnage agite la main, pose un parchemin sur la table, sourcille ou fait quelque autre signe, le sort permet à la cible de comprendre un message de vingt-cinq mots au maximum, du moins si elle est capable de communiquer. Le wu jen ne peut livrer un message verbal s'il ne parle pas la langue de la cible, mais il peut alors communiquer une émotion simple (comme « au secours » ou « danger »). Le wu jen peut utiliser ce sort même s'il est ligoté et bâillonné tant qu'il est en possession du focaliseur.
+Focaliseur : un petit cône de verre.
+
+Échelle de fumée Transmutation
+Niveau :
+Composantes : V, G, F
+Temps d'incantation : 1 round entier
+Portée : contact
+Effet : une échelle de fumée
+Durée : 1 minute/niveau (T)
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort permet au wu jen de modeler de la fumée que dégage un feu et de lui donner la forme d'une échelle (jusqu'à 3 mètres de long par niveau de lanceur de sorts). Cette dernière ne pèse presque rien et il est donc aisé de la manipuler, quelle qu'en soit la longueur. Qui plus est, cette échelle est toujours très stable et rigide. Elle n'a pas besoin d'être tenue ou posée contre un support. Il suffit donc de la placer dans la position voulue et d'y monter.
+Il est possible d'allonger la durée du sort en le lançant de nouveau sur l'échelle avant qu'elle ne se dissipe.
+Focaliseur : un grand feu de bois vert.
+
+Éclair raisonnant Évocation [son]
+Niveau : Ensorceleur/Magicien 3, Barde 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : 18 m
+Zone d'effet : ligne de 18 m de long
+Durée : instantanée
+Jet de sauvegarde : Réflexes, 1/2 dégâts
+Résistance à la magie : oui
+Le personnage ouvre la main et libère un éclair d'énergie sonique qui inflige 1d4 points de dégâts de son par niveau de lanceur de sorts (jusqu'à un maximum de 10d4) aux créatures situées dans la zone.
+De plus, l'éclair résonnant inflige ces mêmes dégâts aux objets et peut aisément briser les obstacles situés sur sa route. Dans ce cas, il poursuit sa course jusqu'à sa limite de portée. Autrement, il s'arrête.
+Écran de dissipation d’Otiluke Abjuration
+Niveau : Ensorceleur/Magicien 4
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : un mur d'énergie de 3 m de côté/niveau ou une sphère/hémisphère d'un rayon de 30 cm/niveau maximum
+Durée : 1 minute/niveau (T)
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort crée un écran immobile et opaque. scintillant d'une énergie violette. Toute créature ou objet non tenu qui traverse l'écran est affecté par un effet de dissipation de la magie à cible dont le niveau de lanceur de sorts est égal à celui du mage. Les objets portés ne sont pas affectés, ce qui diffère d'une dissipation de la magie à cible normale- Le mage effectue un test de niveau de lanceur de sorts (1d20, +1 par niveau de lanceur de sorts, jusqu'à un maximum de +10) pour dissiper les effets magiques (DD 11 + niveau de lanceur de sorts) ou pour réprimer les propriétés magiques des objets non portés pendant 1d4 rounds (DD égal au niveau de lanceur de sorts de l'objet). Les effets magiques qui n'opèrent pas sur des objets ou des créatures ne peuvent pas traverser l'écran. Un sort de désintégration ou de dissipation de la magie (réussi) détruisent l'écran de dissipation d'Otiluke, tandis qu'une zone d'antimagie le réprime simplement.
+Composantes matérielles : une fine plaque de cristal au plomb.
+
+Écran de dissipation suprême d’Otiluke Abjuration
+Niveau : Ensorceleur/Magicien 7
+Ce sort est identique à écran de Écran de dissipation d’Otiluke, si ce n'est que le bonus maximal au test de niveau de lanceur de sorts est égal à +20 et non +10.
+Endurcissement de familier Universel
+Niveau : Ensorceleur/Magicien 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : le famiher touché
+Durée : 1 heure/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui (inoffensif)
+Le familier du mage devient plus résistant, bénéficiant ainsi de 2d8 points de vie temporaires et d'un bonus d'altération de +2 à l'armure naturelle. De plus, il a 25 % de chances d'éviter les dégâts supplémentaires infligés par les attaques sournoises et les coups critiques (bien que ces attaques donnent lieu aux dégâts normaux). Les points de vie temporaires acquis durent 1 heure maximum.
+Épée animée Transmutation
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 round entier
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 épée
+Durée : 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Grâce à ce sort, le wu jen fait s'envoler l'épée visée qui combat désormais dans les airs et défend le sujet qu'il aura choisi. L'épée peut avoir été laissée sans surveillance (auquel cas le wu jen choisit la créature pour laquelle elle va combattre, du moins tant qu'elle et le sujet restent à portée) ou être entre les mains d'un allié consentant qui va bénéficier des effets de ce sort.
+L'épée combat en exploitant le modificateur d'initiative et le bonus de base à l'attaque du sujet, sans tenir compte des modificateurs à l'attaque ou aux dégâts de celui-ci (ce qui inclut ceux découlant de sa Force). Si le sujet n'est pas formé au maniement de l'épée, l'arme subit un malus de -4 aux jets d'attaque. L'épée reste à 1,50 mètre du sujet et tombe au sol si les points de vie de celui-ci tombent à 0 ou moins. Elle peut effectuer une action d'attaque à outrance si le sujet y a recours.
+Le wu jen n'a pas besoin de se concentrer pour contrôler l'épée et le sujet peut combattre avec une autre arme en même temps. Ce sort empêche deux adversaires de prendre le sujet défendu en tenaille (mais rien d'empêché des adversaires supplémentaires de le faire).
+Composantes matérielles : une petite marionnette pourvue de fils et de baguettes.
+
+Épée de malchance Évocation [malédiction]
+Niveau : Ensorceleur/Magicien 5
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : lame d'énergie vert pâle
+Durée : 1 round/niveau (T)
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+Ce sort fait apparaître une épée de lumière vert pâle qui attaque l'adversaire qui lui est désigné. L'épée lance une attaque au round où le sort est lancé, puis une attaque à chaque round suivant. Bien qu'elle effectue des attaques au corps à corps classiques, elle attaque comme un sort, pas comme une arme (et peut donc frapper les créatures intangibles). L'épée de malchance frappe toujours dans la même direction que le lanceur de sorts. Elle ne permet donc pas de prendre un adversaire en tenaille avec le personnage, mais rien ne l'empêche de le faire avec l'un de ses alliés.
+L'arme attaque avec un bonus de base à l'attaque égal au niveau de lanceur de sorts du personnage et inflige 1d4 points de dégâts par coup. Elle offre une possibilité de critique sur un résultat de 19-20. En outre, chaque fois qu'elle touche une créature, elle lui inflige un malus de —1 à son prochain jet de sauvegarde (-2 en cas de critique). Ce malus est cumulatif (jusqu'à un maximum de -5 par créature) et persiste jusqu'à ce que la créature concernée soit obligée de faire un jet de sauvegarde en réaction à une situation de danger. Le sort Délivrance des malédictions permet néanmoins de s'en débarrasser.
+À chaque round, le personnage peut entreprendre une action simple pour lui assigner une nouvelle cible située à portée. Dans le cas contraire, l'arme continue d'attaquer la cible qu'il lui a désignée précédemment. Quand le lanceur de sorts assigne une nouvelle cible à 1'arme, celle-ci peut attaquer (comme elle l'a pu pendant le round au cours duquel le sort a été lancé). Si l'arme attaque la même cible au cours des rounds suivants, elle peut effectuer des jets d'attaque multiples contre elle au prix d'une attaque à outrance si son bonus de base à l'attaque le lui permet. L'épée de malchance ne peut être attaquée ni subir de dégâts, mais il est possible de la dissiper comme n'importe quel autre sort.
+Si une créature attaquée bénéficie d'une résistance à la magie, effectuez un test de niveau de lanceur de sorts la première fois que l'arme la frappe. En cas de réussite, les attaques de l'arme produisent leurs effets contre la créature en question. Sinon, le sort est dissipé. Si l'arme sort de la portée du sort ou disparait de la vue du personnage, l'épée de malchance revient jusqu'à lui et plane à ses côtés.
+Focaliseur : une réplique miniature d'une épée et un jeu de dés truqués.
+
+Épée des ténèbres Nécromancie [Mal]
+Niveau : Ensorceleur/Magicien 7
+Composantes : V, G, M
+Effet : lame noire d'énergie négative
+Ce sort est identique à Épée de malchance, si ce n'est qu'une épée noire d'énergie négative apparaît et attaque les adversaires du personnage, en se conformant à ses instructions. L'épée inflige un niveau négatif lorsqu'elle touche une créature vivante et elle a une possibilité de critique sur un résultat de 19-20 (en cas de confirmation, elle inflige un second niveau négatif). Les niveaux négatifs ont habituellement une chance de se transformer en perte de niveaux, mais ceux-ci ne durent pas assez longtemps pour y parvenir. Cependant, si le sujet gagne autant de niveaux négatifs qu'il a de dés de vie, il meurt.
+Si l'épée frappe un mort-vivant, elle lui confère 5 points de vie temporaires tous les deux niveaux de lanceur de sorts (jusqu'à un maximum de 25 points de vie temporaires) qui durent pendant 1 heure.
+Composantes matérielles : un katana, une épée bâtarde ou une épée longue que le lanceur de sorts fracasse contre une pierre pendant l'incantation.
+
+Explosion de feu Invocation [feu]
+Niveau : Ensorceleur/Magicien 2
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : 1,50 m
+Effet : rayonnement de feu de 1,50 m
+Durée : instantanée
+Jet de sauvegarde : Réflexes, 1/2 dégâts
+Résistance à la magie : oui
+Le sort crée une formidable explosion émanant du personnage et blessant toutes les créatures situées dans un rayon de 1,50 mètre. À l'exception du personnage et de tous ceux qui partagent son espace occupé, les créatures et objets présents dans la zone d'effet subissent 1d8 points de dégâts de feu par niveau de lanceur de sorts (jusqu'à un maximum de 5d8).
+Composantes matérielles : un peu de soufre.
+
+Explosion de feu suprême Invocation [feu]
+Niveau : Ensorceleur/Magicien 4
+Effet : rayonnement de feu de 3 m
+Ce sort est identique à explosion de feu, si ce n'est qu'il affecte les créatures situées dans un rayon de 3 mètres et inflige jusqu'à 15d8 points de dégâts à chacune.
+Explosion élémentaire Évocation
+Niveau :
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Zone d'effet : rayonnement de 3 m de rayon
+Durée : instantanée
+Jet de sauvegarde : Réflexes, 1/2 dégâts ou Réflexes, annule ; voir description
+Résistance à la magie : oui
+Le wu jen désigne une cible composé de l'un des cinq éléments (bois, feu, eau, métal ou terre). La cible libère alors l'énergie magique qu'elle contient dans une explosion soudaine, comme suit :
+Bois, métal ou terre. La cible projette des éclats pointus et coupants. Les créatures présentes dans la zone d'effet de l'explosion subissent 1d8 points de dégâts (Réflexes, l/2 dégâts).
+Feu. La cible projette des étincelles incandescentes qui infligent 1d8 points de dégâts de feu (Réflexes, 1/2 dégâts).
+Eau. La cible projette une vague puissante qui renverse les créatures présentes dans la zone d'effet du sort (Réflexes, annule). Les créatures concernées bénéficient d'un bonus de +4 au jet de sauvegarde par catégorie de taille supérieure à M et d'un malus de -4 par catégorie de taille inférieure à M. Les créatures pourvues d'une grande stabilité au sol ou de quatre pattes bénéficient d'un bonus supplémentaire de +4.
+Le sort n'affecte pas de façon sensible la structure de l'objet qui sert de cible.
+Factotums Invocation (création)
+Niveau : Ensorceleur/Magicien 5
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : des serviteurs invisibles, sans forme et dénués d'intelligence
+Durée : 1 heure/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort crée 2d6 Serviteur invisible, +1 par niveau (jusqu'à un maximum de +15).
+Composantes matérielles : un petit bâton en forme de croix auquel on attache des bouts de ficelle pleins de nœuds.
+
+Ferromagnétisme Transmutation
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : rayon
+Durée : 1 round/niveau
+Jet de sauvegarde : voir description
+Résistance à la magie : non
+Un rayon magnétique étincelant part de la main du wu jen et attire à lui les objets en fer et en acier situés à portée. Une fois par round, au prix d'une attaque de contact à distance, le rayon peut attirer un objet à lui avec une valeur de Force effective de 30 (ce qui est susceptible d'attirer un objet de 4 tonnes). Les objets non portés ou laissés sans surveillance volent directement jusqu'à sa main (ou jusqu'au bord de son espace occupé s'ils sont trop grands pour être tenus). Par conne, si le wu jen souhaite affecter un objet tenu par une créature (une arme, par exemple), il doit effectuer une tentative de désarmement. Le personnage exploite le bonus de Force du rayon (+10) à la place du sien et ne provoque pas d'attaque d'opportunité, même s'il use de fenomagnétisme contre une créature située dans une case adjacente à la sienne. Cependant, l'incantation provoque bel et bien des attaques d'opportunité. Si le wu jen réussit sa tentative de désarmement, l'arme quitte la main de son adversaire et finit sa course dans la sienne. Si le personnage vise un objet porté mais non tenu, comme une arme passée à la ceinture d'un adversaire, ce dernier a droit à un jet de Réflexes pour s'y accrocher, mais il doit avoir une main libre et est donc susceptible de lâcher ce qu'il tient. En cas d'échec, l'objet termine dans la main du wu jen. Autrement, celui-ci n'a plus qu'à se rabattre sur la tentative de désarmement.
+Si l'objet visé est attaché, le personnage a droit à un test de Force (exploitant le bonus de +10 du rayon) pour briser ce qui le retient.
+Composantes matérielles : un morceau de magnétite.
+
+Feu intérieur Évocation [feu]
+Niveau :
+Composantes : V, G, F
+Temps d'incantation : 1 round entier
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : jusqu'à 1 DV de créatures/niveau, aucune ne devant se trouver à plus de 9 m d'une autre
+Durée : instantanée
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : oui
+Ce sort donne naissance à une chaleur infernale dans les organes internes des cibles, au point qu'elles s'enflamment de l'intérieur et meurent sur-le-champ si elles ratent un jet de Vigueur. En cas de succès, elles échappent à la mort mais subissent 6d6 points de dégâts de feu, +1 par niveau de lanceur de sorts (jusqu'à un maximum de +20).
+Composantes matérielles : un brasero de fer rempli de braises incandescentes.
+
+Feu noir Nécromancie [Mal, malédiction]
+Niveau : Ensorceleur/Magicien 8
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : rayon
+Durée : 1 round/niveau
+Jet de sauvegarde : Volonté, annule et Réflexes, annule ; voir description
+Résistance à la magie : oui
+Un rayon d'énergie nécromantique noirâtre jaillit de la main du personnage. Si ce dernier réussit une attaque de contact à distance contre une cible vivante, celle-ci est engloutie dans un brasier noir et glacé alimenté par son énergie vitale. La cible doit réussir un jet de Vigueur par round sous peine d'être nauséeuse et de subir un affaiblissement temporaire de 1d4 points de Constitution. En cas de réussite, elle ne subit pas d'affaiblissement pour le round et est simplement fiévreuse. De plus, le feu noir est susceptible de se propager. Les créatures vivantes adjacentes à la cible doivent donc réussir un jet de Vigueur ou être englouties à leur tour.
+Si le sort réduit la Constitution d'une créature à 0, celle-ci tombe en cendres. On ne peut alors la rappeler à la vie que par résurrection suprême ou souhait, mais l'auteur de l'effet doit réussir un test de niveau de lanceur de sorts (DD 30). Si une cible réussit son jet de Vigueur lors de trois rounds consécutifs, le feu noir s'éteint de lui-même. Aucun procédé ordinaire ne peut venir à bout des flammes noirâtres (qu'il s'agisse de les immerger ou de les étouffer). Par contre, un effet magique (zone d'antimagie, dissipation de la magie réussie, Délivrance des malédictions ou Annulation d’enchantement) permet de les moucher. Enfin, une créature jouissant d'une protection contre la mort est immunisée contre ce sort.
+Composantes matérielles : une pincée de poussière de vampire détruit par la lumière du soleil.
+
+Flèche d’os Nécromancie [mort]
+Niveau : Ensorceleur/Magicien 6
+Composantes : V, G, M
+Temps d'incantation : 10 minutes
+Portée : contact
+Cible : 1 arme de jet ou 1 projectile
+Durée : 8 heures ou jusqu'à utilisation
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : oui
+Le mage inscrit des runes extrêmement puissantes sur un projectile ou une arme de jet (habituellement une flèche, un carreau, un dard, une javeline ou une lance), donnant à l'objet la texture d'un os glacé. Si une créature effectue une attaque à distance à l'aide de l'arme enchantée, elle bénéficie d'un bonus d'altération de +4 aux jets d'attaque et de dégâts. De plus, une créature vivante touchée par une flèche d'os doit réussir un jet de Vigueur sous peine de périr instantanément. En cas de réussite, la cible subit tout de même 3 d6 points de dégâts, +1 par niveau de lanceur de sons (jusqu'à un maximum de +15). Que l'attaque soit couronnée de succès ou non, la magie de la flèche d'os s'évanouit et le projectile est détruit.
+Composantes matérielles : un minuscule carquois en os et une fiole remplie de sang mélangé à de la poudre de gemme (valeur 50 po) utilisée pour peindre les runes sur le projectile.
+
+Fouet d’énergie Évocation [mental, son]
+Niveau : Barde 2
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : contact
+Effet : 1 fouet d'énergie
+Durée : 1 round/niveau
+Jet de sauvegarde : Volonté, annule ; voir description
+Résistance à la magie : non
+Ce sort crée un fouet d'énergie magique dont le personnage se sert comme s'il en connaissait le maniement. Le simple fait d'en claquer tient les animaux (mais pas les créatures magiques et la vermine) à distance, sauf s'ils réussissent un jet de Volonté. Les animaux affectés restent à 9 mètres ou plus du personnage tant que dure le sort, dans la mesure de l'espace disponible. Si le personnage réussit à l'aide du fouet une attaque à distance contre un animal, celui-ci doit réussir un jet de Volonté sous peine d'être effrayé.
+Contre les autres types de créatures, le personnage peut se servir du fouet d'énergie comme s'il s'agissait d'un fouet normal.
+Composantes matérielles : un petit fouet en soie.
+
+Foulard de décapitation Transmutation
+Niveau :
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature
+Durée : instantanée ; voir description
+Jet de sauvegarde : Vigueur, partiel ; voir description
+Résistance à la magie : non
+Le wu jen lance un foulard de soie à une créature située à portée. L'étoffe acquiert alors la dureté du fer et s'enroule autour du cou de la cible. Le wu jen doit disposer d'une ligne de mire avec celle-ci et réussir une attaque à distance normale. En cas de succès, la cible doit réussir un jet de Vigueur sous peine d'être décapitée.
+Si elle réussit son jet de Vigueur, elle subit tout de même 1d4 points de dégâts par niveau de lanceur de sorts (jusqu'à un maximum de 20d4) avant de se dégager de l'étreinte du foulard de décapitation. Les créatures artificielles et la quasi-totalité des morts-vivants (à l'exception des vampires) ne sont pas tués par la décapitation. Qu'ils réussissent leur jet de sauvegarde ou non, ils ne subissent que 6d4 points de dégâts. Les aberrations, les vases et les créatures dénuées de tète sont immunisées contre ce sort.
+Focaliseur : un foulard en soie.
+
+Foulard de fer Transmutation
+Niveau :
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Le wu jen jette un foulard de soie à une créature située à portée. L'étoffe acquiert alors la solidité du fer. Le wu jen doit disposer d'une ligne de mire avec la cible et réussir une attaque à distance normale. En cas de succès, la cible subit 1d8 points de dégâts, +1 par niveau de lanceur de sorts (jusqu'à un maximum de +5).
+Focaliseur : un foulard en soie.
+
+Foulard d’enchevêtrement Transmutation
+Niveau :
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature
+Durée : 1 round/niveau
+Jet de sauvegarde : Réflexes, annule
+Résistance à la magie : non
+Le wu jen lance un foulard de soie à une créature située à portée. L'étoffe acquiert alors la dureté du fer et s'enroule autour du cou de la cible. Le wu jen doit disposer d'une ligne de mire avec celle-ci et réussir une attaque de contact à distance. Si son attaque touche, la cible doit réussir un jet de Réflexes sous peine d'être enchevêtrée.
+Focaliseur : un foulard en soie.
+
+Glossolalie Évocation [mental, son]
+Niveau : Barde 2
+Composantes : V
+Temps d'incantation : 1 action simple
+Portée : 18 mètres
+Effet : rayonnement conique
+Durée : instantanée
+Jet de sauvegarde : Vigueur, partiel (voir description)
+Résistance à la magie : oui
+Le personnage émet des sons et des mots qui sont non seulement incompréhensibles, mais gênent la concentration des créatures pensantes qui les entendent. Ce sort n'affecte que les créatures ayant une valeur d'Intelligence de 3 ou plus. Toutes les créatures répondant à ce critère dans la zone d'effet doivent effectuer un jet de Vigueur pour éviter soit d'être étourdies pendant 1 round (pour celles qui ont une valeur d'Intelligence de 20 ou plus), soit d'être hébétées pendant 1 round (pour celles qui ont une valeur d'Intelligence comprise entre 10 et 19), soit secouées pendant 1 round (pour celles qui ont une valeur d'Intelligence comprise entre 3 et 9).
+De plus, toutes les créatures pensantes de la zone perdent leur (éventuelle) focalisation psionique et subissent un malus de -4 sur les tests de Concentration pendant 1 round. Ces effets s'appliquent que les créatures réussissent ou non leur jet de sauvegarde.
+Grêle de pierre Invocation (création) [terre]
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 round entier
+Portée : moyenne (30 m + 3 m/niveau)
+Zone d'effet : cylindre (1,50 m de rayon, 12 m de haut)
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+Ce sort crée une pluie de pierres qui inflige 1d4 points de dégâts par niveau de lanceur de sorts (jusqu'à un maximum de 5d4) aux créatures et objets situés dans sa zone d'effet.
+Composantes matérielles : un morceau de jade de 5 po.
+
+Guerrier de terre cuite Transmutation
+Niveau :
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : statuette touchée
+Durée : 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort transforme une statuette décorative et religieuse parfaitement inoffensive en un homme d'armes prêt à affronter les adversaires du wu jen. La statuette se transforme en objet animé de taille M (créature artificielle de taille M, 35 pv, CA 14, solidité 6, VD 12 m, coup +2 corps à corps, 1d6 +1 points de dégâts) qui attaque une cible désignée par le mage au tour de jeu de celui-ci. Il est possible de changer de cible au prix d'une action de mouvement (comme si le personnage dirigeait un sort actif). Si la statuette est toujours intacte lorsque le sort cesse de faire effet, elle peut servir de nouveau. Si le guerrier tombe à 0 point de vie ou moins, il tombe en poussière et la statuette doit être remplacée.
+Le guerrier de terre cuite ne dispose d'aucune des formes d'attaques données dans la description des objets animés.
+Focaliseur : une statuette de terre cuite représentant un guerrier de 18 centimètres de haut et d'une valeur de 1 po.
+
+Homochromie Illusion (hallucination)
+Niveau : Barde 2
+Composantes : V, G, M
+Temps d'incantation : 1 round entier
+Portée : contact
+Cible : la créature touchée
+Durée : 1 heure/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui (inoffensif)
+Ce sort modifie la couleur de la cible de façon à ce qu'elle se confonde avec son environnement. La créature visée bénéficie d'un bonus de circonstances de +10 aux tests de Discrétion. Quand elle se déplace dans un environnement qui change graduellement de couleur (de la lisière d'une forêt à un champ de verdure, par exemple), sa couleur change assez rapidement et elle conserve le bénéfice du bonus si elle progresse à la moitié de sa vitesse de déplacement. Quand la couleur de l'environnement change de façon brutale (d'une forêt à un mur de pierre, par exemple), l'adaptation prend 1 round durant lequel le sujet ne bénéficie plus du bonus.
+Composantes matérielles : la mue d'un petit lézard.
+
+Invisibilité supérieure Illusion (hallucination)
+Niveau : Ensorceleur/Magicien 9
+Composantes : V, G
+Temps d'incantation : 10 minutes
+Portée : personnelle ou contact
+Cible : le jeteur de sorts ou 1 créature ne pesant pas plus de 50 kg/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : non
+Cette puissante hallucination est identique à Invisibilité, si ce n'est qu'elle masque la vision, l'odorat et l'ouïe, dissimulant le sujet à tous les sens, à l'exception du toucher et du goût. A l'instar d'invisibilité suprême, le sort ne prend pas fin si le sujet attaque. Tant qu'il est invisible, il ne dégage pas d'odeur et dégage un silence qui absorbe tous les sons et vibrations dans un rayon de 1,50 mètre. Il est donc impossible de le détecter via perception des vibrations et autres pouvoirs. De même, le sujet ne saurait parler ou lancer des sorts à composantes gestuelles (mais il entend normalement et conserve ses facultés d'odorat).
+Invisibilité supérieure immunise le sujet contre Détection de l’invisibilité, Lueur féerique, Négation de l’invisibilité, poudre d'apparition, Poussière scintillante et le pouvoir de perception aveugle. Par contre, les créatures jouissant de Vision lucide ou du pouvoir de vision aveugle le voient sans problème. Certaines circonstances (comme des traces de pas) permettent également de détecter le sujet.
+Lame de lumière Transmutation
+Niveau : Ensorceleur/Magicien 6, Prêtre 8
+Composantes : V
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : une arme de jet ou de corps à corps, ou 50 projectiles (tous devant se trouver en contact les uns avec les autres au moment de l'incantation)
+Durée : 1 minute/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif, objet)
+Résistance à la magie : oui (inoffensif, objet)
+Le personnage transforme une arme de corps à corps, une arme de jet ou un groupe de projectiles en armes de lumière. Une telle arme diffuse autant de lumière qu'une torche (6 mètres de rayon) et ignore la matière inerte. Les bonus d'armure à la CA (ce qui inclut les bonus d'altération de l'armure) ne comptent pas car l'arme les traverse. (Par contre, les bonus de Dextérité, de parade, d'esquive, d'armure naturelle et autres restent applicables.) Une arme de lumière est inutile contre les morts-vivants, les créatures artificielles et les objets. Si le sort est jeté sur des flèches ou des carreaux d'arbalète, l'effet visant chaque projectile arrive à terme une fois celui-ci utilisé, qu'il touche ou non sa cible. Dans le cadre de ce sort, les shuriken sont considérés comme des flèches et non comme des armes de jet.
+Lame fulgurante Évocation [électricité]
+Niveau :
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Effet : lame ; voir description
+Cible : créature consentante touchée ; voir description
+Durée : 1 minute ou jusqu'à utilisation
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+Ce sort fait apparaître une épée crépitante d'énergie électrique dans la main d'une créature consentante touchée par le wu jen. L'arme a la taille d'une épée longue normale mais ne pèse pratiquement rien. On la considère comme une arme de guerre pour déterminer si son porteur est formé à son maniement. Ce dernier peut utikser l'épée pour effectuer une attaque de contact au corps à corps afin d'infliger des dégâts d'électricité ou pour projeter un éclair au titre d'une attaque de contact à distance avec une portée de 9 mètres.
+Pendant toute la durée du sort, l'arme peut infliger jusqu'à 1d6 points de dégâts d'électricité par niveau de lanceur de sorts (jusqu'à un maximum de 10d6). Pour chaque attaque lancée, son porteur décide (avant d'effectuer son jet d'attaque) le nombre de dés de dégâts que fera l'arme en cas de réussite, dans la limite du maximum indiqué. En cas de succès, l'arme inflige les dégâts spécifiés à la cible. En cas d'échec, les dés de dégâts sont perdus.
+Le modificateur de Force du porteur ne s'applique pas aux dégâts infligés par la lame fulgurante. Ce sort ne fonctionne pas sous l'eau.
+Lame tourbillonante Transmutation
+Niveau : Ensorceleur/Magicien 2, Barde 2
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : 18 m
+Zone d'effet : ligne de 18 m de long
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Tout en jetant le sort, le personnage lance une arme tranchante en direction de ses ennemis. Celle-ci frappe tous ceux qui se trouvent dans l'axe de l'effet, jusqu'à la limite de portée du sort. Le personnage effectue une attaque de corps à corps normale contre chaque adversaire situé sur le chemin de l'arme, comme s'il tenait celle-ci en main, mais il a le droit de remplacer son modificateur de Force (aux jets d'attaque et aux jets de dégâts) par son modificateur d'Intelligence ou de Charisme (selon sa classe de lanceur de sorts). Si son bonus de base à l'attaque lui confère habituellement droit à plusieurs jets attaque, la lame tourbillonnante n'en obtient qu'une par cible. Celle-ci exploite cependant son bonus à l'attaque maximal. L'arme inflige autant de dégâts que si le personnage la maniait au corps à corps, ce qui inclut les bonus découlant de caractéristiques et de dons.
+Quel que soit le nombre de cibles touchées et ratées, l'arme revient automatiquement dans la main du personnage une fois la dernière attaque tentée.
+Focaliseur : l'arme tranchante de corps à corps que le personnage lance.
+
+Lames de feu Invocation (création) [feu]
+Niveau : Ensorceleur/Magicien 2, Rodeur 2
+Composantes : V
+Temps d'incantation : 1 action rapide
+Portée : contact
+Cible : jusqu'à 2 armes que manie le jeteur de sorts
+Durée : 1 round
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Les armes au corps à corps du personnage se révêtent de flammes. Ces dernières sont inofensives pour le jeteur de sorts et ses armes, mais elles nuisent sérieusement à ses adversaires. Les armes au corps à corps visées infligent 1d6 dégâts de feu supplémentaire. Ces dégâts s'ajoutent aux dégâts d'énergie destructrive que les armes infligent déjà (le cas échéant).
+Lancer de précision Transmutation
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : 1 arme à projectile ou 1 arme de jet/niveau touchées
+Durée : 10 minutes/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif, objet)
+Résistance à la magie : oui (inoffensif, objet)
+Ce sort augmente les chances de toucher des cibles éloignées de l'arme à projectiles ou des armes de jet touchées. Le facteur de portée de ces armes est doublé pendant la durée du sort.
+Composantes matérielles : de l'encre, avec laquelle on inscrira un caractère mystique sur les armes affectées.
+
+Lien spirituel mineur Invocation (appel) [voir description]
+Niveau :
+Composantes : V, G
+Temps d'incantation : 10 minutes
+Portée : courte (7,50 m + 1,50 m/2 niveaux) ; [voir description]
+Cible : un esprit ayant jusqu'à 8 DV
+Durée : instantanée
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Ce sort est identique à Contrat, si ce n'est qu'il permet d'appeler et de piéger un esprit ayant jusqu'à 8 DV.
+Un sort d'appel invoquant une créature de l'Air, du Bien, du Chaos, de l'Eau, du Feu, de la Loi, du Mal ou de la Terre est considéré comme un sort du même type.
+Lien spirituel suprême Invocation (appel) [voir description de lien spirituel
+Niveau :
+Cible : jusqu'à 24 DV d'esprits, aucun ne devant se trouver à plus de 9 m d'un autre à leur apparition
+Ce sort est identique à Lien spirituel mineur, si ce n'est que le wu jen peut appeler et piéger jusqu'à 24 DV d'esprits du même type. Chaque esprit a droit à un jet de sauvegarde, à une tentative pour s'échapper et doit être persuadé d'aider le wu jen.
+Lien spirtuel Invocation (appel) [voir description de lien spirituel mineur]
+Niveau :
+Cible : jusqu'à 16 DV d'esprits, aucun ne devant se trouver à plus de 9 m d'un autre à leur apparition
+Ce sort est identique à Lien spirituel mineur, si ce n'est que le wu jen peut appeler et piéger jusqu'à 16 DV d'esprits du même type. Chaque esprit a droit à un jet de sauvegarde, à une tentative pour s'échapper et doit être persuadé d'aider le wu jen.
+Lion de terre cuite Transmutation
+Niveau :
+Ce sort est identique à Guerrier de terre cuite, si ce n'est qu'il permet d'animer ici la statuette d'un lion de Foo (un lion sanguinaire céleste) sous la forme d'un objet animé de taille TG (créature artificielle de taille TG, 90 pv, CA 13, solidité 6, VD 9 m, coup +9 corps à corps, dégâts 2d6+7). Comme le guerrier de terre cuite, le lion ne dispose d'aucune des formes d'attaques des objets animés.
+Focaliseur : une statuette de terre cuite représentant un lion de Foo de 30 centimètres de haut et d'une valeur de 10 po.
+
+Lumière spectrale Nécromancie [mental, terreur]
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : une lumière spectrale de taille M ou inférieure
+Durée : concentration
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Ce son permet au wu jen de faire apparaître n'importe où dans la limite de la portée une lueur verte et fantomatique qui brille avec autant de luminosité qu'une torche. La lueur créée est imprégnée d'une puissance surnaturelle, si bien que les créatures situées dans un rayon de 9 mètres doivent réussir un jet de Volonté sous peine d'être secouées. Le wu jen peut façonner la lueur pour lui donner n'importe quelle forme de taille M ou inférieure. Tant qu'il se concentre sur le sort, celle-ci peut se déplacer de 9 mètres par round (par exemple, le personnage peut donc donner forme humaine à l'effet et lui donner l'impression de marcher ou de voler). Le wu jen peut modifier la forme de la lueur à tout moment (action libre) tant que le sort continue de produire ses effets.
+Composantes matérielles : un morceau de phosphore.
+
+Malchance Divination
+Niveau : Ensorceleur/Magicien 4, Barde 4
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature
+Durée : 1 round/niveau
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Lorsque le personnage lance ce sort, il influence de manière défavorable le cours des évènements pour la cible. Si la créature visée entreprend une action impliquant une part certaine de hasard (c'est àà dire dès qu'il faut effectué un jet de dé, ce qui inclut jets d'attaque, jets de dégâts et jets de sauvegardes), elle joue deux jets et tient compte du moins bon.
+Une créature portant une pierre porte-bonheur est immunisé contre les effets de malchance, mais la pierre ne fonctionne plus pendant la durée du sort si la cible rate son jet de sauvegarde.
+Composantes matérielles : un morceau de miroir brisé
+
+Messager aérien Transmutation
+Niveau :
+Composantes : V, G
+Temps d'incantation : 10 minutes
+Portée : 15 km/niveau
+Cible : jusqu'à 10 créatures/niveau
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Le wu jen confie un message ou un son au vent qui le transmettra à un nombre de créatures précises qui doivent être identifiées par le personnage durant l'incantation. Ce dernier n'a pas à connaître leur identité exacte, mais il doit pouvoir les individualiser par leur localisation, leur statut social ou tout autre caractéristique, à l'exception de la race et de la classe de personnage. Par exemple, on peut envoyer un messager aérien aux soldats de la garde de son palais ou à l'ensemble des gouverneurs de l'empire.
+Le wu jen peut préparer le sort de façon à transmettre un message de vingt-cinq mots au maximum, à communiquer d'autres sons pendant 1 round ou simplement à faire passer le messager aérien pour un souffle de vent. Le messager aérien rejoint chaque destinataire s'il parvient à trouver un moyen de rallier l'endroit où chacun se trouve depuis le heu où le sort a été lancé (il ne peut passer à travers les murs, par exemple). Le wu jen choisit la vitesse du messager aérien (de 1,5 km/h à 9 km/h). Il est de taille modeste et personne ne le remarque, comme le vent, jusqu'à ce qu'il rejoigne les destinataires du message. Il leur délivre alors son message fait de murmures ou d'autres sons puis s'évanouit.
+Comme avec le sort bouche magique, le messager aérien ne peut prononcer de composantes verbales, user de mots de commande ou activer d'effets magiques.
+Mur de ténèbres Illusion (ombre) [mental, obscurité, terreur]
+Niveau : Ensorceleur/Magicien 2
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : voile de ténèbres semi opaque de 12 m de long max. ou anneau de ténèbres d'un rayon de 4,50 m max. ; 6 m de haut dans les deux cas
+Durée : concentration + 1 round/niveau
+Jet de sauvegarde : Volonté, annule ; voir description
+Résistance à la magie : oui
+Le personnage crée une barrière d'ombre menaçante qui obscurcit la vision et empêche tout passage. Les créatures situées dans les cases adjacentes à l'obstacle bénéficient d'un camouflage contre les attaques venues de l'autre côté. Celles qui se trouvent à plus d'une case bénéficient quant à elles d'un camouflage total. Bien que le mur soit intangible, une créature pourvue de 6 DV ou moins doit réussir un jet de Volonté sous peine de ne pouvoir le franchir et de devoir mettre un terme à son action de mouvement (le sujet peut néanmoins s'en éloigner ou tenter de le franchir une nouvelle fois s'il a une seconde action de mouvement). Une créature peut tenter de traverser le mur aussi longtemps qu'il lui plaît, mais chaque échec précédent lui inflige un malus de -1 au jet de Volonté.
+Mur de ténèbres contre et dissipe les sorts de lumière de niveau inférieur ou égal.
+Composantes matérielles : un bout de toison de mouton noir.
+
+Mur d’ossement Invocation (création)
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 round entier
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : mur d'os de 3 m de côté/niveau (F)
+Durée : 10 minutes
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort fait sortir de terre un mur d'ossements. Le wu jen peut lui donner la forme qu'il souhaite pourvu qu'il soit solidement ancré au sol. Par contre, il ne peut être invoqué de façon à ce qu'il occupe l'espace d'une créature ou un objet. Bien que solide, ce mur est percé de petites ouvertures et d'interstices. Les créatures qui se trouvent derrière lui bénéficient d'un abri et d'un camouflage vis-à-vis des attaques provenant de l'autre côté du mur.
+Il est possible de traverser le mur d'ossements au prix d'une action complexe, mais les diverses protubérances dont il est pourvu infligent 1d8 points de dégâts aux créatures de taille P ou M qui s'y frottent. Les créatures de taille P peuvent le traverser sans plus de problèmes, mais il n'en va pas de même pour celles de taille M, qui doivent obligatoirement réussir un test d'Évasion (DD 20) pour s'en dépêtrer. En cas d'échec, le sujet subit les dégâts habituels et se retrouve pris au piège. Au round suivant, il doit alors effectuer une nouvelle tentative de déplacement, que ce soit en poursuivant ou en rebroussant chemin (ce qui lui inflige des dégâts dans les deux cas). Les créatures de taille TP ou inférieure peuvent se faufiler au travers du mur à la moitié de leur vitesse de déplacement habituelle. De leur côté, les créatures de taille G ou plus ne sauraient le traverser normalement mais peuvent forcer le passage (cf. ci-dessus) ou l'enjamber, ne subissant alors pas de dégâts. Un sujet pris au piège peut également décider de ne plus bouger jusqu'à la fin du sort pour ne pas subir davantage de dégâts.
+Le mur a une épaisseur de 18 centimètres par niveau de lanceur de sorts. Chaque case de 1,50 mètre a 10 points de résistance tous les 18 centimètres d'épaisseur, mais les armes perforantes et tranchantes ne lui infligent que la moitié des dégâts habituels. Une créature peut effectuer un test de Force (DD 15. +2 par niveau de lanceur de sorts, jusqu'à un maximum de +10) pour forcer le passage au prix d'une attaque.
+Le mur est fait d'un enchevêtrement d'ossements de types très différents de créatures et formant des angles étranges. On ne peut les animer au moyen du sort Animation des morts, ni communiquer avec elles avec le sort Communication avec les morts.
+Composantes matérielles : une branche flétrie coupée dans un cimetière.
+
+Nage Transmutation [eau]
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 round entier
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : 1 créature
+Durée : 10 minutes/niveau (T)
+Jet de sauvegarde : aucun
+Résistance à la magie : oui (inoffensif)
+Ce sort confère à la cible une vitesse de déplacement à la nage, comme s'il s'agissait d'une créature aquatique, mais pas de respirer sous l'eau ou de retenir son souffle plus longtemps. La cible nage à sa vitesse normale sans avoir à effectuer de tests de Natation tant quelle ne s'encombre que d'une charge légère. Elle bénéficie d'un bonus d'aptitude de +8 aux tests de Natation visant à accomplir une action spéciale ou à éviter un danger, mais elle subit un malus de -1 par tranche de 2,5 kilos de charge. Le sujet peut choisir de « faire 10 », même s'il est pressé ou menacé. Il peut également à l'action de course tout en nageant, mais seulement s'il progresse en ligne droite.
+Si la créature porte une charge supérieure à légère, elle doit effectuer des tests de Natation pour se déplacer (en tenant compte du malus normal de sa charge), mais il bénéficie tout de même des et des autres avantages de ce sort.
+Composantes matérielles : une écaille de poisson rouge.
+
+Onde tellurique Évocation [terre]
+Niveau :
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Zone d'effet : ligne jusqu'à courte portée (7,50 m + 1,50 m/2 niveaux)
+Durée : instantanée
+Jet de sauvegarde : Réflexes, 1/2 dégâts
+Résistance à la magie : oui
+D'un simple cri, le wu jen frappe le sol et crée une onde de choc sismique qui projette la terre, les rochers ou le sable dans les airs et frappe les créatures qui se trouvent sur sa trajectoire. Les créatures prises dans la zone d'effet subissent 1d6 points de dégâts par niveau de lanceur de sorts (jusqu'à un maximum de 10d6).
+Ce sort ne produit ses effets que si le wu jen se tient sur de la terre, de la glaise, du sable ou de la pierre (ce qui inclut un sol en pierre), pas s'il se tient sur un sol recouvert de bois ou une surface d'une autre matière.
+Orbe de feu Invocation (création) [feu]
+Niveau : Ensorceleur/Magicien 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : un orbe de feu
+Durée : instantanée
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : non
+Ce sort est identique à Orbe d’acide, mais il inflige des dégâts de feu. De plus, une créature frappée par l'orbe de feu doit réussir un jet de Vigueur sous peine d'être éblouie pendant 1 round (au lieu d'être fiévreuse).
+Orbe de feu mineur Invocation (création) [feu]
+Niveau : Ensorceleur/Magicien 1
+Effet : un orbe de feu
+Ce sort est identique à Orbe d’acide mineur, si ce n'est qu'il inflige des dégâts de feu.
+Orbe de froid Invocation (création) [froid]
+Niveau : Ensorceleur/Magicien 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : un orbe de froid
+Durée : instantanée
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : non
+Ce sort est identique à Orbe d’acide, mais il inflige des dégâts de froid. De plus, une créature frappée par l'orbe de froid doit réussir un jet de Vigueur sous peine d'être aveuglée pendant 1 round (au lieu d'être fiévreuse).
+Orbe de froid mineur Invocation (création) [froid]
+Niveau : Ensorceleur/Magicien 1
+Effet : un orbe de froid
+Ce sort est identique à Orbe d’acide mineur mineur, si ce n'est qu'il inflige des dégâts de froid.
+Orbe de son Invocation (création) [son]
+Niveau : Ensorceleur/Magicien 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : un orbe de son
+Durée : instantanée
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : non
+Ce sort est identique à Orbe d’acide, mais il inflige 1d4 points de dégâts de son par niveau de lanceur de sorts (jusqu'à un maximum de 15d4). De plus, une créature frappée par l'orbe de son doit réussir un jet de Vigueur sous peine d'être assourdie pendant 1 round (au heu d'être fiévreuse).
+Orbe de son mineur Invocation (création) [son]
+Niveau : Ensorceleur/Magicien 1
+Effet : un orbe de son
+Ce sort est identique à Orbe d’acide mineur, si ce n'est qu'il inflige 1d6 points de dégâts de son, plus 1d6 points tous les deux niveaux de lanceur de sorts au-delà du niveau 1 (2d6 au niveau 3, 3d6 au niveau 5, 4d6 au niveau 7 et jusqu'à un maximum de 5dé au niveau 9 ou plus).
+Orbe d’acide Invocation (création) [acide]
+Niveau : Ensorceleur/Magicien 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : un orbe d'acide
+Durée : instantanée
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : non
+Un orbe d'acide de 7,5 centimètres de diamètre part de la paume du personnage et file vers la cible, lui infligeant 1d6 points de dégâts d'acide par niveau de lanceur de sorts (jusqu'à un maximum de 15d6). Le mage doit néanmoins réussir une attaque de contact à distance pour toucher.
+Une créature touchée par l'orbe subit les dégâts d'acide et est fiévreuse pendant 1 round en raison des vapeurs délétères dégagées. Un jet de Vigueur permet d'annuler cet état préjudiciable mais ne réduit pas les dégâts.
+Orbe d’acide mineur Invocation (création) [acide]
+Niveau : Ensorceleur/Magicien 1
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : un orbe d'acide
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Un orbe d'acide de 5 centimètres de diamètre part de la paume du personnage et file vers la cible, lui infligeant 1d8 points de dégâts d'acide. Le mage doit néanmoins réussir une attaque de contact à distance pour toucher.
+Tous les deux niveaux de lanceur de sorts supplémentaires, le mage inflige 1d8 points de dégâts de plus (2d8 au niveau 3, 3d8 au niveau 5, 4d8 au niveau 7 et jusqu'à un maximum de 5d8 au niveau 9 ou plus).
+Orbe d’électricité Invocation (création) [électricité]
+Niveau : Ensorceleur/Magicien 4
+Composantes : V, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : un orbe d'électricité
+Durée : instantanée
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : non
+Ce sort est identique à Orbe d’acide, mais il inflige des dégâts d'électricité. De plus, une créature frappée par l'orbe de froid et portant une armure en métal doit réussir un jet de Vigueur sous peine d'être enchevêtrée pendant 1 round (au lieu d'être fiévreuse).
+Orbe d’électricité mineur Invocation (création) [électricité]
+Niveau :
+Effet : un orbe d'électricité
+Ce sort est identique à Orbe d’acide mineur, si ce n'est qu'il inflige des dégâts d'électricité.
+Orbe d’énergie Invocation (création) [force]
+Niveau : Ensorceleur/Magicien 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : un orbe d'énergie
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Un orbe d'énergie de 7,5 centimètres de diamètre part de la paume du personnage et file vers la cible, lui infligeant 1d6 points de dégâts par niveau de lanceur de sorts (jusqu'à un maximum de 10d6).
+Le mage doit néanmoins réussir une attaque de contact à distance pour toucher.
+Peau de métal Transmutation
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : la créature touchée
+Durée : 1 minute/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+Ce sort transforme la peau du sujet en une matière métallique étincelante. Il bénéficie d'un bonus d'armure naturelle de +8. Cependant, se montrant moins souple et moins rapide, il subit également un malus ponctuel de -2 en Dextérité.
+Composantes matérielles : un petit morceau de peau de rhinocéros.
+
+Peau d’épines Transmutation
+Niveau : Druide 3
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round/niveau
+La peau du lanceur de sorts se recouvre d'épines, ce qui a pour effet d'augmenter les dégâts qu'il inflige en combat à mains nues et de le rendre insaisissable. Quand il réussit une attaque à mains nues, il inflige 1d6 points de dégâts perforants létaux supplémentaires. Ainsi, un humain frappant à mains nues et bénéficiant de ce sort infligera 1d3 points de dégâts contondants plus 1d6 points de dégâts perforants. De plus, si une créature le touche à l'aide d'une arme naturelle ou d'une attaque à mains nues (ce qui inclut un test de lutte couronné de succès), elle subit 5 points de dégâts perforants.
+Composantes matérielles : une épine.
+
+Périmètre d’immobilisation Enchantement (coercition) [mental]
+Niveau : Ensorceleur/Magicien 6
+Composantes : V, G, M
+Temps d'incantation : 1 round entier
+Portée : moyenne (30 m + 3 m/niveau)
+Zone d'effet : 1 ou plusieurs humanoïdes dans une émanation de 3 m de rayon
+Durée : 1 heure/niveau
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Ce sort paralyse les humanoïdes de taille M ou inférieure présents dans sa zone d'effet. Lors de l'incantation, le lanceur de sorts doit préciser à quelle condition les cibles seront libérées (« Restez ici jusqu'au retour du dragon »), même si elle est parfaitement irréalisable Restez ici jusqu'à ce que le soleil brille de nuit »). Les sujets qui ratent leur jet de sauvegarde sont conscients de la condition à remplir, mais ils ne peuvent la révéler en raison de leur paralysie. Ceci dit, rien n'empêche un tiers d'user de détection de pensées pour la découvrir. Pour chaque heure passée dans cet état, les sujets ont droit à un jet de sauvegarde pour se libérer. Tant que le sort opère, les humanoïdes de taille M ou inférieure qui pénètrent dans la zone doivent réussir un jet de sauvegarde sous peine d'être paralysés à leur tour. Les conditions sont les mêmes que précédemment et eux aussi en sont conscients. A l'inverse, les créatures extraites de la zone sont hébétées de l'effet.
+Composantes matérielles : une goutte de résine de pin.
+
+Pluie d’aiguilles Transmutation
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : jusqu'à 1 créature/niveau
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+Le wu jen projette une aiguille en direction des cibles. Le sort la démultiplie alors et fait naître une véritable pluie d'aiguilles.
+Le wu j'en effectue une attaque à distance normale contre chaque cible. La pluie d'aiguilles inflige 1d4 points de dégâts par niveau de lanceur de sorts (jusqu'à un maximum de 5d4) répartis entre les différentes cibles. Ainsi, un wu jen de niveau 4 peut lancer une attaque qui, en cas de réussite, inflige 4d4 points de dégâts à une seule créature ou 2d4 à deux créatures, etc.
+Composantes matérielles : une longue aiguille de métal.
+
+Poche à familier Universel
+Niveau : Ensorceleur/Magicien 2
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : un conteneur ou un vêtement pourvu d'une poche
+Durée : 1 heure/niveau (T)
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Le mage enchante un vêtement ou un conteneur afin qu'il constitue un refuge sûr pour un familier de taille TP ou I inférieure. Le sort transforme l'objet ou la poche visé en un espace extradimensionnel confortable (soit à peu près un cube de 30 centimètres d'arête). Le familier tient à l'intérieur de la poche sans créer de déformation visible à l'extérieur. À tout moment, à condition d'être en contact avec son familier, le mage peut le glisser dans la poche au prix d'une action libre et en prononçant un mot de commande. Si le familier est doué de parole, il peut formuler le mot lui-même. Le familier peut quitter ce refuge au prix d'une action libre, mais le maître peut l'en sortir de la même manière.
+Une fois à l'intérieur de la poche, le familier bénéficie d'un abri total (+4 à la CA) et d'un camouflage total (20 % de chances de le rater). Au prix d'une action libre, le familier (ou le mage) peut refermer la poche, la rendant totalement hermétique et étanche. La réserve d'air de la poche permet de respirer pendant 1 heure. Quand la poche est ouverte, le familier peut y rester indéfiniment. Le familier ne saurait attaquer ou lancer des sorts depuis l'espace extradimensionnel, mais il peut user de ses pouvoirs magiques et surnaturels (pourvu qu'ils ne nécessitent pas de ligne de mire).
+Le sort prend fin si la poche à familier est disposée à l'intérieur d'un autre espace extradimensionnel (comme un puits portable). Si le sort se termine alors que le familier se trouve encore à l'intérieur, il apparaît dans l'espace occupé de son maître, sans subir de désagréments.
+Composantes matérielles : une petite aiguille dorée et un bout de tissu de qualité, à demi torsadé et attaché aux extrémités.
+
+Poigne de pierre Transmutation [terre]
+Niveau : Ensorceleur/Magicien 3
+Effet : bras de terre animé Durée
+Durée : 1 round/niveau
+Ce sort est identique à Poigne tellurienne, si ce n'est que le bras de pierre peut jaillir de n'importe quelle surface naturelle, ce qui inclut roche, terre, boue, herbe ou sable. Le bras de pierre a une CA de 18, une solidité de 8 et 4 points de résistance par niveau de lanceur de sorts.
+Composantes matérielles : une main miniature sculptée dans la pierre.
+
+Poigne tellurienne Transmutation [terre]
+Niveau : Ensorceleur/Magicien 2
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : bras de terre animé
+Durée : 2 rounds/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+Du sol jaillit un bras constitué de terre dense et compacte capable d'agripper les adversaires du mage. Ce bras jaillit de la terre, de la boue, de l'herbe ou du sable, mais le sort échoue s'il est jeté dans une zone n'en renfermant pas (dont le sol est en pierre, par exemple).
+Considérez ce bras comme une créature de taille M pourvue d'un bonus de base à l'attaque égal au niveau de lanceur de sorts du mage et d'une Force de 14, +2 tous les trois niveaux de lanceur de sorts (16 au niveau 3, 18 au niveau 6, etc.). L'appendice ne bouge pas de la case au sein de laquelle il apparaît. Toutefois, il peut réaliser une tentative de lutte par round contre une créature située dans sa case ou dans une case adjacente à celle-ci, ce qui provoque une attaque d'opportunité. Si le bras a le choix entre plusieurs créatures, c'est au mage de décider à laquelle il s'attaque. Si celui-ci est incapable de faire un tel choix, l'appendice attaque une créature aléatoire située à portée (ce qui inclut les alliés du mage). À chaque round où elle parvient à immobiliser une cible, la main inflige 1d6 points de dégâts létaux (plus son modificateur de Force).
+Le bras tellurien a une CA de 15, une solidité de 4 et 3 points de résistance par niveau de lanceur de sorts. S'il perd tous ses points de résistance, il tombe en poussière.
+Composantes matérielles : une main miniature sculptée dans la glaise.
+
+Poing de pierre Transmutation [terre]
+Niveau : Ensorceleur/Magicien 1
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 minute
+Le mage transforme l'une de ses mains en redoutable poing de pierre vivante, bénéficiant ainsi d'un bonus d'altération de +6 en Force dans le cadre des attaques, des tests de lutte et de la destruction d'objets. De plus, il a droit à une attaque naturelle de coup (action simple) infligeant 1d6 points de dégâts auxquels on ajoute son nouveau bonus de Force (ou 1,5 fois ce nouveau bonus de Force s'il ne porte pas d'autre attaque pendant le round). S'il effectue une attaque à outrance, il peut porter ce coup en qualité d'attaque secondaire (malus habituel de -5 ou de -2 s'il possède le don Attaques multiples). Cependant, il ne saurait gagner plus d'une attaque de coup par round à l'aide de ce sort, même s'il possède un bonus de base à l'attaque élevé (+6 ou plus).
+Le poing du mage ne subit pas de modification de taille ou de forme, restant aussi souple et sensible que d'habitude.
+Composantes matérielles : un galet sur lequel est gravé un poing stylisé.
+
+Poing d’émeraude enflammé Évocation [feu]
+Niveau : Ensorceleur/Magicien 7
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : créatures ou objets touchés
+Durée : 1 round/niveau ; voir description
+Jet de sauvegarde : voir description
+Résistance à la magie : oui
+L'un des poings du mage s'illumine d'une flamme émeraude diffusant autant de lumière qu'une torche. Le personnage ne subit ni dégâts ni malus, mais s'il réussit une attaque de contact au corps à corps, il inflige 3d6 points de dégâts de feu, +1 point par niveau de lanceur de sorts (jusqu'à un maximum de +20). La créature touchée doit alors réussir un jet de Vigueur sous peine d'être engloutie par l'aura incandescente. Une créature ainsi embrasée subit 3dé points de dégâts de feu par round, +1 point par niveau de lanceur de sorts (jusqu'à un maximum de +20), jusqu'au terme de l'évocation (Vigueur, 1/2 dégâts à chaque round). Le mage peut user de son attaque de contact enflammée jusqu'à ce que l'une des cibles prenne feu, après quoi la flamme quitte son poing.
+Le mage peut également profiter de ce son pour attaquer un objet. La flamme verte embrase automatiquement les objets ordinaires non portés, qui subissent 3d6 points de dégâts de feu à chaque round, +1 point par niveau de lanceur de sorts.
+Pourriture végétale Transmutation
+Niveau : Druide 5
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : un objet en bois ordinaire, un volume de bois ou une créature végétale
+Durée : instantanée ou 1 round/niveau ; voir description
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Le personnage fait pourrir un objet en bois ou une créature végétale. Un objet en bois ordinaire et non porté de moins de 1,80 mètre de diamètre ou d'un volume de 90 centimètres de côté (comme une porte en bois) est détruit sur-le-champ.
+Le lanceur de sorts peut utiliser ce sort au combat pour briser un objet en bois ou pourvu d'une hampe en bois. L'arme (ou sa partie en bois) est détruite s'il réussit une attaque de contact au corps à corps. Habituellement, une tentative de destruction d'arme provoque une attaque d'opportunité. De plus, pourriture végétale n'a aucun effet sur une arme en bois utilisée pour frapper le personnage, même si ce dernier retient son sort. Face à un bouclier ou une armure en bois, le personnage doit également effectuer une attaque de contact au corps à corps. En cas de succès, les cibles trop grandes pour être détruites d'un coup voient leur bonus à la CA diminuer de 1d6 points et deviennent inutilisables si le résultat du jet dépasse leur bonus. Si l'attaque est couronnée de succès, le sort est utilisé. Les objets magiques en bois sont immunisés contre les effets de pourriture végétale.
+Utilisé contre une créature végétale, ce sort inflige 3dé points de dégâts, +1 point par niveau de lanceur de sorts (jusqu'à un maximum de +15). Le sort dure alors 1 round par niveau et le personnage peut effectuer une attaque de contact au corps à corps par round. Dès lors que le sort sert à s'en prendre à des créatures végétales, il n'est plus possible de l'utiliser contre des objets en bois.
+Composantes matérielles : un termite vivant.
+
+Protection contre les charmes Abjuration
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : la créature touchée
+Durée : 1 round/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+La cible de ce sort bénéficie d'un bonus de résistance de +1 tous les trois niveaux de lanceur de sorts (jusqu'à un maximum de +5) aux jets de Volonté contre les charmes et la coercition.
+Composantes matérielles : un fragment (cheveu ou autre) du corps d'une créature ayant une aptitude naturelle de charme ou de domination, comme le succube ou le vampire.
+
+Protection duale Abjuration
+Niveau : Ensorceleur/Magicien 5
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round/niveau ou jusqu'à utilisation (T)
+Le mage s'entoure d'un puissant champ magique qui le protège des sorts de ses ennemis. Tant que la protection duale est en place, le mage peut user de contresort au prix d'une action immédiate, ce qui lui permet d'y recourir sans avoir préparé d'action dans ce sens et même si ce n'est pas son tour de jeu. De plus, il bénéficie d'un bonus d'aptitude de +4 aux tests d'Art de la magie visant à identifier les sorts en cours d'incantation.
+Si le mage réussit à contrer un sort pendant la durée de la protection duale (que ce soit dans le cadre d'une action immédiate ou non), l'abjuration prend fin.
+Composantes matérielles : un gant en soie miniature.
+
+Regard de braise Évocation [feu]
+Niveau :
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : personnel
+Cible : le jeteur de sorts
+Durée : 1 minute
+Ce sort fait luire les yeux du wu jen d'une lueur étrange dont il choisit la couleur (du rouge au jaune brillant). Les yeux du wu jen projettent des faisceaux de lumière vive qui éclairent une case de 1,50 mètre de côté jusqu'à 1,50 mètre de distance. En entreprenant une action complexe et en fixant un point situé dans les 18 mètres, le personnage peut embraser les matériaux combustibles, mais pas de créatures vivantes. Si des créatures portent les objets affectés, les flammes leur infligent 1d6 points de dégâts de feu. Il leur faut alors réussir un jet de Réflexes (DD 15) sous peine de prendre feu.
+Rejet élémentaire Abjuration
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : 18 m
+Zone d'effet : émanation de 18 m de rayon centrée sur le jeteur de sorts
+Durée : 1 minute
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Ce sort permet au wu jen de chasser les élémentaires d'un type précis en poussant un cri effrayant. Quand il lance ce sort, tous les élémentaires présents dans la zone d'effet du sort fuient l'endroit, sauf s'ils réussissent un jet de Volonté. Le sort prend fin si le wu jen tente de pousser la barrière contre un élémentaire qui a raté son jet de sauvegarde.
+Composantes matérielles : une petite quantité de l'élément opposé au type d'être que le lanceur de sorts veut chasser (du feu pour les élémentaires de l'Eau, de la terre pour les élémentaires de l'Air, de l'air pour les élémentaires de la Terre et de l'eau pour les élémentaires du Feu).
+
+Réparation de dégâts critiques Transmutation
+Niveau : Ensorceleur/Magicien 4, Façonneur 4
+Identique à réparation de dégâts légers, si ce n'est que réparation de dégâts critiques répare 4d8 points de dégâts + 1 point par niveau du lanceur de sorts (maximum -20).
+Réparation de dégâts importants Transmutation
+Niveau : Ensorceleur/Magicien 3, Façonneur 3
+Identique à réparation de dégâts légers, si ce n'est que réparation de dégâts importants répare 3d8 points de dégâts + 1 point par niveau du lanceur de sorts (maximum +15).
+Réparation de dégats légers Transmutation
+Niveau : Ensorceleur/Magicien 1, Façonneur 1
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : la créature artificielle touchée
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Lorsque le mage pose les mains sur une créature artificielle disposant encore d'au moins 1 point de vie (ou une créature artificielle vivante qui possède -9 points de vie ou plus), il transforme sa structure pour réparer les dommages qu'elle a subis. Ce sort « guérit » 1d8 points de dégâts, +1 par niveau de lanceur (jusqu'à un maximum de +5).
+Réparation de dégâts modérés Transmutation
+Niveau : Ensorceleur/Magicien 2, Façonneur 2
+Identique à réparation de dégâts légers, si ce n'est que réparation de dégâts modérés répare 2d8 points de dégâts + 1 point par niveau du lanceur de sorts (maximum +10).
+Réparation de dégats superficiels Transmutation
+Niveau : Ensorceleur/Magicien 0
+Ce sort est identique à réparation de dégâts légers, si ce n'est qu'il répare seulement 1 point de dégâts.
+Résistance aux énergies destructives de groupe Abjuration
+Niveau : Ensorceleur/Magicien 4, Prêtre 3, Druide 3
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature/niveau, aucune ne devant se trouver à plus de 9 m d'une autre
+Jet de sauvegarde : Vigueur, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Ce sort est identique à Résistance aux énergies destructives, si ce n'est qu'il affecte plusieurs créatures.
+Sang bouillonant Nécromancie
+Niveau : Ensorceleur/Magicien 4
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : 1 créature vivante ; voir description
+Durée : 1 round/niveau (T)
+Jet de sauvegarde : Vigueur, partiel (voir description)
+Résistance à la magie : oui
+Le personnage infecte le sang d'une créature vivante à l'aide d'une infusion brûlante et corrosive infligeant 1d8 points de dégâts d'acide et 1d8 points de dégâts de feu par round. Le sujet a droit à un jet de Vigueur à chaque round pour annuler les dégâts, mais cela ne l'épargne pas d'en effectuer un nouveau aux rounds suivants. La douleur limite le sujet à une action de mouvement à chaque round où il rate son jet de Vigueur.
+Sang bouillonnant n'affecte pas les créatures artificielles, élémentaires, morts-vivants, plantes et vases.
+Composantes matérielles : une goutte de sang et une pincée de salpêtre.
+
+Second souffle Invocation (guérison) [Résurrection]
+Niveau :
+Composantes : V, G, M, F
+Temps d'incantation : 1 round entier
+Portée : contact
+Cible : la créature touchée
+Durée : 1 jour/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui (inoffensif)
+Ce sort permet de redonner un semblant de vie à une créature morte. Le wu jen peut ramener à la vie une créature morte depuis un nombre de jours égal à son niveau de lanceur de sorts. En outre, l'âme de cette créature doit être libre et d'accord pour réintégrer son enveloppe. Si l'âme de la créature défunte ne le souhaite pas, le sort n'a aucun effet. La créature ramenée à ce semblant de vie a 1 point de vie et ne peut entreprendre qu'une action de mouvement par round. Elle ne peut attaquer, lancer des sorts ou déclencher des objets magiques. Elle peut parler (si elle le pouvait de son vivant), mais seulement en marmonnant lentement. Ses souvenirs sont embrumés et elle a des difficultés à se rappeler les détails les plus élémentaires quant à sa vie passée et ses amis. Laissée sans surveillance, la créature a tendance à errer, sans idée de l'endroit où elle va ni d'où elle vient. Elle peut gagner des points de vie temporaires, mais pas augmenter son unique point de vie par l'intermédiaire d'une augmentation de Constitution ou de quelque autre moyen (si elle est blessée, il est possible de la soigner pour lui rendre son unique point de vie). La créature peut être tuée une nouvelle fois (et ramenée à la vie), mais également être rappelée à la vie au moyen d'un sort approprié (comme rappel à la vie). Tout comme pour le sort préservation des morts, le temps passé sous l'influence de ce sort ne rallonge pas le délai à l'issue duquel la créature peut être ramenée à la vie. Ce sort préserve le corps des effets de la décomposition.
+La créature ranimée n'est pas un mort-vivant et ne peut être renvoyée, blessée par une source d'énergie positive ou de l'eau bénite, ou guérie par une source d'énergie négative. Le sort restauration suprême fait récupérer l'intégralité de ses souvenirs à la créature, mais n'améliore pas son état physique.
+Composantes matérielles : un châle banc et de l'encens.
+Focaliseur : une amulette en or représentant un phénix.
+
+Serviteur invisible amélioré Invocation (création)
+Niveau : Ensorceleur/Magicien 3, Barde 3
+Portée : longue (120 m + 12 m/niveau)
+Ce sort est semblable à Serviteur invisible, si ce n'est que sa portée augmente (voir ci-dessus) et qu'il peut effectuer des DD jusqu'à un maximum de 15, que sa vitesse passe à 6m et sa force à 4.
+Shuriken de feu Évocation [feu]
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : 0 m
+Effet : un shuriken magique/3 niveaux
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+Ce sort fait apparaître des shuriken constitués d'un feu d'origine magique que le personnage peut lancer à toute cible située à portée au prix d'une attaque à distance. On considère alors qu'il est formé au maniement des shuriken de feu, qui ont un facteur de portée de 3 mètres, offrent une possibilité de critique sur un résultat de 19-20 et infligent 3d6 points de dégâts de feu (même s'ils ne brûlent ni le personnage ni son équipement au moment où il les lance). Les dégâts supplémentaires (ce qui inclut bonus de Force et d'attaque sournoise) sont également des dégâts de feu. Les shuriken disparaissent au moment où ils touchent et ne peuvent donc pas embraser les matériaux combustibles ou abîmer des objets.
+Le personnage peut créer jusqu'à un shuriken tous les trois niveaux de lanceur de sorts, jusqu'à un maximum de six au niveau 18.
+Composantes matérielles : un shuriken enduit de résine de pin et de soufre.
+
+Souffle de glace Évocation [froid]
+Niveau :
+Composantes : G, M
+Temps d'incantation : 1 action simple
+Portée : 9 m
+Zone d'effet : rayonnement en forme de cône
+Durée : instantanée ; voir description
+Jet de sauvegarde : Vigueur, annule
+Résistance à la magie : oui
+Ce sort permet au wu jen d'exhaler des cristaux de glace qui enveloppent les créatures présentes dans une zone d'effet conique. Les créatures affectées sont recouvertes d'une fine couche de glace qui leur inflige 1d6 points de dégâts tous les deux niveaux de lanceur de sorts (jusqu'à un maximum de 10d6). De plus, les créatures subissent des gelures temporaires qui ont pour effet de les fatiguer pendant 1 minute. Un jet de Vigueur réussi permet de ne subir ni les dégâts ni les effets des gelures.
+Composantes matérielles : une gorgée d'eau.
+
+Souffle de vapeur Évocation
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 round entier
+Portée : 9 m
+Zone d'effet : cône
+Durée : instantanée
+Jet de sauvegarde : Réflexes, 1/2 dégâts
+Résistance à la magie : oui
+Le wu jen exhale un puissant jet de vapeur brûlante qui s'évase en forme de cône depuis sa bouche.
+Les créatures situées dans ce cône subissent 1d6 points de dégâts de feu par niveau de lanceur de sorts (jusqu'à un maximum de 10d6). Le nuage de vapeur se dissipe instantanément après avoir infligé les dégâts indiqués.
+Composantes matérielles : une braise ardente que l'on asperge d'eau.
+
+Souffle enflammé Évocation [feu]
+Niveau :
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : personnel
+Cible : le jeteur de sorts
+Durée : 1 round/niveau
+Au prix d'une action simple, le wu jen peut cracher un jet de flammes 1 fois par round tant que dure le sort. Il effectue une attaque de contact à distance (jusqu'à une portée maximale de 4,50 mètres), infligeant 1d8 points de dégâts de feu tous les deux niveaux de lanceur de sorts (jusqu'à un maximum de 10d8) en cas de succès. Souple enflammé embrase les matériaux combustibles et abîme les objets situés dans la zone. Il est capable de faire fondre les métaux dont le point de fusion est bas (comme le plomb, l'or, le cuivre, l'argent et le bronze).
+Ce sort ne fonctionne pas sous l'eau.
+Sphère au vitriol Invocation (création) [acide]
+Niveau : Ensorceleur/Magicien 5
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : longue (120 m + 12 m/niveau)
+Zone d'effet : rayonnement de 3 m de rayon
+Durée : instantanée ; voir description
+Jet de sauvegarde : Réflexes, annule et Réflexes, 1/2 dégâts ; voir description
+Résistance à la magie : non
+Le personnage invoque une sphère couleur émeraude qui grésille et avale tout ce qui se trouve sur son passage à l'aide d'un acide redoutable. Les créatures affectées subissent 1d4 points de dégâts d'acide par niveau de lanceur de sorts (jusqu'à un maximum de 15d4) et doivent réussir un jet de Réflexes sous peine de subir des dégâts au cours des deux rounds suivants (6d4 au 2e round et 3d4 au 3e round). À chacune de ces deux rounds, le sujet a droit à un jet de Réflexes pour réduire les dégâts de moitié. S'il réussit le jet de Réflexes du 3e round, il ne subit pas de dégâts.
+Composantes matérielles : une minuscule fiole en verre remplie d'eau régale.
+
+Sphère de destruction ultime Invocation (création)
+Niveau : Ensorceleur/Magicien 9
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : une sphère de 60 cm de rayon
+Durée : 1 round/niveau (T)
+Jet de sauvegarde : Vigueur, partiel (voir description)
+Résistance à la magie : oui
+Le mage invoque une sphère de néant noire capable de désintégrer tout ce qu'elle touche. La sphère vole à la vitesse de 9 mètres par round et le personnage doit réussir une attaque de contact à distance contre la cible (objet ou créature). La sphère interrompt son déplacement au round où elle attaque. Le personnage doit ensuite entreprendre une action de mouvement pour la diriger vers une nouvelle cible.
+Une cible frappée par la sphère subit 2d6 points de dégâts par niveau de lanceur de sorts (jusqu'à un maximum de 40d6). Si les points de vie la cible tombent à 0 ou moins, elle est désintégrée, ne laissant derrière elle qu'une fine couche de poussière (son équipement n'est pas affecté). Contre un objet, la sphère peut désintégrer jusqu'à 27 m3 de matière inerte (équivalent d'un cube de 3 mètres de côté). Si la cible réussit son jet de Vigueur, elle ne subit que 5d6 points de dégâts. Là encore, elle est désintégrée si son capital de points de vie est réduit à 0 ou moins.
+La sphère est considérée comme un sort de désintégration pour ce qui est de détruire un mur de force ou quelque autre effet spécifiquement affecté par un sort de désintégration. Si elle quitte la portée du sort, elle disparaît aussitôt.
+Composantes matérielles : une pincée de poussière d'une créature désintégrée.
+
+Squamifère Transmutation
+Niveau :
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : personnel
+Cible : le jeteur de sorts
+Durée : 1 minute
+Grâce à ce sort, la peau du wu jen s'épaissit et luit comme si elle était recouverte d'écaillés. Il bénéficie d'un bonus d'altération de +2 au bonus d'armure naturelle (qui passe à +3 au niveau 6, à +4 au niveau 9 et à +5 à partir du niveau 12). Ce bonus d'altération se cumule le bonus d'armure naturelle du personnage (le cas échéant), mais avec d'autres bonus d'altération à l'armure naturelle. Une créature dépourvue d'armure naturelle a un bonus d'armure naturelle effectif de +0 (un peu comme un personnage portant de simples vêtements).
+Focaliseur : un tatouage du lanceur de sons représentant un lézard.
+
+Supplice Nécromancie
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : jusqu'à 1 DV de créatures/niveau, aucune ne devant se trouver à plus de 6 m d'une autre
+Durée : 1 minute
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : oui
+Les cibles sont victimes d'une douleur intense et atroce, si bien qu'elles subissent un malus de -4 aux jets d'attaque, tests de compétence et tests de caractéristique. Un jet de Vigueur réussi réduit ce malus à -2.
+Composantes matérielles : une sangsue vivante.
+
+Taille de géant Transmutation
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 round entier
+Portée : personnel
+Cible : le jeteur de sorts
+Durée : 1 minute
+Ce sort donne au wu jen des dimensions titanesques (taille TG, Gig ou C selon son niveau de lanceur de sorts). Sa Force, sa Dextérité, sa Constitution, son armure naturelle, son modificateur de taille à la CA et aux jets d'attaque, son espace occupé et son allonge sont modifiés en relation avec sa nouvelle taille, comme indiqué dans la table ci-dessous. Le wu jen n'est pas obhgé de choisir la taille la plus imposante qui lui est proposée.
+Tout son équipement change de taille avec lui, ce qui lui permet d'utiliser ses armes et objets magiques sous sa nouvelle forme.
+
+Niveau de lanceur de sorts	Taille	For	Dex	Con	CA nat.	Modif. CA/attaque	Espace/allonge
+1-15	TG (6 m)	+16	-2	+4	+3	-2	4,50 m/4,50 m
+17-18	Gig(12m)	+24	-2	+8	+7	-4	6 m/6 m
+19 ou plus	C (21,6 m)	+32	-2	+12	+12	-8	9 m/9 m
+
+Composantes matérielles : une écaille de dragon ou des cheveux de géant.
+
+Taille de nain Transmutation
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 round
+Portée : personnel
+Cible : le jeteur de sorts
+Durée : 1 minute
+Ce sort donne au wu jen des dimensions réduites (taille TP, Min ou I selon son niveau de lanceur de sorts). Sa Force, sa Dextérité, sa Constitution, son modificateur de taille à la CA et aux jets d'attaque, son espace occupé et son allonge sont modifiés en relation avec sa nouvelle taille, comme indiqué dans la table ci-dessus. Le wu jen n'est pas obligé de choisir la taille la plus petite qui lui est proposée.
+Aucune de ses valeurs de caractéristiques ne peut être réduite à moins de 1 à cause de cette transmutation. Tout son équipement change de taille avec lui, ce qui lui permet d'utiliser ses armes et objets magiques sous sa nouvelle forme.
+
+Niveau de lanceur de sorts	Taille	For	Dex	Con	Modif. CA/attaque	Espace/allonge
+15-16	TP (45 cm)	-8	+4	-2	+2	75 cm/0 m
+17-18	Min (22,5 cm)	-10	+6	-2	+4	30 cm/0 m
+19 ou plus	1 (7,5 cm)	-10	+8	-2	+8	15 cm/9 m
+
+Composantes matérielles : une puce.
+
+Tatouages animés Transmutation
+Niveau :
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : 1 ou 2 créatures
+Durée : instantanée ; voir description
+Jet de sauvegarde : Vigueur, partiel ; voir description
+Résistance à la magie : oui
+Ce sort transforme les tatouages de serpents (le focaliseur du sort) du wu jen en véritables serpents qui sont projetés vers la cible désignée, se plantant dans son corps comme des fléchettes et lui inoculant leur venin. Les serpents touchent toujours leur cible et leur impact inflige 3d6 points de dégâts chacun. Le venin inflige un affaiblissement temporaire de 1d6 points de Constitution sur-le-champ, puis un affaiblissement semblable 1 minute après. La cible peut à chaque fois annuler les effets du poison en réussissant un jet de Vigueur.
+Après avoir frappé les cibles désignées, les serpents reviennent au lanceur de sorts. Ce dernier doit les avaler vivants (ce qui fait réapparaître les tatouages sur ses avant-bras) avant de pouvoir de nouveau lancer ce sort. Il s'agit là d'une action simple qui ne le blesse en rien et ne provoque pas d'attaque d'opportunité.
+Focaliseur : deux tatouages de serpents, d'ordinaire enroulés autour des avant-bras du lanceur de sorts.
+
+Téléportation anticipée Abjuration
+Niveau : Ensorceleur/Magicien 4
+Composantes : V, G, F
+Temps d'incantation : 1 round entier
+Portée : 1 créature consentante touchée
+Zone d'effet : émanation de 1,50 m de rayon/niveau, centrée sur la créature touchée
+Durée : 1 heure/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Le sujet du sort est entouré par une aura invisible qui anticipe et retarde la téléportation des créatures situées dans la zone d'effet. Tous les sorts et effets de téléportation (ce qui inclut les sorts pourvus du registre du même nom) peuvent ainsi être anticipés, si bien que le sujet du sort apprend instantanément l'endroit où arrivera la créature, sa taille et le nombre d'aillés (et leur taille) l'accompagnant. Le sort retarde également de 1 round l'arrivée de la créature (de sorte qu'elle arrive juste avant son tour de jeu suivant, au moment précis correspondant à son initiative), ce qui donne au bénéficiaire du sort et à tous ceux qu'il prévient 1 round pour agir et se préparer. La créature qui se téléporte n'est pas consciente de ce retard.
+Étant donné qu'une créature usant de téléportation n'arrive pas toujours à l'endroit voulu, le sort fonctionne également si une créature arrive à portée alors qu'elle souhaitait se rendre ailleurs. Pour une créature censée se téléporter à portée mais qui arrive en dehors de la zone d'effet, le sujet découvre la tentative de celle-ci et parvient même à la retarder de 1 round, mais il ne découvre pas l'endroit de son apparition.
+Le sort n'a aucun effet sur les créatures qui tentent de se téléporter en dehors de la zone du sort. Cependant, si leur point d'arrivée se situe au sein de la zone d'effet, le sort affecte bel et bien leur réapparition.
+Focaliseur : un minuscule sablier en platine et en cristal d'une valeur de 500 po. Le sujet doit le tenir ou le porter pendant la durée du sort.
+
+Téléportation anticipée suprême Abjuration
+Niveau : Ensorceleur/Magicien 8
+Temps d'incantation : 10 minutes
+Durée : 24 heures
+Ce sort est identique à téléportation anticipée, ci ce n'est qu'il permet également d'identifier le type de la créature qui arrive (et de ses compagnons). De plus, il la retarde de 3 rounds, ce qui offre au sujet davantage de temps pour se préparer.
+Focaliseur : un minuscule sablier en platine et en cristal rempli de poussière de diamant d'une valeur de 1 000 po. Le sujet doit le tenir ou le porter pendant la durée du sort.
+
+Ténèbres vivantes Évocation [obscurité]
+Niveau :
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : une étendue nuageuse de 6 m de rayon et de 6 m de haut (F)
+Durée : 3 rounds/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort fait apparaître un nuage informe d'obscurité. Le wu jen peut le façonner et le déplacer à sa guise tant que le sort produit ses effets, s'il maintient sa concentration et si le nuage reste à portée. Le personnage peut déplacer le nuage de 6 mètres par round. Ce dernier peut s'infiltrer par les plus petits trous et flotte dans les airs. Le nuage étouffe la lumière et les sons. Les créatures qui se trouvent en son sein sont assourdies et aveuglées (cela vaut également pour la vision dans le noir). De plus, elles sont incapables de parler ou de lancer des sorts à composantes verbales. Enfin, les créatures intégralement situées dans le nuage bénéficient d'un camouflage total. Un vent modéré (15 km/h ou plus) disperse le nuage en 5 rounds. Un vent violent (30 km/h ou plus) le disperse en 2 rounds.
+Composantes matérielles : un poil de moustache d'un vieux chat noir et une petite bouteille contenant de la fumée recueillie au cours d'une nuit sans lune
+
+Test de résistance Divination
+Niveau : Ensorceleur/Magicien 4, Prêtre 4
+Composantes : V, G
+Temps d'incantation : 1 action rapide
+Portée : personnel
+Cible : le jeteur de sorts
+Durée : 1 round/niveau
+Ce sort permet au personnage de saisir la nature exacte et les failles des défenses magiques d'une créature, ce qui lui confère un bonus de +10 au test de niveau de lanceur de sorts visant à passer outre sa résistance à la magie. Test de résistance est efficace contre une créature précise. Le personnage doit être en mesure de la voir au moment où il jette le sort.
+Trait de glace Invocation (création) [froid]
+Niveau :
+Composantes : G, M
+Temps d'incantation : 1 action simple
+Portée : longue (120 m + 12 m/niveau)
+Effet : 1 projectile de glace
+Durée : instantanée
+Jet de sauvegarde : voir description
+Résistance à la magie : oui
+Ce sort fait apparaître un trait de glace dans la main du personnage, qui va le diriger vers la cible désignée. Le personnage doit réussir une attaque à distance normale pour la toucher. Il bénéficie d'un bonus de +2 au jet d'attaque tous les deux niveaux de lanceur de sorts. En cas de réussite, le trait de glace inflige 2d8 points de dégâts de froid et un affaiblissement temporaire de 2 points de Dextérité (un jet de Vigueur couronné de succès permet d'annuler l'affaiblissement temporaire). Les créatures immunisées contre les dégâts de froid ne subissent pas l'affaiblissement temporaire de Dextérité.
+Si le trait rate sa cible, il se produit une explosion de cristaux de glace dans un rayonnement de 3 mètres de rayon (cf. Attaque ratée avec une arme de lancer pour déterminer où tombe la pluie de cristaux). Cette explosion de glace inflige 1d8 points de dégâts de froid aux créatures présentes dans la zone d'effet (Réflexes, 1/2 dégâts).
+Composantes matérielles : une goutte d'eau ou un morceau de glace.
+
+Transfert de sorts au familier Universel
+Niveau : Ensorceleur/Magicien 6
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : le familier touché
+Durée : 1 heure/ niveau
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Le mage transfère certains de ses sorts à son familier, qui a ainsi la faculté de les lancer. Si le personnage est un ensorceleur, il transfère des sorts qu'il connaît. S'il s'agit d'un magicien, il transfert des sorts préparés.
+Il est permis de transférer jusqu'à un sort tous les trois niveaux de lanceur de sorts. Le niveau maximum de ces sorts est égal au tiers du niveau de lanceur de sorts du mage, arrondi à l'entier inférieur (5e niveau maximum). Ces limites ne sont pas modifiables par des incantations multiples de ce sort.
+Les variables numériques des sorts donnés au familier (portée, durée, zone d'effet, etc.) sont déterminées en fonction du niveau du mage. Lorsque transfert de sorts au familier a été lancé, les emplacements sorts correspondant à ce sort et à ceux que le mage transfère restent indisponibles jusqu'à ce que le familier les ait utilisés ou qu'il soit tué. Le sort peut être dissipé. Dans ce cas, le familier perd l'usage des sorts transférés, comme s'il les avait lancés. Au sein d'une zone d'antimagie, le familier perd la faculté de lancer les sorts transférés, mais il la recouvre dès qu'il en sort (sauf si le sort est arrivé à terme entre-temps).
+Le mage doit disposer des focaliseurs et des composantes matérielles nécessaires pour jeter les sorts transférés au moment où ceux-ci sont lancés (les composantes sont détruites sans qu'il ait à les brandir). Tout coût en PX induit par un sort transféré est déduit du total du personnage quand le familier lance le sort.
+Transmutation de la pierre en lave Transmutation [feu, terre]
+Niveau : Ensorceleur/Magicien 9, Druide 9
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : un cube de 3 m de côté
+Durée : instantanée
+Jet de sauvegarde : Réflexes, 1/2 dégâts (voir description)
+Résistance à la magie : non
+Ce sort transforme la pierre naturelle ou non travaillée en un volume égal de lave en fusion. Toutes les créatures situées dans la zone ont droit à un jet de Réflexes. Celles qui le réussissent subissent 2dé points de dégâts de feu, du moins si elles ont la chance de fuir la zone avant leur tour de jeu suivant. Les autres (et celles qui se révèlent incapables de quitter la zone) subissent 20d6 points de dégâts de feu par round passé dans la zone. Les créatures prises dans la lave ont une vitesse de déplacement de 1,50 mètre et subissent un malus —2 aux jets d'attaque et à la CA. Après avoir quitté la zone d'effet, les sujets qui ont eu le malheur d'être exposés à la lave subissent des dégâts réduits de moitié (1d6 ou 10d6) pendant 1d3 rounds supplémentaires.
+Si transmutation de la pierre en lave est jeté sur le plafond d'une grotte ou d'un tunnel, la lave tombe au sol et constitue un bassin de 4,50 mètres de rayon sur 45 centimètres de profondeur. La pluie de lave inflige 2d6 points de dégâts de feu et 1d6 points de dégâts contondants aux créatures situées juste en dessous (Réflexes, 1/2 dégâts). De plus, les victimes prises dans la zone du bassin subissent 2d6 points de dégâts de feu pendant 1d3 rounds après l'avoir fui.
+Bien que les constructions en pierre ne puissent être visées par ce sort, il est possible de le jeter leurs fondations ou des parois rocheuses adjacentes. Dans ce cas, la partie de l'édifice en contact avec la lave subit 10d6 points de dégâts de feu par round. Les constructions en bois prennent feu sur-le-champ.
+La lave refroidit naturellement depuis sa surface en progressant vers son centre. Recouvrant doucement une forme de pierre, elle n'inflige plus de dégâts après 2dé heures. Bien qu'un bassin de lave de 4,50 mètres de rayon puisse mettre jusqu'à deux jours avant de refroidir totalement, le cœur d'un cube de lave de 3 mètres de côté peut rester en fusion pendant un mois, voire davantage.
+Une roche magique ou enchantée ne saurait être affectée par ce sort.
+Venin de cobra Transmutation
+Niveau :
+Composantes : G, M
+Temps d'incantation : Transmutation
+Portée : 3 m
+Zone d'effet : rayonnement en forme de cône
+Durée : instantanée
+Jet de sauvegarde : Vigueur, annule
+Résistance à la magie : non
+La salive du lanceur de sorts devient un poison virulent qu'il peut ensuite cracher dans un cône de 3 mètres de long. Les créatures situées dans ce cône doivent réussir un jet de Vigueur sous peine de subir un affaiblissement temporaire de 1d3 points de Constitution. Le poison n'affecte pas le wuj en et ne présente pas d'effets secondaires.
+Composantes matérielles : un croc de cobra.
+
+Venin du crapaud Nécromancie
+Niveau :
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : créature vivante touchée
+Durée : instantanée ; voir description
+Jet de sauvegarde : Vigueur, annule (voir description)
+Résistance à la magie : oui
+Le simple contact du wu jen est délétère et inocule un poison à toute créature touchée au moyen d'une attaque de contact au corps à corps. Le poison inflige un affaiblissement temporaire initial de 1d6 points de Constitution, puis un affaiblissement temporaire secondaire identique 1 minute après. La cible peut s'en prémunir à chaque fois en réussissant un jet de Vigueur.
+Focaliseur : un tatouage du lanceur de sorts représentant un crapaud.
+
+Vision dans le noir de groupe Transmutation
+Niveau : Ensorceleur/Magicien 4
+Composantes : V, G, M
+Portée : 3 mètres
+Cible : le mage et ses alliés situés dans un rayonnement de 3 m de rayon centré sur le jeteur de sorts
+Durée : 1 heure/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inofensif)
+Ce sort est identique à Vision dans le noir, si ce n'est que toutes les cibles en bénéficient.
+Contrairement à vision dans le noir, les sujets ne peuvent néanmoins pas profiter d'un sort de permanence.
+Composantes matérielles : une carotte séchée ou trois petites agates.
+
+Vol de groupe Transmutation
+Niveau : Ensorceleur/Magicien 5
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature/niveau, aucune ne devant se situer à plus de 9m d'une autre
+Durée : 1 minute/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Ce sort est identique à vol, mais il affecte plusieurs créatures. Chaque sujet doit rester à 9 mètres ou moins d'un autre sous peine de voir le sort prendre fin pour celui qui s'écarte. Si deux sujets seulement sont affectés, ils perdent tous deux le bénéficie du sort si la distance qui les sépare excède 9 mètres.
+Volte-face Nécromancie
+Niveau : Ensorceleur/Magicien 1
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : une arme
+Durée : 1 heure/niveau ou jusqu'à utilisation
+Jet de sauvegarde : Volonté, annule (objet)
+Résistance à la magie : oui (objet
+Ce sort consiste à enchanter une arme à deux mains (comme une grande hache ou un fléau d'armes lourd) ou une arme à allonge (comme une pique ou une coutille) pourvue d'une poignée ou d'une hampe en bois. Dès que l'arme est utilisée pour porter une attaque au corps à corps, son manche fait volte-face et elle frappe celui qui la manie, le jet d'attaque étant effectué contre sa propre CA.
+Le porteur n'est évidemment pas averti de la menace qui pèse sur lui.
+Bien qu'il effectue l'attaque, les dégâts qu'il s'inflige ne sauraient être réduits consciemment (mais sa réduction des dégâts s'applique, le cas échéant) ou transformés en dégâts non-létaux. Une fois l'attaque réalisée (qu'elle soit couronnée de succès ou non), le sort prend fin.
+Le sort peut prendre pour cible une arme de n'importe quelle taille dès lors que son porteur la manie à deux mains ou au titre d'une arme à allonge. Par exemple, une pique de taille P maniée par un halfelin conviendra parfaitement, ce qui ne sera pas le cas si son porteur est humain. En effet, elle est alors trop petite pour faire volte-face et frapper son porteur.
+Les armes magiques visées par ce sort ont droit à un jet de Volonté. Une arme tenue par une créature exploite son bonus de base aux jets de Volonté ou celui de son porteur, au choix.
+Focaliseur : une dague

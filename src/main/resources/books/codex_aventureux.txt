@@ -1,0 +1,445 @@
+Absorption d’arme Transmutation
+Niveau :
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : 1 arme touchée qui n'est pas en possession d'une autre créature
+Durée : 1 heure/niveau (T)
+Jet de sauvegarde : Volonté, annule (objet)
+Résistance à la magie : oui (objet)
+Le personnage peut sans danger absorber une arme qu'il touche (même si elle est empoisonnée) dans son bras, tant qu'elle n'est pas en possession d'une autre créature. L'arme doit être une arme légère pour le personnage au moment où il lance le sort. On ne peut pas sentir l'arme absorbée sous sa peau, et elle ne restreint en aucun cas ses mouvements. Une arme absorbée ne peut pas être détectée, même par une fouille minutieuse, mais un sort de détection de la magie révélera la présence d'une aura magique. La seule preuve de sa présence est une vague rougeur sur la peau, prenant approximativement la forme de l'arme.
+Quand le personnage touche cette tache (une action qui équivaut à dégainer une arme) ou quand la durée du sort expire, l'arme apparaît dans sa main et le sort s'achève. S'il attaque avec l'arme durant le même round que celui où il l'a sortie de sa cachette, il peut tenter d'effectuer un test de Bluff pour faire une feinte lors du combat au prix d'une action libre, et il gagne un bonus de +4 au test de Bluff. Les armes magiques intelligentes ont droit à un jet de sauvegarde contre ce sort, mais pas les armes ordinaires.
+Accord dissonant Évocation [son]
+Niveau : Barde 3
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : 3 m
+Zone d'effet : rayonnement de 3 m de rayon, centré sur le lanceur de sorts
+Durée : instantanée
+Jet de sauvegarde : Vigueur, 1/2 dégâts
+Résistance à la magie : oui
+Le personnage émet une note assourdissante et terrifiante. Hormis lui, toutes les créatures situées dans la zone d'effet subissent 1d8 points de dégâts de son par tranche de 2 niveaux de lanceur de sorts (maximum 5d8).
+Acier silencieux Transmutation
+Niveau : Prêtre 2, Barde 2
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : une armure touchée par tranche de trois niveaux
+Durée : 1 heure/niveau (T)
+Jet de sauvegarde : Volonté, annule (inoffensif, objet)
+Résistance à la magie : oui (inoffensif, objet)
+Tant que ce sort agit, le malus d'armure aux tests ne s'applique pas aux tests de Déplacement silencieux et de Discrétion. Seuls les individus formés au port de l'armure bénéficient de cet avantage quand ils portent une armure affectée. Le malus d'armure aux tests s'applique normalement aux autres tests.
+Allegro Transmutation
+Niveau : Barde 3
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : 3 m
+Effet : rayonnement de 3 m de rayon, centré sur le personnage
+Durée : 1 minute/niveau (T)
+Jet de sauvegarde : Vigueur, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Ce sort confère au personnage et à ses compagnons une extraordinaire rapidité. Chaque créature située dans la zone d'effet du sort gagne un bonus d'altération de +9 mètres à sa vitesse de déplacement au sol de base, jusqu'à un maximum égal au double de sa valeur d'origine. Les créatures affectées bénéficient de cet effet pour toute la durée du sort, même si elles quittent la zone d'origine.
+Composantes matérielles : une plume de la queue d'un oiseau de proie
+
+Alléluia Évocation [Bien, son]
+Niveau : Barde 3
+Composantes : V, G
+Temps d'incantation : 1 round entier
+Portée : moyenne (30 m + 3 m/niveau)
+Zone d'effet : émanation en forme de sphère dont le rayon est égal à la portée, centrée sur le lanceur de sorts
+Durée : 1 round/niveau (T)
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Le personnage peut entonner une chanson exaltante et inspirée qui augmente temporairement de 2 le niveau effectif de lanceur de sorts de chaque lanceur de sorts divins d'alignement bon situé à portée. Cette augmentation ne donne pas accès à des sorts supplémentaires, mais améliore tous les effets des sorts qui dépendent du niveau de lanceur de sorts. De plus, alléluia imite les effets d'un sort de sanctification en ce qui concerne le renvoi et l'intimidation des morts-vivants. Dans la zone d'effet du sort, chaque lanceur de sorts divin d'alignement bon gagne un bonus de sainteté de +4 aux tests de Charisme destinés a renvoyer les morts vivants, et chaque lanceur de sorts divin d'alignement mauvais reçoit un malus de sainteté de -4 aux tests de Charisme destinés a intimider les morts-vivants.
+Altération de la parole Transmutation (son)
+Niveau : Barde 1
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature
+Durée : 1 round/niveau
+Jet de sauvegarde : Vigueur, annule
+Résistance à la magie : oui
+Le personnage déforme la voix d'une créature. Celle-ci semble faussée et presque inintelligible. Pendant la durée de ce sort, le sujet a 50% de chances de rater ses sorts dotés d'une composante verbale, et à chaque fois qu'il parle (y compris pour utiliser des objets magiques à mot de commande), il y a 50% de chances pour que son discours soit complètement incompréhensible et par conséquent inefficace.
+Animal de cirque Enchantement (charme) [mental]
+Niveau : Druide 2, Rodeur 2
+Composantes : V, G, FD
+Temps d'incantation : 10 minutes
+Portée : contact
+Cible : animal touché
+Durée : 1 heure/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Le personnage augmente temporairement le nombre de tours qu'un animal connaît. Tant que dure ce sort, l'animal affecté gagne un nombre de tours supplémentaires égal à la moitié du niveau de lanceur de sorts du personnage (pour un maximum de 5).
+Ce sort ne modifie pas l'attitude d'un animal à l'égard du lanceur de sorts, et ne garantit pas non plus qu'il coopérera quand on lui demandera d'accomplir les tours appris de la sorte.
+Arme d’ombre Illusion (ombre)
+Niveau : Ensorceleur/Magicien 3, Barde 4
+Composantes : V, G
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le lanceur de sorts
+Durée : 1 round/niveau (T)
+Jet de sauvegarde : Volonté, partiel (voir description)
+Résistance à la magie : oui (voir description)
+En utilisant de la matière issue du plan de l'Ombre, le personnage peut fabriquer une arme quasi réelle de n'importe quel type qu'il sait manier. Cette arme spectrale apparaît dans sa main et se comporte comme une arme normale de son type, à deux exceptions près. D'abord, le personnage résout les attaques portées à l'aide de son arme spectrale comme des attaques de contact au corps a corps au lieu d'attaques de corps à corps. Deuxièmement, tout adversaire qu'il touche a droit a un jet de Volonté pour reconnaître la nature réelle de l'arme d'ombre. En cas de succès, cet adversaire ne subit qu'un cinquième des dégâts normaux infligés par cette arme pour cette attaque et toutes les suivantes, et n'a que 20% de chances de subir n'importe quel effet spécial lié aux attaques du personnage (comme une attaque mortelle portée avec cette arme).
+Le personnage ne peut avoir qu'une arme spectrale à la fois, et lui seul peut s'en servir. L'arme se dissipe quand il la lâche ou à expiration du sort s'il ne la lâche pas.
+Arme sonique Transmutation [son]
+Niveau : Ensorceleur/Magicien 2, Barde 2
+Composantes : V
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : arme touchée
+Durée : minute/niveau (T)
+Ce sort recouvre temporairement une arme d'énergie sonique. Tant que dure le sort, l'arme affectée inflige 1d6 points de dégâts de son supplémentaires à chaque attaque réussie. L'énergie sonique ne blesse pas le porteur de l'arme. Les arcs, arbalètes et frondes affectées par ce sort transmettent l'énergie sonique à leurs projectiles.
+Attaque du tireur d’élite Divination
+Niveau : Ensorceleur/Magicien 1, Rodeur 1
+Composantes : V, G
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le lanceur de sorts
+Durée : 1 round
+Quand il lance ce sort, le personnage affine et étend ses perceptions pour porter une attaque à distance dévastatrice. Sa prochaine attaque à distance (si elle est effectuée avant le début de son prochain tour) peut être une attaque sournoise, quelle que soit la distance qui le sépare de sa cible.
+Ce sort ne confère pas au personnage l'aptitude d'attaque sournoise s'il n'en dispose pas déjà.
+Attaque spectrale Transmutation
+Niveau : Ensorceleur/Magicien 2
+Composantes : V, G
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round
+Quand le personnage lance ce sort, ses armes de corps à corps ou ses armes naturelles deviennent fantomatiques et presque transparentes pendant un bref instant. Tant que dure l'effet de ce sort, ses attaques de corps à corps sont résolues comme des attaques de contact au corps à corps au lieu d'attaques de corps à corps normales.
+Bâton d’enchevètrement Transmutation
+Niveau : Ensorceleur/Magicien 4, Druide 3
+Composantes : V, F
+Temps d'incantation : 1 action rapide
+Portée : contact
+Cible : un bâton touché
+Durée : 1 round/niveau (T)
+Jet de sauvegarde : oui (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Le personnage peut amener son bâton à produire des lianes qui lui permettent de facilement attraper et capturer des adversaires. À chaque fois qu'il réussit à toucher l'adversaire à l'aide de son bâton (une attaque de corps à corps normale), il inflige les dégâts normaux et peut tenter d'engager une lutte en tant qu'action libre sans provoquer d'attaque d'opportunité. Cette tentative de lutte ne nécessite pas d'attaque de contact séparée. Le personnage gagne un bonus de +8 aux tests de lutte qu'il provoque en frappant un adversaire à l'aide du bâton d'enchevêtrement. Il peut tenter de saisir des créatures dont la catégorie de taille est supérieure de un a la sienne.
+En cas de réussite de son jet de lutte, les lianes du bâton ligotent l'adversaire, infligeant 2d6 points de dégâts (le personnage peut choisir d'infliger des dégâts létaux ou non-létaux). Ensuite, il a deux options :
+Relâcher la prise. Il peut libérer son adversaire. Quelques lianes restent accrochées à l'adversaire, le laissant enchevêtré jusqu'à l'expiration du sort. Il peut attaquer des ennemis différents lors des rounds suivants avec le bâton d'enchevêtrement, et les saisir pour les enserrer ou les immobiliser.
+Maintenir la prise. Aux rounds suivants, il inflige des dégâts de constriction en réussissant un test de lutte. Il peut alors choisir de relâcher ou de maintenir la prise a nouveau.
+Focaliseur : un bâton.
+
+Bouclier cacophonique Évocation (son)
+Niveau : Ensorceleur/Magicien 7, Barde 6
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : 3 m
+Zone d'effet : émanation de 3 m de rayon, centrée sur le lanceur de sorts
+Durée : 1 minute/niveau (T)
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : oui
+Le personnage crée une barrière d'énergie sonique située à 3 mètres de lui. Les créatures situées de part et d'autre de la barrière entendent un bourdonnement très sonore mais inoffensif. Les sons non magiques (comme ceux produits par une pierre à tonnerre) ne traversent pas la barrière. Les sons ou effets sonores surnaturels ou basés sur des sorts ne pénètrent la barrière que si le lanceur de sorts ou la créature qui en est à l'origine réussit un test de niveau de lanceur de sorts (DD 11 + le niveau de lanceur de sorts du personnage).
+Toute créature qui franchit la barrière subit 1d6 points de dégâts de son + 1 point par niveau de lanceur de sorts (maximum +20) et doit réussir un jet de Vigueur pour éviter d'être assourdie pendant 1 minute. Les vibrations sonores infligent aux projectiles traversant la barrière dans un sens ou dans l'autre un risque de rater de 20%. La barrière se déplace avec le personnage, mais il ne peut pas forcer une autre créature a la traverser (par exemple en se déplaçant a côté d'un ennemi). S'il force une créature a traverser la barrière, celle-ci n'a aucun effet sur elle.
+Branche à branche Transmutation
+Niveau : Druide 2, Rodeur 2
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 10 minutes/niveau (T)
+Le personnage gagne un bonus d'aptitude de +10 aux tests d'Escalade dans les arbres. Tant qu'il reste a au moins 3 mètres au dessus du sol, il peut se balancer de branche en branche ou de liane en liane dans une forêt dense ou intermédiaire, mais pas dans une forêt clairsemée. Quand il se balance de la sorte, il gagne un bonus d'altération de 3 mètres à sa vitesse de déplacement au sol et ignore les restrictions de déplacement dus aux broussailles et autres caractéristiques du terrain. Il peut charger en se balançant, mais pas courir. Naturellement, certaines conditions locales comme les clairières, les zones clairsemées, les larges cours d'eau ou autres interruptions de la couverture de branchages de la forêt peuvent le forcer a redescendre au sol.
+Caresse des tourments Nécromancie
+Niveau : Ensorceleur/Magicien 2, Druide 2
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : créature touchée
+Durée : instantanée
+Jet de sauvegarde : Vigueur, demi-dégâts
+Résistance à la magie : oui
+Le contact du personnage inflige une horrible douleur a un point vital de la créature effleurée. Le lanceur de sorts pose la main sur une créature et inflige 1d6 points de dégâts + 1 point par niveau de lanceur de sorts (pour un maximum de +10). De plus, s'il dispose de l'aptitude attaque sournoise, le personnage inflige également les dégâts d'attaque sournoise à la créature affectée, a moins que celle-ci ne soit immunisée contre les dégâts supplémentaires dus aux coups critiques. La créature subit quand même les dégâts du sort, même si les dégâts d'attaque sournoise ne s'appliquent pas. Contrairement à l'utilisation normale de l'attaque sournoise, la cible n'a pas besoin d'être prise en tenaille ou dans une situation où elle ne bénéficie pas de son bonus de Dextérité a la CA pour subir les dégâts d'attaque sournoise de ce sort.
+Chant serein Enchantement (coercition) [mental]
+Niveau : Barde 1
+Composantes : V
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 minute (T)
+Le personnage peut utiliser chant serein pour éviter d'être distrait et focaliser son attention. Il gagne un bonus de circonstances de +1 aux jets d'attaque, aux tests de compétence et de caractéristique pour la durée du sort. Il n'a pas besoin de se concentrer sur son chant serein, mais il doit continuer à psalmodier les syllabes du chant pour maintenir le sort. Par conséquent, il ne peut pas parler, utiliser des effets de musique de barde, ou lancer des sorts assortis de composantes verbales quand un sort de chant serein est actif.
+Mettre un terme à un chant serein est une action immédiate.
+Chorus harmonieux Enchantement (coercition) [mental]
+Niveau : Barde 3
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature vivante
+Durée : concentration, jusqu'à 1 round/niveau (T)
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Chorus harmonieux permet au personnage d'améliorer les capacités magiques d'un autre lanceur de sorts. Pendant la durée du sort, le sujet gagne un bonus de moral de +2 au niveau de lanceur de sorts et un bonus de moral de +2 aux DD des jets de sauvegarde de tous les sorts qu'il lance.
+Focaliseur : un diapason.
+
+Coup critique Divination
+Niveau : Ensorceleur/Magicien 1
+Composantes : V
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round
+Tant que ce sort fait effet, les attaques de corps à corps du personnage sont plus susceptibles de toucher un point vital de l'ennemi. Lorsqu'il effectue une attaque de corps a corps contre un adversaire pris en tenaille ou qui se voit privé de son bonus de Dextérité à la classe d'armure, le personnage inflige 1d6 points de dégâts supplémentaires, la zone de critique possible de son arme est doublée (comme si elle était sous l'effet du sort affûtage) et il gagne un bonus d'intuition de +4 aux jets de confirmation des coups critiques. La zone de critique accrue conférée par ce sort n'est pas cumulative avec d'autres effets qui augmentent la zone de critique des armes. Les créatures immunisées contre les attaques sournoises le sont aussi contre les dégâts supplémentaires infligés par les attaques du personnage.
+Courant d’air ascendant Invocation (création) [air, météo]
+Niveau : Prêtre 1, Druide 1
+Composantes : V, G, M
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : instantanée
+Courant d’air ascendant donne naissance à une bourrasque qui propulse le personnage dans les airs. Il s’élève de 3 mètres par niveau, avant de retomber lentement au sol. A tout moment durant la descente, il peut se déplacer de 1,5 mètre latéralement.
+Composantes matérielles : hélice ou moulin à vent miniature.
+
+Création de sentier Abjuration
+Niveau : Druide 2, Rodeur 1
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : 12 m
+Cible : émanation de 12 m de rayon
+Durée : 1 heure/niveau (T)
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+Le personnage irradie d'une énergie qui repousse doucement les plantes, lui permettant d'avancer sans mal et de dissimuler son passage.
+Quiconque se trouve dans la zone d'effet de ce sort (y compris le personnage) voit la végétation s'écarter sur son passage. Cela permet de créer un sentier dans n'importe quel type de sous-bois, réduisant les malus aux déplacements issus des broussailles. Une fois les effets du sort terminés, les plantes reprennent leur forme initiale. Le DD requis pour pister quiconque a voyagé dans la zone de ce sort augmente de 5 (c'est comme si la piste avait été dissimulée).
+Ce sort n'a aucun effet sur les créatures de type plante : elles ne sont ni repoussées ni retenues par cet effet.
+Cri de combat Enchantement (coercition) [mental, son]
+Niveau : Barde 4
+Composantes : V, G
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Durée : 1 round/niveau (T)
+Jet de sauvegarde : voir description
+Résistance à la magie : voir description
+Le personnage attaque en poussant un cri qui lui donne de l'assurance tout en intimidant ses ennemis. Ce sort lui confère un bonus de moral de +2 aux jets d'attaque et de dégâts, bonus qui passe à +4 en cas de charge.
+Si le personnage inflige des dégâts avec une attaque de corps à corps, son adversaire doit réussir un jet de Volonté pour éviter d'être paniqué pendant 1 round (la résistance à la magie s'applique à cet effet). Un adversaire qui a réussi son jet de sauvegarde contre cet effet ne peut plus être à nouveau affecté par le même cri de guerre.
+Cri du hérault Enchantement (coercition) [mental, son]
+Niveau : Barde 1
+Composantes : V, G
+Temps d'incantation : 1 action rapide
+Portée : 6 m
+Zone d'effet : rayonnement de 6 m de rayon, centré sur le lanceur de sorts
+Durée : 1 round
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Le lanceur de sorts émet un cri capable d'arrêter une foule, et dont l'autorité est difficile a ignorer. Toute créature disposant de 5 dés de vie ou moins est affectée par l'équivalent d'un sort de lenteur pendant 1 round.
+Les créatures situées au-delà du rayon d'action du sort peuvent entendre le cri, mais ne sont pas ralenties.
+Dissimulation forestière Transmutation
+Niveau : Druide 4, Rodeur 3
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 10 minutes/niveau (T)
+La couleur du personnage et le bruit de ses pas s'harmonisent avec le type de terrain (aquatique, désert, plaines, forêt, collines, montagnes, marais ou souterrain) où il se trouve. Tant qu'il est sur un terrain de ce type, il gagne un bonus d'aptitude de +20 aux tests de Déplacement silencieux et de Discrétion. Il conserve ce bonus même s'il quitte le terrain désigné et y retourne ensuite pendant la durée du sort.
+Élève doué Transmutation
+Niveau : Barde 6
+Composantes : V, G
+Temps d'incantation : 1 round entier
+Portée : contact
+Cible : 1 créature touchée
+Durée : 1 minute/niveau (T)
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Le personnage confère brièvement des aptitudes de barde à une créature de son choix. Le sujet peut ensuite agir comme un barde dont le niveau est égal à la moitié de celui du personnage en ce qui concerne la musique de barde et le savoir bardique. Toutefois, élève doué ne confère aucune capacité à lancer des sorts, ni ne donne accès à des sorts qui ne sont normalement pas accessibles au sujet. Pour les tests de Représentation requis pour l'aptitude de musique de barde, le sujet utilise son propre degré de maîtrise dans cette compétence, ou la moitié du degré du personnage (modifié par son propre modificateur de Charisme) : on choisit le total le plus élevé.
+Enthousiasme Enchantement (coercition) [mental, son]
+Niveau : Barde 1
+Composantes : V, G
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round ou spécial ; voir description
+Quand le personnage joue de son instrument, chante sa chanson, récite son poème épique ou prononce son discours d'encouragement, il confère a ses alliés une confiance en eux supérieure à la normale. Tant que durent les effets de ce sort, le bonus de moral conféré par son aptitude de musique de barde inspiration vaillante augmente de 1.
+L'effet dure autant de temps que l'inspiration vaillante. Si le personnage ne commence pas à utiliser l'inspiration vaillante avant le début de son prochain tour, l'effet du sort se termine.
+Fléau des plantes Divination
+Niveau : Druide 1, Rodeur 1
+Composantes : V, FD
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round
+Tant que dure l'effet de ce sort, le personnage bénéficie d'un lien particulier avec les forces de la nature. Pendant 1 round, il peut porter des attaques sournoises contre les créatures de type plante comme si elles n'y étaient pas immunisées. Pour attaquer une plante de la sorte, il doit toujours remplir les autres conditions liées aux attaques sournoises.
+Ce sort ne s'applique qu'aux dégâts d'attaque sournoise. Il ne confère aucunement au personnage la capacité d'infliger des coups critiques aux plantes, ni aucun pouvoir permettant de s'affranchir des réductions de dégâts ou autres défenses de celles-ci.
+Fléau des tombeaux Divination (Bien)
+Niveau : Prêtre 1, Paladin 1
+Composantes : V, G, FD
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round
+Tant que dure l'effet de ce sort, le personnage bénéficie d'un lien particulier avec les forces de la lumière et de l'énergie positive. Pendant 1 round, il peut porter des attaques sournoises contre les morts-vivants comme s'ils n'y étaient pas immunisés. Pour attaquer un mort-vivant de la sorte, il doit toujours remplir les autres conditions liées aux attaques sournoises.
+Ce sort ne s'applique qu'aux dégâts d'attaque sournoise. Il ne confère aucunement au personnage la capacité d'infliger des coups critiques aux morts-vivants, ni aucun pouvoir permettant de s'affranchir des réductions de dégâts ou autres défenses de ceux-ci.
+Fléau du golem Divination
+Niveau : Ensorceleur/Magicien 1
+Composantes : V
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round
+Tant que dure l'effet de ce sort, le personnage bénéficie d'un lien particulier avec les forces occultes qui animent les créatures artificielles. Pendant 1 round, il peut porter des attaques sournoises contre elles comme si elles n'y étaient pas immunisées. Pour attaquer une créature artificielle de la sorte, il doit toujours remplir les autres conditions liées aux attaques sournoises.
+Ce sort ne s'applique qu'aux dégâts d'attaque sournoise. Il ne confère aucunement au personnage la capacité d'infliger des coups critiques aux créatures artificielles, ni aucun pouvoir permettant de s'affranchir des réductions de dégâts ou autres défenses de celles-ci.
+Intuition du guérisseur Divination
+Niveau : Prêtre 2, Druide 2, Rodeur 1
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 minute/niveau (T)
+Le personnage puise dans son savoir de guérisseur pour rendre ses sorts de soins plus puissants. Un lanceur de sorts doté d'un degré de maîtrise de 5 ou plus en Premiers secours peut, en lançant un sort d'invocation (guérison), choisir d'annuler une des conditions suivantes affectant la cible du sort, en plus de ses effets ordinaires : ébloui, hébété ou fatigué. Un lanceur de sorts doté d'un degré de maîtrise de 10 ou plus en Premiers secours peut choisir parmi les conditions suivantes en plus des précédentes : épuisé, fiévreux ou nauséeux.
+De plus, quand il détermine le nombre de points de vie rendus par ses sorts d'invocation (guérison), le personnage peut substituer son degré de maîtrise en Premiers secours a son niveau de lanceur de sorts. La limite normale de niveau de lanceur de sorts appliquée aux sorts individuels est toujours prise en compte : ainsi, un prêtre de niveau 3 doté d'un degré de maîtrise de 6 en Premiers secours et sous l'effet d'une intuition du guérisseur soigne 1d8+5 points de dégâts avec soins légers. Composante matérielle : une petite feuille de menthe.
+Joyeux vacarme Abjuration
+Niveau : Barde 1
+Composantes : G
+Temps d'incantation : 1 round
+Portée : 3 m
+Zone d'effet : émanation de 3 m de rayon
+Durée : concentration (voir texte)
+Jet de sauvegarde : aucun
+Résistance à la magie : oui (inoffensif)
+Le personnage crée des vibrations sonores qui annulent tout effet de silence magique dans la zone d'effet. Cette zone se déplace avec le lanceur de sorts tant qu'il continue à se concentrer.
+L'effet de silence n'est pas dissipé mais reste simplement en suspens : il est toujours en effet hors de la zone d'effet du joyeux vacarme. Par conséquent, ce sort est souvent utilisé pour déplacer un groupe hors de portée d'un effet de silence.
+Limier de sang Divination
+Niveau : Rodeur 1
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 24 heures (T)
+Si le personnage rate un test de Survie destiné à traquer une créature pendant la durée de ce sort, il peut immédiatement retenter le test contre le même DD pour retrouver la piste. Si ce deuxième test est raté, il doit chercher la piste pendant 30 minutes (en extérieur) ou 5 minutes (en intérieur) avant de le retenter.
+Mélopée infernale Évocation [Mal, son]
+Niveau : Barde 3
+Composantes : V, G
+Temps d'incantation : 1 round entier
+Portée : moyenne (30 m + 3 m/niveau)
+Zone d'effet : émanation en forme de sphère dont le rayon est égal à la portée, centrée sur le lanceur de sorts
+Durée : 1 round/niveau (T)
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Le personnage peut jouer un rythme hypnotique et puissant qui augmente temporairement de 2 le niveau effectif de lanceur de sorts de chaque lanceur de sorts divins d'alignement mauvais situé à portée. Cette augmentation ne donne pas accès à des sorts supplémentaires, mais améliore tous les effets des sorts qui dépendent du niveau de lanceur de sorts. De plus, mélopée infernale imite les effets d'un sort de sanctification maléfique en ce qui concerne le renvoi et l'intimidation des morts-vivants. Dans la zone d'effet du sort, chaque lanceur de sorts divin d'alignement mauvais gagne un bonus de malfaisance de +4 aux tests de Charisme destinés à intimider les morts vivants, et chaque lanceur de sorts divin d'alignement bon reçoit un malus de malfaisance de -4 aux tests de Charisme destinés à renvoyer les morts-vivants.
+Monnaie d’écoute Divination (scrutation)
+Niveau : Barde 4
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : contact
+Effet : capteur magique
+Durée : 1 heure/niveau (T)
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Le personnage peut transformer deux pièces de monnaie ordinaires en dispositif d'écoute magique : l'une fait office d'émetteur, et l'autre de récepteur. Après avoir lancé le sort, le personnage se sépare simplement de la pièce émettrice, ouvertement ou subrepticement. En tenant la pièce réceptrice contre son oreille, il peut entendre tous les sons reçus par le récepteur comme s'il était présent (comme pour un effet de clairaudience). Si la pièce émettrice se trouve dans une poche, un sac ou un sachet, le DD du test de Perception auditive augmente de 5.
+Les pièces continuent à fonctionner, quelle que soit la distance qui les sépare, mais sont réduites au silence si elles se trouvent sur des plans différents.
+Focaliseur : les deux pièces.
+
+Mort à l’ennemi Évocation
+Niveau : Rodeur 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : 1 arme touchée
+Durée : 1 round/niveau (T)
+Jet de sauvegarde : Volonté, annule (inoffensif, objet)
+Résistance à la magie : oui (inoffensif, objet)
+Ce sort confère un grand pouvoir létal à l'une des armes du personnage contre un type d'ennemi juré particulier. Contre les créatures de ce type, l'arme agit comme une arme magique +5 et inflige 2dé points de dégâts supplémentaires. De plus, tant qu'il porte l'arme, le personnage gagne un bonus de résistance de +4 aux jets de sauvegarde contre les effets produits par les créatures de ce type.
+Le sort est automatiquement annulé 1 round après que l'arme quitte la main du personnage, pour quelque raison que ce soit. Le personnage ne peut pas avoir plus d'une arme de mort à l'ennemi active à la fois.
+Si le sort est lancé sur une arme magique, les pouvoirs du sort se substituent à ceux qu'elle possède d'ordinaire, inhibant les bonus d'altération et les pouvoirs de l'arme pendant la durée du sort. Les effets de ce sort ne sont pas cumulatifs avec ceux de tout autre sort qui peut modifier l'arme de quelque façon que ce soit. Ce sort ne fonctionne pas sur les artefacts.
+Plainte de la destinée Nécromancie [mental, son, terreur]
+Niveau : Barde 5
+Composantes : V
+Temps d'incantation : 1 action simple
+Portée : 9 m
+Zone d'effet : rayonnement en forme de cône
+Durée : instantanée et 1 round/niveau ou 1 round ; voir description
+Jet de sauvegarde : Volonté, partiel (voir description)
+Résistance à la magie : oui
+Quiconque se trouve dans la zone d'effet de ce sort endure une souffrance atroce et se trouve démoralisé. Chaque créature subit 1d4 points de dégâts par niveau de lanceur de sorts (pour un maximum de 15d4) et devient paniquée pendant 1 round par niveau de lanceur de sorts. Un jet de Volonté réussi permet de réduire de moitié les dégâts, d'être secoué au lieu de paniqué, et réduit la durée de cet effet a 1 round.
+Posture enchantelame Abjuration
+Niveau : Ensorceleur/Magicien 2, Rodeur 2
+Composantes : V, F
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round/niveau (T)
+Ce sort, qu'apprécient particulièrement les Gardiens enchantelames améliore la capacité du personnage de se défendre a l'aide de deux dagues. Comme beaucoup des techniques des enchantelames, il dépend de l'utilisation des dagues pour abattre l'ennemi. Les effets du sort ne se produisent pas si le personnage ne porte pas deux dagues, mais ils ne s'interrompent pas s'il laisse tomber, lance ou perd une dague, ou les deux.
+Tant que dure ce sort, si le personnage effectue une attaque a outrance en tenant une dague dans chacune de ses mains, il gagne un bonus d'intuition de +2 aux jets d'attaque et de dégâts effectués avec des dagues durant ce round.
+La puissance enchantée qui imprègne ses dagues tant que ce sort agit permet au personnage de dévier l'énergie magique de nombreux sorts. Tant qu'il porte deux dagues et combat sur la défensive, le personnage gagne une résistance à la magie égale à 5 + son niveau de lanceur de sorts. Le sort accroît tellement la concentration du personnage que tant que toute son attention est portée vers la défense, il peut détourner la plupart des coups à l'aide de ses dagues. Quand il porte deux dagues et utilise l'action de défense totale, il gagne à la fois la résistance magique décrite ci-dessus et une réduction des dégâts (5/magie).
+Focaliseur : une paire de dagues.
+
+Repos bienfaisant Invocation (guérison)
+Niveau : Prêtre 1, Druide 1, Barde 1
+Composantes : V, G
+Temps d'incantation : 10 minutes
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature/niveau, distantes de 9 m ou moins les unes des autres
+Durée : 24 heures
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Repos bienfaisant double la vitesse de guérison naturelle des sujets. Chaque créature affectée regagne le double de points de vie qu'elle aurait récupérés durant la journée, selon son niveau d'activité.
+Serrurier instantané Divination
+Niveau : Ensorceleur/Magicien 1
+Composantes : V, G
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round
+Le personnage peut effectuer un test de Crochetage ou de Désamorçage/sabotage durant ce round au prix d'une action libre. Il gagne un bonus d'intuition de +2 au test.
+Tempête de flèches Transmutation
+Niveau : Rodeur 4
+Composantes : V
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round
+Le personnage ne peut lancer ce sort qu'au début de son tour, avant d'avoir entrepris toute autre action. Après avoir lancé tempête de flèches, le personnage peut utiliser une action complexe pour porter une attaque à distance l'aide d'un arc dont maîtrise le maniement contre tout adversaire situé dans un rayon égal au facteur de portée de l'arme. Le personnage peut attaquer un nombre maximal de cibles égal à son niveau global. S'il choisit de ne pas dépenser d'action complexe de cette façon après avoir lancé le sort, ce dernier n'a aucun effet.
+Tempête d’acier Transmutation
+Niveau : Rodeur 3
+Composantes : V
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round
+Le personnage ne peut lancer ce sort qu'au début de son tour, avant d'avoir entrepris toute autre action. Après avoir lancé tempête d'acier, le personnage peut utiliser une action complexe pour porter une attaque contre chaque adversaire situé à portée, et ce à l'aide de chacune de ses armes de corps a corps. S'il porte deux armes ou une arme double, le personnage peut attaquer chaque adversaire avec chacune des armes (ou des extrémités), en utilisant les règles normales du combat à deux armes. Ainsi, un rôdeur portant une épée longue et une épée courte peut attaquer chaque adversaire situé a sa portée avec ses deux armes. Le personnage peut attaquer un nombre maximal de cibles égal à son niveau de personnage. S'il choisit de ne pas dépenser d'action complexe de cette façon après avoir lancé le sort, ce dernier n'a aucun effet.
+Tir assisté Divination
+Niveau : Ensorceleur/Magicien 1, Rodeur 1
+Composantes : V
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round
+Le personnage utilise l'énergie magique pour brièvement focaliser son esprit et son corps sur un coup parfait. Tant que ce sort agit, les attaques à distance du personnage ne subissent pas de malus dû à la distance.
+De plus, tant que ce sort agit, les attaques à distance du personnage ignorent les bonus a la CA dus a un abri autre que total.
+Ce sort ne confère aucun pouvoir permettant de dépasser la portée maximale de l'arme avec laquelle attaque le personnage, ni d'attaquer des cibles bénéficiant d'un abri total.
+Transformation en tueur des ombres Transmutation
+Niveau : Ensorceleur/Magicien 5
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round/ niveau (T)
+Le personnage devient un combattant furtif et dangereux. Son état d'esprit se modifie de manière à ce qu'il préfère la discrétion, la tromperie et la surprise aux assauts magiques.
+Le personnage gagne un bonus d'altération de +4 a la Dextérité, un bonus de chance de +3 a la classe d'armure, un bonus de chance de +5 aux jets de Réflexes, un bonus d'aptitude de +5 aux tests de Détection, Perception auditive, Déplacement silencieux et Discrétion, et l'aptitude au maniement de toutes les armes courantes, plus l'arbalète de poing, l'arc court, l'épée courte, la matraque et la rapière. Il gagne également le don Attaque en finesse et l'aptitude d'esquive totale. Il inflige 3d6 points de dégâts supplémentaires dès qu'il attaque un adversaire qu'il prend en tenaille ou qui se trouve dans un cas de figure lui ôtant son bonus de Dextérité à la CA. Ces dégâts supplémentaires fonctionnent comme l'aptitude d'attaque sournoise du roublard.
+Le personnage perd sa capacité a lancer des sorts pour la durée du sort, y compris sa capacité a utiliser des objets a activation de sort ou à fin d'incantation, comme si les sorts ne faisaient plus partie de la liste de sorts de sa classe.
+Composantes matérielles : une potion de grâce féline, que le personnage boit (et dont les effets sont remplacés par ceux du sort).
+
+Vision du passé Divination
+Niveau : Ensorceleur/Magicien 9, Barde 6
+Composantes : V, G, M
+Temps d'incantation : 1 heure
+Portée : personnelle
+Zone d'effet : rayon de 18 m, centré sur le lanceur de sorts
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Le personnage peut voir et entendre dans le passé, et être témoin d'événements qui se sont déroulés là où il se trouve actuellement. Le niveau de détail de ce qu'il voit et entend par l'intermédiaire de ce sort dépend de la période qu'il désire observer : se concentrer sur quelques jours permet d'obtenir plus de détails que, par exemple, tenter d'observer une période de temps qui se compte en siècles. Le personnage ne peut observer qu'une période donnée quand il lance le sort, période qu'il doit choisir parmi les possibilités suivantes.
+Jours. Le personnage perçoit les événements du passé, remontant dans le temps d'un jour par niveau de lanceur de sorts. Il obtient des informations détaillées concernant les individus, les conversations et les événements qui se sont déroulés en ce lieu.
+Semaines. Le personnage obtient un résumé des événements du passé, remontant d'une semaine par niveau de lanceur de sorts. Les mots et les détails exacts ne sont pas perçus, mais le personnage connaît tous les intervenants et les grandes lignes des conversations et événements qui se sont déroulés en ce lieu.
+Années. Le personnage a une idée générale des événements du passé, remontant d'un an par niveau de lanceur de sorts. Il ne remarque que les événements dignes d'intérêt comme les décès, les batailles, les scènes fortement imprégnées d'émotions, et les événements significatifs.
+Siècles. Le personnage a une idée générale des événements du passé, remontant d'un siècle en arrière, plus un siècle pour chaque tranche de quatre niveaux de lanceur de sorts au-delà du premier. Par exemple, un lanceur de sorts de niveau 16 pourrait observer les événements qui se sont déroulés lors des quatre siècles précédents, et un lanceur de sorts de niveau 17 lors des cinq siècles passés. Le personnage ne remarque que les événements particulièrement importants : les couronnements, les morts de personnages importants, les batailles importantes et d'autres événements historiques.
+Composantes matérielles : un diamant en forme de sablier valant au moins 1 000 po.
+
+Vol rapide Transmutation
+Niveau : Ensorceleur/Magicien 2, Druide 3, Barde 2
+Composantes : V
+Temps d'incantation : 1 action rapide
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round
+Ce sort fonctionne comme Vol, excepté pour ce qui est noté ci-dessus.

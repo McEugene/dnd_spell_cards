@@ -1,0 +1,781 @@
+Agilité divine Transmutation
+Niveau : Prêtre 5
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : créature vivante touchée
+Durée : 1 round/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : non
+Grâce au pouvoir de son dieu tutélaire, le lanceur confère à une créature vivante agilité et habileté au combat. La cible bénéficie d'un bonus de base aux jets de Réflexes semblable à celui d'un roublard du niveau global du lanceur, d'un bonus d'altération de +4 en Dextérité et du don Attaque éclair pendant toute la durée du sort.
+Ailes de feu Transmutation [feu]
+Niveau : Druide 3
+Composantes : V G, M, F
+Temps d'incantation : 1 round
+Portée : personelle
+Cible : le jeteur de sorts
+Durée : 1 minute/niveau
+Ce sort transforme les bras du lanceur en ailes de feu brillantes. Les flammes ne lui infligent pas de dégâts et ne nuisent en rien à son équipement. Par contre, ne disposant plus de ses bras, il ne peut rien tenir en main et se révèle incapable de lancer des sorts à composantes gestuelles. Cependant, les anneaux, bracelets et autres objets portés au niveau des bras ou des mains au moment de l'incantation fonctionnent bel et bien. Les ailes confèrent au lanceur une vitesse de déplacement en vol de 18 mètres (12 mètres s'il porte une armure lourde ou intermédiaire) affublée d'une bonne manœuvrabilité. Il peut charger mais est incapable de courir tout en volant, et il ne saurait prendre les airs qu'avec une charge légère. L'utilisation de ce sort ne requiert pas davantage de concentration que s'il marchait, aussi le lanceur peut-il agir normalement.
+Si le sort arrive à terme alors que le personnage se trouve dans les airs, il descend au rythme de 18 mètres par round pendant 1d6 rounds, puis chute s'il n'a pas encore atterri. Cela vaut également en cas de dissipation du sort. Par contre, si le sort est annulé par une zone d'antimagie, le lanceur tombe comme une pierre.
+Le personnage a le droit de porter des attaques à mains nues à l'aide des ailes de feu, mais on considère alors qu'il n'est pas formé à leur maniement (il subit donc un malus de -4 aux jets d'attaque). En cas de réussite, il inflige 2d6 points de dégâts de feu, qui viennent s'ajouter à ses dégâts d'attaque à mains nues habituels.
+Les ailes sont éteintes (auquel cas le sort est annulé) par un sort d'extinction des feux, une immersion dans l'eau ou un vent de la force d'un ouragan.
+Composantes matérielles : une plume d'oiseau que le lanceur doit brûler lors de l'incantation.
+Focaliseur : une amulette dorée représentant un phénix.
+
+Arc tueur Évocation
+Niveau : Rodeur 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : arme à distance touchée
+Durée : 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Le sort canalise l'énergie divine vers une arme à distance de son choix. L'arme gagne alors d'un bonus d'altération de +5 aux jets d'attaque et de dégâts, mais également la propriété spéciale tueuse (bonus d'altération de +7 aux jets d'attaque et de dégâts, +2d6 points de dégâts) contre les adversaires du type précisé lors de l'incantation. À ce sujet, le lanceur doit choisir l'un de ses ennemis jurés. Le sort est automatiquement annulé au bout de 1 round si le personnage lâche son arme. Enfin, celui-ci ne saurait jouir de plus d'un arc tueur à la fois.
+Si le sort est lancé sur une arme magique, il prend le pas sur toutes les capacités de celle-ci, réprimant son bonus d'altération et ses propriétés jusqu'au terme de sa durée. Cette évocation n'est pas cumulable avec tout autre sort modifiant les armes d'une manière ou d'une autre. Ce sort n'a aucun effet sur les artefacts.
+Le bonus aux jets d'attaque d'une arme de maître n'est pas cumulable avec un bonus d'altération magique à l'attaque. Les munitions tirées grâce à l'arc tueur perdent leurs propriétés magiques (adoptant ainsi celles du sort), mais elles conservent leur faculté matérielle à passer outre la réduction des dégâts. Par exemple, on peut parfaitement tirer des flèches en argent à l'aide d'un arc tueur pour passer outre la réduction des dégâts des lycanthropes.
+Auréole de lumière Évocation [lumière]
+Niveau : Prêtre 1
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 minute/niveau ou jusqu'à utilisation (T)
+Une aura de lumière scintillante enveloppe le lanceur, restant présente jusqu'à ce qu'il la relâche sous la forme d'une explosion d'énergie divine. L'auréole de lumière produit autant de lumière qu'une lanterne, illuminant vivement dans un rayon de 9 mètres (et faiblement sur 9 mètres de plus).
+Par une action de mouvement, le lanceur peut rassembler l'énergie du sort autour de son bras tendu puis, au prix d'une action simple, la libérer en direction d'un ennemi situé dans un rayon de 9 mètres. S'il réussit une attaque de contact à distance, l'auréole de lumière inflige 1d8 points de dégâts, +1 par round écoulé depuis l'incantation (jusqu'à un maximum égal au niveau du lanceur de sorts). Le fait d'attaquer à l'aide de cette forme d'énergie met un terme au sort, que la cible soit atteinte ou non.
+Avatar de la nature Évocation
+Niveau : Druide 9
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : animal touché
+Durée : 1 minute/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Le lanceur imprègne le sujet de l'esprit de la nature. La créature affectée bénéficie d'un bonus de moral de +10 aux jets d'attaque et de dégâts, de 1d8 points de vie temporaires par niveau de lanceur de sorts, mais également des effets du sort rapidité.
+Barbelures Transmutation
+Niveau : Prêtre 3, Druide 3
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : l'arme touchée, qui doit être en bois
+Durée : 1 heure/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort est similaire à Ronces, mais l'arme affectée bénéficie d'un bonus d'altération de +2 aux jets d'attaque et sa zone de critique possible est doublée.
+Bénédiction de Bahamut Abjuration [Bien]
+Niveau : Paladin 3
+Composantes : V, M
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le lanceur de sorts
+Durée : 1 round/niveau
+La peau du lanceur prend une teinte platine qui le protège des armes de ses ennemis. Il bénéficie d'une réduction des dégâts (10/magie) pendant toute la durée du sort.
+Composantes matérielles : une plume de canari jetée en l'air.
+
+Brûme de pureté Abjuration
+Niveau : Druide 5
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 minute/niveau (T)
+Le lanceur s'entoure d'un nuage de brume tourbillonnante et purifiante de 1,50 mètre de rayon par niveau de lanceur de sorts. Celui-ci débarrasse l'air de la fumée, de la poussière et d'éventuelles émanations empoisonnées. Les polluants non magiques, ce qui inclut les poisons inhalés, sont automatiquement annulés au sein du nuage. Les effets magiques, parmi lesquels brume acide, brume mortelle et le souffle d'un dragon vert, ne sont annulés que si le niveau du lanceur est supérieur au niveau de lanceur de sorts de l'effet (ou aux dés de vie du dragon). Dans le cas contraire, la brume de pureté confère tout de même à tous ceux qui s'y trouvent un bonus de +4 au jet de sauvegarde.
+Le banc de brume dépose un voile d'humidité sur tout ce qui se trouve à l'intérieur.
+Brume meurtrière Évocation [météo]
+Niveau : Druide 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : nuage sur une étendue de 9 m de rayon et 6 m de haut
+Durée : 1 round/niveau
+Jet de sauvegarde : Réflexes, demi-dégâts (voir description)
+Résistance à la magie : oui
+Le lanceur crée un nuage de vapeur brûlante se déplaçant en ligne droite, à la vitesse de 3 mètres par round. Les créatures situées au sein du nuage subissent 2d6 points de dégâts et sont à jamais aveuglées. Celles qui réussissent leur jet de Réflexes réduisent les dégâts de moitié et ne deviennent pas aveugles. Toute créature prise dans le nuage bénéficie d'un camouflage. Le vent n'affecte ni la direction ni la vitesse du nuage. Toutefois, un vent modéré (15+ km/h) le disperse en 4 rounds et un vent fort (30+ km/h) en 1 round.
+Camouflage de groupe Transmutation
+Niveau : Druide 4, Rodeur 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/ niveau)
+Cible : autant de créatures que désiré, aucune ne devant se trouver à plus de 18 mètres d'une autre
+Durée : 10 minutes/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Ce sort est semblable à Camouflage, si ce n'est que l'effet se déplace avec le groupe. Toute créature s'éloignant de plus de 18 mètres du membre du groupe le plus proche perd le bénéfice du sort. Dans le cas où deux individus seulement sont camouflés, celui qui s'éloigne de l'autre perd son camouflage. Si les deux créatures s'éloignent l'une de l'autre, chacune redevient visible au moment où la distance les séparant dépasse 18 mètres.
+Carapace de tortue Transmutation
+Niveau : Druide 6
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : la créature vivante touchée
+Durée : 10 minutes/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui (inoffensif)
+Ce sort confère une carapace de tortue au niveau du torse et un cuir épais sur le reste du corps. Le bonus d'armure naturelle du sujet bénéficie d'un bonus d'altération de +6, +1 tous les trois niveaux de lanceur de sorts au-dessus du niveau 11 (jusqu'à un maximum de +9 au niveau 20).
+Le bonus d'altération octroyé par ce sort est cumulable avec le bonus d'armure naturelle du sujet, mais pas avec d'autres bonus d'altération à l'armure naturelle. Une créature dépourvue d'armure naturelle a un bonus d'armure naturelle effectif de +0, un peu comme un personnage portant de simples vêtements a un bonus d'armure de +0.
+Carapace de tortue ralentit les déplacements du sujet comme s'il portait une armure lourde. Par exemple, un elfe jouissant de ce sort aura une vitesse de déplacement de 6 mètres, ou de 18 mètres s'il court. Le sort n'affecte que la vitesse de déplacement de la créature. Il ne s'accompagne d'aucun malus d'armure aux tests ou risque d'échec des sorts profanes.
+Chaîne de témoins Divination
+Niveau : Prêtre 3, Druide 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : créature vivante touchée
+Durée : 1 heure/niveau
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Le personnage utilise la vue d'une créature à la place de la sienne. Ce sort ne donne aucun contrôle sur les actions de ladite créature, mais à chaque fois qu'elle entre en contact physique avec un autre être vivant, le lanceur peut transférer sa perception à ce dernier. Ainsi, il est en mesure d'obtenir un aperçu visuel d'un endroit très bien gardé. Pendant son tour de jeu, le personnage peut employer une action libre pour passer de la vision « transférée » (dans la créature en cours) à sa vision normale ou inversement.
+Char spirituel Invocation (création)
+Niveau : Paladin 4
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : un destrier
+Durée : 1 heure/niveau
+Une fois l'incantation achevée, un char fantomatique se forme derrière le destrier du lanceur. Le char est vaste et ouvragé, constitué d'énergie transparente et légèrement luisante. Habituellement, le symbole religieux du lanceur est représenté sur les flancs du véhicule. Le destrier y est convenablement harnaché. En plus du conducteur (habituellement le lanceur), le chariot peut accueillir une créature de taille M ou deux créatures de taille P.
+Bien que le char semble grand et robuste, lui et ses occupants ne pèsent rien pour ce qui est de la charge du destrier, aussi ce dernier peut-il évoluer à sa vitesse maximale. S'il est détaché de la monture, il disparaît. Le conducteur du char spirituel bénéficie d'un bonus de sainteté de +4 aux tests de Dressage. Le char est constitué de force magique et est immunisé contre les dégâts. Sa relation aux sorts est semblable à celle d'un mur de force. Les individus l'occupant jouissent d'un abri selon leur taille et la position des assaillants. Généralement, les voyageurs de taille M qui y prennent place bénéficient d'un abri (bonus de +4 à la CA, bonus de +2 aux jets de Réflexes).
+Chute de comète Invocation (création)
+Niveau : Prêtre 6, Druide 6
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : masse de roche et de glace de 200 kilos
+Durée : instantanée
+Jet de sauvegarde : Réflexes, demi-dégâts
+Résistance à la magie : non
+Le lanceur invoque une comète scintillante qui apparaît au-dessus de ses ennemis avant de frapper le sol avec une force prodigieuse. Elle se matérialise à 1,50 mètre par niveau de lanceur de sorts au-dessus du sol ou au niveau du plafond (choisir le plus bas). La comète tombe instantanément, infligeant 2d6 points de dégâts tous les 3 mètres de chute à tout ce qui se trouve dans la zone de 3 m x 3 m située juste en dessous.
+La force de la comète peut également renverser les victimes. Celles qui ratent leur jet de Réflexes sont sujettes à une tentative de croc-en-jambe. L'engin dispose d'un bonus de +11 (+7 pour une Force effective de 25, +4 parce qu'elle est de taille G) au test.
+La comète se brise en morceaux au moment de l'impact, emplissant ainsi la zone de 3 m x 3 m de nombreux décombres.
+Cocon de jouvence Invocation (guérison)
+Niveau : Druide 5
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : créature consentante touchée
+Durée : 2 rounds
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Grâce à ce sort, le lanceur crée un cocon d'énergie temporaire qui enveloppe une créature, lui conférant soins et protection. Une fois le sort lancé, le cocon se forme autour de la cible. Cette enveloppe jaune-vert et luisante est constituée de force, mais elle reste souple et répond aux pressions qu'on exerce depuis l'intérieur de la coquille. Le cocon se forme à une dizaine de centimètres de la cible, mais il est suffisamment malléable pour que le sujet puisse chercher un objet situé dans son sac à dos, lancer un sort à composantes gestuelles, tirer une arme de son fourreau ou réaliser quelque autre action de ce type. Tant qu'elle se trouve dans le cocon, la cible ne peut néanmoins pas se déplacer. Si elle souhaite quitter son enveloppe avant la fin du sort, elle doit user de magie de téléportation ou lui infliger suffisamment de dégâts.
+Le cocon a une solidité de 10 et 10 points de résistance par niveau de lanceur de sorts. S'il est détruit, le sort prend fin.
+Un round après la formation de l'enveloppe, celle-ci entreprend de soigner le sujet à hauteur de 10 points de vie par niveau du lanceur de sorts et le débarrasse de tout poison ou maladie. À la fin du 2e round, le cocon de jouvence se dissipe et la cible en émerge, à même de se déplacer et d'agir normalement.
+Composantes matérielles : un cocon de papillon.
+
+Cocon enveloppant Évocation
+Niveau : Druide 6
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : cocon de force autour d'une créature de taille G ou inférieure
+Durée : 1 round/niveau (T)
+Jet de sauvegarde : Réflexes, annule
+Résistance à la magie : oui
+Le cocon enveloppant empêche le sujet de se déplacer ou de lancer des sorts à composantes gestuelles. En outre, l'espace qu'il offre est restreint et permet simplement à la victime de porter des attaques à l'aide d'armes naturelles ou légères (sachant qu'elle ne peut de toute façon s'en prendre qu'au cocon).
+Le lanceur peut pourvoir le cocon d'un second sort en le lançant directement sur celui-ci. Dans ce cas, ce sort affecte automatiquement le sujet (pas de jet de sauvegarde, mais résistance à la magie applicable le cas échéant) au moment où la durée du cocon enveloppant s'achève ou lorsqu'on y met un terme. Par contre, si le cocon est détruit, le second sort disparaît.
+Voici la liste des sorts qu'il est possible d'adjoindre au cocon enveloppant : Colonne de feu, Contagion, Désorientation imaginaire, Domination d’animal, Empoisonnement (la cible rate son jet de sauvegarde initial mais peut tenter d'effectuer le second), Flétrissement végétal, infestation d'asticots, Langueur, Métamorphose funeste, Miasme.
+Composantes matérielles : une chenille vivante.
+
+Contact contagieux Nécromancie
+Niveau : Druide 6
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sorts
+Durée : 1 round/niveau
+Au moment de l'incantation, le lanceur choisit une maladie parmi celles qui suivent : bouille-crâne, croupissure, fièvre des marais, fièvre gloussante, mal rouge, mort vaseuse ou tremblote. Pendant toute la durée du sort, si le personnage touche une créature vivante en effectuant une attaque de contact au corps à corps, il infecte celle-ci comme si elle était frappée d'une contagion. La cible contracte alors sur-le-champ la maladie choisie, sauf si elle réussit un jet de Vigueur. Il est impossible d'infecter plus d'une créature par round.
+Corps solaire Transmutation [Feu]
+Niveau : Ensorceleur/Magicien 2, Druide 2
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : 1,5 m
+Zone d'effet : une émanation de 1,50 m de rayon centrée sur le jeteur de sorts
+Durée : 1 round/niveau
+Jet de sauvegarde : Réflexes, 1/2 dégâts
+Résistance à la magie : oui
+En puisant dans la puissance du soleil, le lanceur parvient à dégager des flammes depuis son corps tout entier. Celles-ci s'étendent dans toutes les directions sur un rayon de 1,50 mètre, illuminant la zone et infligeant 1d4+1 points de dégâts de feu (jet de Réflexes pour demi-dégâts) à toutes les créatures qui touchent le personnage (sans affecter ce dernier).
+Courroux du soleil de midi Évocation [lumière]
+Niveau : Druide 6
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : 3 m
+Cible : toutes les créatures douées de vision situées dans un rayonnement de 3 m centré sur le lanceur de sorts
+Durée : instantanée
+Jet de sauvegarde : Réflexes, annule (ou demi-dégâts ; voir description)
+Résistance à la magie : oui
+Le sort génère un flash de lumière aveuglant. Les créatures situées dans la zone d'effet et capables de voir le lanceur doivent réussir un jet de sauvegarde sous peine d'être temporairement aveuglées. L'aveuglement dure pendant 1 minute par niveau de lanceur de sorts.
+Un mort-vivant pris dans la zone d'effet subit 1d6 points de dégâts tous les deux niveaux de lanceur de sorts (jusqu'à un maximum de 10d6). Ces dégâts sont néanmoins réduits de moitié si la victime réussit un jet de Réflexes. En cas d'échec, le rayon détruit les morts-vivants vulnérables à la lumière du soleil (comme les vampires).
+Les ultraviolets générés par le sort infligent des dégâts aux limons, moisissures, thallophytes et vases comme s'il s'agissait de morts-vivants.
+Création de bogun Invocation (création)
+Niveau : Druide 1
+Composantes : V, G, M, PX
+Temps d'incantation : 1 action simple
+Portée : contact
+Effet : une création artificielle de taille TP
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Création de bogun permet d'imprégner de magie de la vie une petite poupée créée à partir de matière végétale. Il s'agit de l'ultime sort dans le processus de création d'un bogun.
+Composantes matérielles : la poupée à partir de laquelle est créé le bogun.
+Coût en points d'expérience : 25 PX.
+
+Création véritable Invocation (création)
+Niveau :
+Composantes : V, G, M, PX
+Temps d'incantation : 10 minutes
+Portée : 0 m
+Effet : objet non magique et non porté de matière inerte de 30 dm3/niveau
+Durée : instantanée
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort permet de créer un objet non magique composé de n'importe quelle matière inerte. Les objets créés grâce à ce sort sont réels en tout point, permanents, et ils ne peuvent être détruits par une magie de dissipation ou des effets d'annulation de la magie. Le volume de l'objet ainsi crée ne peut en aucun cas excéder 30 dm par niveau de lanceur de sorts. Si l'objet désiré est assez complexe, il faut réussir un test de compétence approprié comme Artisanat (fabrication d'arcs) pour créer des flèches bien droites ou Artisanat (taille des pierres fines ou précieuses) pour une pierre taillée correctement.
+À l'inverse des objets obtenus pat les sorts de niveau inférieur création mineure et création majeure, les objets crées par le biais de création véritable peuvent être utilisés comme composantes matérielle pour d'autres sorts.
+Composantes matérielles : un morceau de matériau correspondant à celui que l'on souhaite créer (un bout de bois pour une flèche, etc.)
+Coût en points d'expérience : le coût en PX pour le personnage est égal à la val
+
+Cyclone suprême Évocation [air, météo]
+Niveau : Druide 9
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : tornade de 6 m de rayon, jusqu'à 1,50 m de haut/niveau de lanceur de sorts, centrée n'importe où dans les limites de portée
+Durée : 1 round/niveau
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : oui
+Ce sort fait apparaître une tornade qui projette les ennemis dans les airs et détruit les bâtiments.
+Le cyclone suprême affecte les créatures selon leur taille et l'endroit où elles se trouvent par rapport à l'effet.
+Près de la tornade. Les créatures de taille G ou inférieure qui débutent leur tour de jeu dans un rayon de 18 mètres du centre du cyclone suprême doivent réussir un jet de Vigueur sous peine d'être attirées de 1d4 x 3 mètres vers l'œil du phénomène, subissant ainsi 1d4 points de dégâts non-létaux par tranche de 3 mètres parcourue.
+Les créatures de taille TG situées dans un rayon de 12 mètres de la tornade doivent réussir un jet de Vigueur sous peine d'être renversées. Enfin, les créatures de taille Gig ou C situées dans un rayon de 12 mètres du phénomène doivent réussir un jet de Vigueur si elles souhaitent s'éloigner de la tornade.
+Les créatures volantes de taille TG ou inférieure qui ratent leur jet de Vigueur sont aspirées vers le centre de la tornade, ubissant 2d6 points de dégâts en raison du ballottement. Les créatures volantes de taille Gig doivent réussir un jet de Vigueur sous peine d'être entraînées de 1d6 x 3 mètres vers le centre de la tornade. Enfin, les créatures volantes de taille C doivent également réussir un jet de Vigueur sous peine d'être entraînées de 1d6 x 1,50 mètre vers le centre de la tornade.
+Au sein de la tornade. Les créatures qui débutent leur tour de jeu au sein de la tornade subissent 6d6 points de dégâts par round pendant les 1d10 rounds où elles y restent (effectuez un jet de dégâts distinct pour chaque victime). Pendant ce temps, leur champ d'action est très limité. Il leur est notamment impossible d'attaquer, de lancer des sorts ou de se déplacer. Quand le cyclone suprême éjecte une créature, celle-ci réapparaît à 4d6 x 1,50 mètre du centre de la tornade, dans une direction choisie au hasard, et à 4d6 x 1,50 mètre au-dessus du sol (chute immédiate si elle n'est pas douée de facultés de vol).
+Relief et structures. La tornade déracine automatiquement les arbres et laisse de nombreux décombres dans son sillage. Les structures frappées par un tel phénomène subissent 2d6 x 10 points dégâts par round. Un round ou deux d'un tel traitement suffisent à détruire la plupart des bâtiments.
+Les attaques à distance ne sauraient franchir la tornade. Le cyclone suprême éteint les flammes avec lesquelles il entre en contact. Les tests de Perception auditive sont voués à l'échec en son sein.
+Enfin, le cyclone suprême reste stationnaire, sauf si le lanceur le fait bouger au prix d'une action de mouvement. Il se déplace alors de 18 mètres par round.
+Déclamation Invocation (création)
+Niveau : Prêtre 4
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : 18 m
+Zone d'effet : tous les alliés et ennemis situés dans un rayonnement de 18 m de rayon centré sur le lanceur de sorts
+Durée : 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+En déclamant un texte sacré ou une profession de foi, le lanceur invoque la bénédiction de son dieu sur lui-même et ses alliés, tout en semant le doute et la faiblesse chez ses ennemis. Le sort affecte tous les ennemis et les alliés du personnage qui se trouvent dans la zone d'effet du sort au moment où celui-ci est lancé. Les alliés du lanceur bénéficient d'un bonus de chance de +2 aux jets d'attaque et aux jets de sauvegarde, voire d'un bonus de +3 s'ils vénèrent la même divinité que le personnage. Ses ennemis sont frappés d'un malus de chance de -2 aux jets d'attaque et aux jets de sauvegarde. Une fois l'incantation terminée, le lanceur est libre d'agir à sa guise.
+Composantes matérielles : en plus du symbole sacré du personnage, il est nécessaire pour lancer ce sort de posséder un texte sacré qui fera office de focaliseur divin.
+
+Décomposition Nécromancie
+Niveau : Druide 2
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : 15 m
+Zone d'effet : tous les ennemis situés dans une émanation de 15 m de rayon centrée sur le lanceur de sorts
+Durée : 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+Lorsqu'un ennemi situé dans la zone d'effet du sort subit des dégâts létaux, la blessure s'infecte et il subit 1 point de dégâts supplémentaire par round suivant, jusqu'au terme du sort. Pour enrayer l'infection, il suffit de réussir un test de Premiers secours (DD 15), de lancer un sort de soins ou d'user de quelque autre forme de magie de guérison (guérison suprême, cercle de guérison, etc.). Une seule blessure peut suppurer à la fois. Ainsi, les blessures subies par la suite ne s'infectent pas tant que couve la première. Par contre, une fois l'infection stoppée, toute nouvelle blessure subie par une créature située dans la zone d'effet est susceptible de suppurer (encore faut-il que le sort fasse toujours effet).
+Par exemple, un sujet qui subit 6 points de dégâts d'une attaque alors qu'il se trouve dans la zone d'effet du sort de décomposition subit également 1 point de dégâts de suppuration au round suivant, puis 1 point supplémentaire par round. Au round suivant, le sujet bénéficie toutefois d'un sort de soins légers. La décomposition cesse immédiatement et le sujet ne subit pas de dégâts de suppuration ce round-ci. Au cours du round suivant, le sujet qui se trouve toujours au sein de l'émanation subit 3 points de dégâts. La suppuration reprend donc, infligeant 1 point de dégâts supplémentaire dès le round suivant.
+Décorporation Divination
+Niveau :
+Composantes : G, FD
+Temps d'incantation : 1 round entier
+Portée : voir description
+Cible : le jeteur de sorts
+Durée : 1 minute/niveau (T)
+Le lanceur sombre dans un profond sommeil alors que son esprit quitte son corps sous forme intangible pour se rendre en un lieu éloigné. L'esprit peut ainsi se déplacer à la vitesse de 30 mètres par round, et voir et entendre comme s'il se trouvait véritablement sur place. Les sorts de protection contre les créatures intangibles le bloquent bien évidemment. Du reste, il est possible de le détecter et de l'attaquer sur le même principe qu'une créature intangible. Son esprit ne peut que se déplacer et observer. Il est donc incapable de parler, d'attaquer, de lancer des sorts ou d'entreprendre quelque autre action.
+Au terme de la divination, l'esprit rallie instantanément son corps et le lanceur se réveille. Enfin, si le corps est dérangé pendant que l'esprit vaque, le sort prend fin sur-le-champ.
+Désorientation imaginaire Illusion (mirage) [mental]
+Niveau : Druide 6
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : une créature vivante
+Durée : 10 minutes/niveau (T)
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Le lanceur crée un relief et un paysage imaginaires en perpétuelle évolution, ce qui sème la confusion dans l'esprit du sujet quand il tente de se déplacer. Le sol semble se tortiller sous les pieds du sujet et son environnement semble se mouvoir de son propre chef, si bien qu'il lui est presque impossible de se déplacer en ligne droite.
+Au cours de chaque round où il tente de se déplacer, le sujet d'une désorientation imaginaire doit réussir un test de Survie (DD 20) pour distinguer le relief réel des éléments imaginaires. En cas de succès, il se déplace normalement. En cas d'échec, il se déplace dans une direction située à 90° (à gauche ou à droite). En raison du sort, le sujet ne réalise pas qu'il va dans la mauvaise direction avant d'interagir avec son environnement (en effectuant une attaque ou en manipulant un objet comme une porte, par exemple) ou la fin du round. S'il comprend qu'il se rend dans la mauvaise direction avant la fin du round, il peut effectuer un nouveau test de Survie pour tenter de redresser la barre, mais il ne saura pas si ce second test est couronné de succès ou non avant d'interagir avec son environnement ou la fin du round.
+Un sort de désorientation imaginaire n'affecte que les déplacements. Les créatures qui en sont les victimes sont à même de se battre, de lancer des sorts et d'agir normalement.
+Détection des ennemis jurés Divination
+Niveau : Rodeur 3
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : 18 m
+Cible : quart de cercle émanant du lanceur de sorts et s'étendant jusqu'à l'extrémité de la portée
+Durée : concentration, jusqu'à 10 minutes/niveau (T)
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort permet de détecter la présence d'un ennemi juré. La quantité d'informations obtenues dépend du temps passé à examiner la zone d'effet.
+Premier round. Présence ou absence d'un ennemi juré dans la zone d'effet.
+Deuxième round. Types d'ennemis jurés situés dans la zone d'effet et nombre par type.
+Troisième round. Emplacement et DV de chaque individu présent.
+Note. Chaque round, le lanceur peut se tourner pour sonder une nouvelle zone. Le sort fonctionne au travers des barrières, à condition qu'elles ne soient pas trop épaisses. Ainsi, il est bloqué par 30 centimètres de pierre, 2,5 centimètres de métal, une mince feuille de plomb, ou 90 centimètres de bois ou de terre.
+Épines empoisonnées Transmutation
+Niveau : Druide 5
+Composantes : V
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le lanceur de sorts
+Durée : 1 round/niveau (T)
+Des épines noires et luisantes sortent de la peau du lanceur. Elles ne lui infligent pas de dégâts mais constituent un véritable danger pour tous ceux qui le frappent au corps à corps. Toute créature luttant contre le lanceur ou le frappant à l'aide d'une arme tenue en main ou d'une arme naturelle subit 1d6 points de dégâts perforants auxquels s'ajoute le bonus de Force du personnage. Les armes dotées d'une allonge exceptionnelle, comme la pique, permettent à ceux qui les manient de rester à distance respectable des épines. Le lanceur ne peut exploiter • les épines pour attaquer. Elles ne sont donc efficaces que lorsqu'on attaque le personnage. De plus, une simple égratignure suffit à empoisonner l'assaillant. Toute créature luttant contre le lanceur est exposée au poison à chaque round, au tour de jeu du personnage. La substance inflige un affaiblissement temporaire de 1d4 points de Force sur-le-champ, puis un autre 1 minute après. Dans les deux cas, il faut réussir un jet de Vigueur (DD 10 + 1/2 niveau de lanceur de sorts + modificateur de Sagesse) pour annuler les dégâts.
+Composantes matérielles : une rose noire séchée.
+
+Esprit des bois Invocation (création)
+Niveau : Druide 1
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : un serviteur de la nature
+Durée : 1 heure/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort invoque un esprit de la nature, vert et translucide, auquel il est possible de confier des missions très simples. Il peut monter un feu de camp, cueillir des herbes, nourrir un compagnon animal, attraper un poisson ou réaliser quelque autre tâche simple n'impliquant ni connaissances ni technologie. Ainsi, il est incapable d'ouvrir un coffre verrouillé, car il ne sait pas comment fonctionne une serrure.
+L'esprit ne peut faire qu'une seule chose à la fois, mais il est capable de répéter la même activité si on le lui ordonne. Ainsi, si le personnage lui demande de ramasser des feuilles, il continuera de le faire même si le lanceur prête son attention ailleurs (mais il doit rester dans la portée du sort).
+L'esprit a une valeur de Force de 2, aussi peut-il soulever 10 kilos ou en tirer 50. Il peut aussi déclencher des pièges, mais les 10 kilos de pression qu'il est capable d'exercer ne suffisent pas pour activer la plupart des pièges de contact. Sa vitesse de déplacement est égale à 4,50 mètres dans toutes les directions, même vers le haut.
+L'esprit des bois est incapable de passer à l'attaque. Il lui est impossible de réaliser le moindre jet d'attaque ou de sauvegarde. On ne peut le tuer, mais il est dissipé s'il subit 6 points de dégâts en raison d'une attaque de zone. Si le personnage tente d'envoyer l'esprit au-delà de la portée du sort (en se basant sur la position en cours du lanceur), son existence prend fin.
+Eveil de groupe Transmutation
+Niveau : Druide 8
+Composantes : V, G, F, PX
+Temps d'incantation : 24 heures
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : 1 animal ou arbre/3 niveaux, aucun ne pouvant être séparé de plus de 9 m des autres
+Durée : instantanée
+Jet de sauvegarde : voir description
+Résistance à la magie : oui
+Le lanceur éveille un ou plusieurs arbres ou animaux (mais qui doivent toutes être de la même espèce), qui acquièrent ainsi un semblant de conscience humaine. Pour ce faire, il doit réussir un jet de Volonté (DD 10 + DV de la cible ayant le plus de DV, ou DV de l'arbre en possédant le plus une fois éveillé, selon le plus élevé). En cas d'échec, aucune cible n'est affectée.
+Tout animal ou arbre éveillé est amical envers le personnage. Ce dernier n'entretient avec lui aucune forme d'empathie, mais il remplit les tâches que lui communique le lanceur.
+Un arbre éveillé a le profil d'un objet animé, mais ses valeurs d'Intelligence, de Sagesse et de Charisme sont égales à 3d6. Les plantes éveillées sont capables de remuer leurs branches, racines, lianes, etc., et leurs sens sont semblables à ceux d'un humain. Un animal éveillé dispose d'une Intelligence de 3d6, d'un bonus de +1d3 points en Charisme et de +2 DV.
+Un arbre ou un animal éveillé parle une langue que connaît le lanceur, plus une langue supplémentaire connue par point de bonus d'Intelligence (le cas échéant).
+Coût en points d'expérience : 250 PX par créature éveillée.
+
+Explosion de force Évocation [force]
+Niveau :
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : rayon
+Durée : instantanée
+Jet de sauvegarde : Vigueur, partiel
+Résistance à la magie : oui
+La cible du sort est victime d'une explosion de force. Cette attaque de contact à distance inflige 1d6 points de dégâts tous les 2 niveaux de lanceur de sorts (jusqu'à un maximum de 5d6). En cas de succès, la cible doit également effectuer un jet de Vigueur sous peine d'être renversée (les modificateurs de taille et de stabilité s'appliquent au jet de sauvegarde, comme dans le cas d'une action de bousculade).
+Faveur de la nature Évocation
+Niveau : Druide 3, Rodeur 2
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : animal touché
+Durée : 1 minute/niveau
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+En faisant appel au pouvoir de la nature, le personnage confère à l'animal visé un bonus de chance de +1 aux jets d'attaque et de dégâts tous les deux niveaux de lanceur de sorts.
+Feux purificateurs Évocation [feu]
+Niveau : Ensorceleur/Magicien 6, Druide 6
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : créature touchée
+Durée : 1 round/niveau
+Jet de sauvegarde : Réflexes, annule (inoffensif; voir description)
+Résistance à la magie : oui (inoffensif ; voir description)
+La créature que touche le personnage prend feu mais ne subit pas de dégâts. En revanche, elle est désormais capable de blesser ses ennemis à l'aide de ces flammes.
+S'il réussit une attaque au corps à corps, le sujet inflige 1d6 points de dégâts de feu supplémentaires, +1 par niveau de lanceur de sorts (jusqu'à un maximum de +15). Si le défenseur dispose d'une résistance à la magie, celle-ci est applicable.
+Les créatures qui entrent en contact avec le sujet sont soumis aux mêmes dégâts, sauf si elles attaquent à l'aide d'une arme pourvue d'une allonge exceptionnelle, comme une pique. Les victimes des feux purificateurs doivent réussir un jet de Réflexes sous peine de prendre feu. En cas d'échec, elles brûlent pendant 1d4 rounds, subissant alors 1d6 points de dégâts de feu par round, sauf si elles réussissent un jet de Réflexes (DD égal à celui du sort ; un jet de sauvegarde par round) ou se jettent dans l'eau.
+Le sujet quant à lui subit des dégâts réduits de moitié face aux attaques de feu. Si une telle attaque lui permet déjà de réduire les dégâts de moitié en cas de jet de Réflexes réussi, il ne subit aucun dégât si son jet de sauvegarde est couronné de succès.
+Fléau Nécromancie
+Niveau :
+Composantes : V, G, F, FD
+Temps d'incantation : 1 action simple
+Portée : longue (120 m + 12 m/niveau)
+Cible : ne créature vivante/niveau, aucune ne devant se situer à plus de 15 m d'une autre
+Durée : instantanée
+Jet de sauvegarde : Vigueur, annule
+Résistance à la magie : oui
+Ce sort vicieux frappe d'une maladie grave toutes les cibles qui ratent leur jet de sauvegarde. Les créatures affectées sont immédiatement contaminées par un mal écœurant qui se répand sur toute la surface du corps. Les furoncles noirâtres, les pustules magenta, les lésions violettes, les abcès purulents et autres kystes malins sont la source d'une douleur atroce et hautement débilitante.
+La maladie inflige un affaiblissement temporaire de 1d3 points de Force et de Dextérité par jour, à moins que le sujet ne réussisse un jet de Vigueur pour la journée en cours. Comme dans le cas de la putréfaction transmise par les momies, ces jets de sauvegarde quotidiens, même s'ils sont réussis, ne permettent pas la guérison de la créature affectée. Les symptômes persistent tant que la créature ne bénéficie pas d'un traitement magique de la maladie (comme guérison des maladies, guérison suprême ou restauration).
+Focaliseur : un fouet noir ou une cravache de la même teinte, que le jeteur de sorts claque dans la direction de ses victimes lorsque le sort est lancé.
+
+Froid rampant Transmutation [froid]
+Niveau : Druide 2
+Composantes : V, G, F
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m +1,50 m/2 niveaux)
+Cible : 1 créature
+Durée : 3 rounds
+Jet de sauvegarde : Vigueur, demi-dégâts
+Résistance à la magie : oui
+Ce sort transforme la sueur du sujet en glace, créant ainsi des cloques sous et sur la peau. Le sort inflige 1d6 points de dégâts de froid cumulatifs par round (1d6 au 1et round, 2d6 au 2e round et 3d6 au 3e round). Les victimes n'ont droit qu'à un seul jet de sauvegarde. En cas de réussite, les dégâts sont réduits de moitié à chaque round.
+Focaliseur : un petit verre ou bol en terre d'une valeur minimum de 25 po et rempli de glace, de neige ou d'eau.
+
+Froid rampant suprême Transmutation [froid]
+Niveau : Druide 7
+Durée : voir description
+Ce sort est le même que froid rampant, mais sa durée présente un 4e round, au cours duquel il inflige 4d6 points de dégâts. Si le lanceur de sorts est de niveau 15 au moins, un 5e round inflige 5d6 points de dégâts, et s'il est au moins de niveau 20, un 6e round inflige 6d6 points de dégâts.
+Fureur vertueuse des fidèles Enchantement (coercition) [mental]
+Niveau : Prêtre 7
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : 9 mètres
+Cible : tous les alliés situés dans un rayonnement < 9 m de rayon centré sur le lanceur de sorts
+Durée : 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : oui
+Lorsqu'il jette ce sort, les alliés et compagnons du lanceur sont envahis d'une fureur, voire d'une folie divine, qui améliore sensiblement leurs capacités de combat. Tous ceux qui combattent aux côtés du lanceur sont affectés par un sort d'aide, c'est-à-dire qu'ils bénéficient d'un bonus de moral de +1 aux jets d'attaque et aux jets de sauvegarde contre la terreur, tout en gagnant ld8 points de vie temporaires.
+Les alliés du personnage qui vénèrent le même dieu que lui sont quant à eux emplis d'une fureur vertueuse. Ils bénéficient d'une attaque supplémentaire au corps à corps à chaque round (effectuée avec leur bonus à l'attaque maximal) et d'un bonus de moral de +2 aux jets d'attaque, de dégâts et de sauvegarde. Ils reçoivent également ld8 points de vie temporaires additionnels (pour un total de 2d8) et un bonus de moral de +3 aux jets de sauvegarde contre les sorts et les effets mentaux.
+Lorsque le sort prend fin, les alliés du lanceur qui ont été sujets à la totalité des effets de la fureur vertueuse sont fatigués (-2 en Force et en Dextérité, incapacité de courir ou de charger) pendant 10 minutes.
+Horde de rats Invocation (convocation)
+Niveau :
+Composantes : V, G, FD
+Temps d'incantation : 1 round entier
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : une nuée de rats sanguinaires sur une étendue de 6 m
+Durée : 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Une nuée de rats sanguinaires attaque vicieusement toutes les créatures comprises dans une étendue de 6 mètres, leur infligeant des dégâts tout en transmettant la fièvre des marais. Si une créature attaquée par la horde ne fait rien d'autre que repousser les rats, elle subit 1d4 points de dégâts à son tour de jeu et a droit à un jet de Vigueur (DD 15 + le bonus d'Intelligence du jeteur de sort) pour éviter de contracter la maladie. Toute autre action (y compris fuir la horde) entreprise par un individu piégé dans la nuée entraîne les conséquences suivantes : il subit 1d4 points de dégâts par niveau de lanceur de sorts, et le jet de Vigueur pour échapper à la contagion s'effectue avec un malus de -4. Il est impossible de lancer des sorts ou de rester concentré lorsque l'on est pris dans une telle nuée.
+Puisque les attaques des rats ne sont pas magiques, l'intangibilité, la réduction des dégâts ou d'autres défenses peuvent protéger un individu contre les dégâts causés par la horde. L'effet de transmission de la maladie est quant à lui magique et se déclenche par simple contact. Toute créature tangible prise dans la nuée et qui n'est pas immunisée contre les maladies peut être victime de la fièvre des marais.
+La horde ne peut pas être combattue effectivement avec des armes, mais le feu et les attaques provoquant des dégâts de zone peuvent la forcer à se disperser. Cet événement survient lorsque la nuée a subi par le biais de ce type d'attaques un total de 8 points de dégâts par niveau de lanceur de sorts. Un nuage nauséabond (ou un effet de zone similaire) disperse une nuée immédiatement.
+Au prix d'une action de mouvement, l'invocateur peut diriger le déplacement de la nuée à la vitesse de 12 mètres par round.
+Langueur Transmutation
+Niveau : Druide 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Effet : rayon
+Durée : 1 round/niveau
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+La créature touchée par ce sort est affaiblie et ralentie. Si elle rate son jet de Volonté, elle est frappée de lenteur et est victime d'un malus d'altération en Force cumulatif égal à 1d6-1 tous les deux niveaux de lanceur de sorts (malus minimum de 0, maximum de -10) et par round. Si la Force du sujet tombe en dessous de 1, il est sans défense. L'effet de lenteur peut être contré par rapidité (et vice versa). Néanmoins, rapidité ne contre pas le malus en Force.
+Maelstrom d’énergie destructrive
+Niveau : Prêtre 4, Druide 4
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : 6 m
+Cible : toutes les créatures situées dans un rayonnement de 6 m de rayon centré sur le lanceur de sorts
+Durée : instantanée
+Jet de sauvegarde : Réflexes, demi-dégâts
+Résistance à la magie : oui
+Lorsque le personnage lance ce sort, il lui faut choisit une des cinq formes d'énergie destructive : acide, électricité, feu, froid ou son. L'auteur émet alors un souffle de ce type précis qui inflige 1d8 points de dégâts, +1 par niveau de lanceur de sorts (jusqu'à un maximum de +20) aux créatures situées alentour. Si le personnage accepte de subir lui aussi ces dégâts, ceux-ci sont alors multipliés par deux en ce qui concerne les cibles. Il ne bénéficie d'aucun jet de Réflexes, mais sa résistance à la magie s'applique, sans oublier ses résistances et immunités (le cas échéant).
+Malédiction de la lycanthropie Nécromancie [malédiction]
+Niveau :
+Composantes : V, G, M, FD
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : humanoïde touché
+Durée : permanente (voir description)
+Jet de sauvegarde : Vigueur, annule
+Résistance à la magie : oui
+Le lanceur peut induire par simple contact une lycanthropie temporaire chez un humanoïde. Si celui-ci rate son jet de sauvegarde, il contracte cette maladie et les symptômes se manifestent dès la pleine lune suivante. À l'inverse des autres formes de lycanthropie, l'effet de ce sort peut être annulé par un sort de Délivrance des malédictions ou une Annulation d’enchantement.
+Toutes les formes communes de lycanthropie peuvent être reproduites avec ce sort, et les prêtres mauvais expérimentent souvent de nouvelles variantes. En règle générale, le lycanthrope peut prendre la forme de n'importe quel prédateur dont la taille est comprise entre celle d'un petit chien et celle d'un grand ours. La provenance de la composante matérielle détermine l'animal en question.
+Composantes matérielles : un demi-litre de sang d'un animal.
+
+Malédiction de la malchance Transmutation [malédiction]
+Niveau : Prêtre 2
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : une créature vivante
+Durée : 1 minute/niveau
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+Le jeteur de sorts maudit sa cible pour un temps, lui infligeant un malus de -3 aux jets d'attaque, jets de sauvegarde, tests de caractéristique et tests de compétence. Malédiction de la malchance est annulé par tout sort dissipant une malédiction.
+Marche des nuages Transmutation
+Niveau : Druide 7
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : une créature/niveau, aucune ne devant se trouver à plus de 9 m d'une autre
+Durée : 1 heure/niveau (T)
+Jet de sauvegarde : Réflexes, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Le personnage crée des coussins gazeux autour des pieds du sujet, ce qui lui permet de marcher sur les nuages. Ces coussins permettent au sujet de se déplacer vers le haut ou vers le bas à la vitesse de 9 mètres, ou bien de voler latéralement à la vitesse de 18 mètres (manœuvrabilité parfaite). Les mouvements latéraux ne sont possibles que si le sujet se trouve déjà au moins à 27 mètres du sol. Pour entrer de nouveau en contact avec le sol, le sujet doit entreprendre une action simple afin de se débarrasser de la substance gazeuse, ce qui met fin au sort pour celui-ci uniquement. Le personnage peut mettre un terme au sort, mais cela affecte alors tous les sujets, ce qui risque fort d'avoir des conséquences pour toutes les créatures qui se trouvent encore dans les airs.
+Marque du chasseur Divination
+Niveau : Rodeur 3
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : une créature, qui doit compter parmi les ennemis jurés du lanceur de sorts
+Durée : 10 minutes/niveau
+Jet de sauvegarde : Volonté, annule
+Résistance à la magie : oui
+En désignant l'un de ses ennemis jurés du doigt, le lanceur trace une rune luisante que lui seul peut voir. Ses bonus d'ennemi juré augmentent alors de +4 contre l'adversaire portant cette rune.
+De plus, la rune enlumine l'ennemi et le lanceur a plus de facilités pour le toucher. Le sujet d'une marque du chasseur ne bénéficie d'aucun bonus d'abri à la CA (sauf s'il jouit d'un abri total) contre le lanceur, et son camouflage ne lui confère aucune chance d'être raté (sauf s'il s'agit d'un camouflage total). Les autres effets conférant une chance d'être raté (comme l'intangibilité) fonctionnent normalement.
+Composantes matérielles : un bout de peau ou d'os issu du type d'ennemi juré correspondant.
+
+Mauvais augure Divination
+Niveau : Prêtre 1, Druide 1
+Composantes : V, F
+Temps d'incantation : 1 round entier
+Portée : personnelle
+Cible : le lanceur de sorts
+Durée : instantanée
+Une courte prière donne au personnage (et à lui seul) une idée de la dangerosité de son avenir immédiat. Selon son environnement et le chemin qu'il est censé emprunter, le personnage reçoit l'une des trois visions suivantes : sécurité, péril ou grand danger.
+Le personnage a 70 % de recevoir une réponse précise, +1 % par niveau de lanceur de sorts (jusqu'à un maximum de 90 %). Bien entendu, le MD effectue le jet en secret.
+Si le mauvais augure est couronné de succès, le personnage bénéficie de l'une des trois visions suivantes, dont la durée s'élève à une ou deux secondes.
+
+Sécurité. Le lanceur de sorts n'est pas en danger. S'il poursuit sur la route prévue (ou s'il reste où il se trouve dans le cas où il ne bouge pas depuis un moment), il n'aura affaire à aucun monstre, piège ou défi de taille durant la prochaine heure.
+Péril. Le lanceur de sorts va devoir faire face à un défi classique pour un aventurier : des monstres d'une puissance raisonnable, des pièges dangereux et autres dangers durant la prochaine heure.
+Grand danger. La vie du lanceur de sorts est en danger. Il aura certainement affaire à de puissants PNJ ou à des pièges mortels durant la prochaine heure.
+En cas d'échec, le personnage obtient l'un des deux autres résultats, déterminé aléatoirement par le MD, sachant que le joueur n'est évidemment pas au courant puisque le jet est effectué secrètement..
+Le choix de la vision « correcte » demande un minimum de clairvoyance de la part du MD puisqu'il lui faut deviner les actions que vont entreprendre les PJ et les risques encourus..
+Pour ce qui est de la forme exacte que prend le mauvais augure, tout dépend si le lanceur de sorts voue un culte à un dieu, vénère la nature ou se range simplement du côté de principes abstraits. Un druide verra une colombe blanche pour la sécurité, un nuage noir en travers du soleil pour un péril et un incendie de forêt pour un grand danger. Un prêtre de Fharlanghn aura la vision d'une route droite pour la sécurité, d'un carrefour pour le péril et d'un pont délabré pour un grand danger.
+Contrairement à augure, ce sort ne permet pas de répondre à une question précise. Il se contente d'indiquer le niveau de danger probable de la prochaine heure et non la forme qu'il va prendre.
+Focaliseur : un jeu de baguettes, d'os ou autres babioles spécifiques d'une valeur de 25 po au moins.
+
+Miasme Évocation
+Niveau : Druide 6
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature vivante
+Durée : 3 rounds/niveau
+Jet de sauvegarde : voir description
+Résistance à la magie : oui
+Le sort remplit la bouche et la gorge du sujet à l'aide d'un gaz irrespirable, et celui-ci ne peut que tousser et crachoter. Par contre, il peut retenir son souffle pendant 2 rounds par point de Constitution, mais il doit ensuite effectuer un test de Constitution par round (DD 10 + 1 par succès déjà obtenu). En cas d'échec (ou s'il cesse de retenir son souffle), le sujet sombre dans l'inconscience (0 pv). Lors du round suivant, le sujet se retrouve à -1 pv et est mourant. Au troisième round, il suffoque.
+Nuée d’otyughs Invocation (création)
+Niveau :
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Effet : trois otyughs ou plus, aucun ne devant se trouver à plus de 9 m d'un autre
+Durée : sept jours ou sept mois (T) (voir description)
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort crée des otyughs à partir d'une grande masse d'ordures et d'immondices (comme un égout ou une fosse d'aisance). Il est possible de « produire » 3d4 otyughs de taille normale ou 1d3+1 otyughs de taille TG. Ces monstres servent l'invocateur de leur plein gré dans les combats, pour des missions spécifiques ou comme gardes du corps. Les otyughs restent aux côtés de leur créateur pendant sept jours à moins qu'il ne les congédie avant l'achèvement de la durée du sort. Cette durée est portée à sept mois si les otyughs se voient seulement assignés une mission de surveillance et de protection d'un site spécifique. Dans ce dernier cas, les otyughs ne peuvent pas se déplacer hors de la portée du sort.
+Nuée d'otyughs ne peut être lancé que dans un endroit contenant au moins 3 tonnes d'immondices, de déchets ou de miasmes. Une fois le sort lancé, les otyughs qui n'ont pas été désignés comme gardes peuvent quitter leur tas d'ordures sur ordre de leur créateur.
+Pacte de regain Invocation (guérison)
+Niveau :
+Composantes : V, G, FD, PX
+Temps d'incantation : 10 minutes
+Portée : contact
+Cible : créature vivante et consentante touchée
+Durée : permanente jusqu'à déclenchement
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort permet de nouer un pacte entre la cible et un dieu. Ce dernier use alors de son énergie divine pour débarrasser le sujet des afflictions qui le frappent.
+Une fois le sort lancé, le pacte reste en sommeil jusqu'à ce que la cible soit victime de l'un des effets suivants : affaiblissement temporaire de caractéristique, aveuglement, confusion, hébétement, éblouissement, assourdissement, maladie, épuisement, fatigue, débilité, aliénation mentale, nausée, fièvre, étourdissement ou empoisonnement. Un round après avoir été affecté par l'un des effets précédents, le pacte de regain est mis en œuvre et le sujet bénéficie d'un sort de guérison suprême (au niveau de lanceur de sorts du pacte).
+Une même créature ne peut être la cible que d'un seul pacte de regain à la fois. Le fait d'en lancer un nouveau sur un sujet qui en a déjà conclu un annule le premier.
+Coût en points d'expérience : 500 PX.
+
+Pacte de vigueur Évocation
+Niveau :
+Composantes : V, G, FD, PX
+Temps d'incantation : 10 minutes
+Portée : contact
+Cible : créature vivante et consentante touchée
+Durée : permanente jusqu'à déclenchement, puis 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort permet de conclure un accord entre la cible et un dieu. Ce dernier lui offre alors sa protection en cas de nécessité.
+Une fois le sort lancé, le pacte teste en sommeil jusqu'à ce que la cible perde la moitié de ses points de vie au moins. À ce moment-là, le sujet bénéficie de 5 points de vie temporaires par niveau de lanceur de sorts, d'une réduction des dégâts (5/magie) et d'un bonus de chance de +4 aux jets de sauvegarde. Tous ces avantages disparaissent une fois le sort achevé.
+Coût en points d'expérience : 250 PX.
+
+Pacte du zélote Évocation
+Niveau :
+Composantes : V, G, FD, PX
+Temps d'incantation : 10 minutes
+Portée : contact
+Cible : créature vivante et consentante touchée
+Durée : permanente jusqu'à déclenchement, puis 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort permet de nouer un pacte entre un dieu et la cible. Cette dernière use alors de sa puissance divine pour anéantir ses ennemis.
+Une fois le sort lancé, le pacte reste en sommeil jusqu'à ce que la cible frappe un adversaire dont l'alignement est strictement opposé à celui de la divinité. Le sujet bénéficie d'un bonus de +4 à l'attaque, inflige des dégâts doublés et confirme automatiquement les critiques jusqu'au terme du sort. En outre, les attaques au corps à corps du sujet sont affublées des registres d'alignement correspondant à ceux du dieu avec lequel le pacte a été conclu. S'il en est capable, le sujet doit attaquer les ennemis présentant un alignement opposé à chaque round. Parmi toutes les créatures présentes dans un rayon de 18 mètres, le sujet est conscient de celles qui ont un alignement opposé (comme s'il avait lancé le sort de détection adéquat).
+Si le lanceur noue un pacte avec une divinité parfaitement neutre, comme Sylvanus, choisissez un alignement parmi la liste qui suit qui déclenchera le sort : loyal bon, loyal mauvais, chaotique mauvais ou chaotique bon.
+Une même créature ne peut être la cible que d'un seul pacte du zélote à la fois. Le fait d'en lancer un nouveau sur un sujet qui en a déjà conclu un annule le premier.
+Coût en points d'expérience : 500 PX.
+
+Pacte mortel Nécromancie [Mal, Résurrection]
+Niveau :
+Composantes : V, G, M, FD, PX
+Temps d'incantation : 10 minutes
+Portée : contact
+Cible : créature vivante touchée et consentante
+Durée : permanente jusqu'à utilisation
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Ce sort permet à la cible de conclure un accord avec le dieu du prêtre afin que ce dernier la ramène à la vie si elle est tuée.
+Au moment où ce sort est lancé, la cible perd définitivement 2 points de Constitution. En échange, si elle meurt, plusieurs sorts prennent effet. Premièrement, la cible est téléportée en lieu sûr, comme si elle profitait d'un mot de rappel. Deuxièmement, elle est ressuscitée d'entre les morts, comme si on lui avait lancé un Rappel à la vie, avec la perte habituelle d'un niveau. Enfin, elle bénéficie d'un sort de guérison suprême. Elle ne regagne pas les 2 points de Constitution en revenant de l'au-delà.
+Si le rappel à la vie ne peut ramener la cible d'entre les morts (par exemple, si elle a été désintégrée, si elle est morte de vieillesse, etc.), le pacte mortel ne peut la ressusciter. Si le sort est dissipé avant que la cible ne meure, elle n'en regagne pas pour autant les 2 points de Constitution perdus.
+Composantes matérielles : un diamant d'une valeur de 500 po au moins.
+Coût en points d'expérience : 250 PX.
+
+Pavillon de grandeur Invocation (création)
+Niveau :
+Composantes : V, G, FD
+Temps d'incantation : 10 minutes
+Portée : courte (7,50 m +1,50 m/2 niveaux)
+Effet : pavillon extradimensionnel, jusqu'à 5 cubes de 3 m de côté (F), plus festin pour 12 créatures/niveau
+Durée : 1 jour/niveau (T) plus 12 heures (voir description)
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Le lanceur invoque une somptueuse tente pourvue d'une entrée dans le plan où le sort est lancé. Cette entrée prend la forme d'un léger miroitement, de 3 mètres de large sur 4,50 mètres de haut. Seules les créatures désignées par le lanceur peuvent y entrer. Du reste, l'entrée est close et invisible quand le personnage se trouve à l'intérieur. Toutefois, il peut l'ouvrir depuis l'intérieur quand bon lui semble. Une fois l'entrée franchie, les intéressés se retrouvent sous une tente spacieuse aux couleurs du culte du prêtre. La luminosité varie entre celle du jour et de la nuit, et la température y est comprise entre 4° et 32°, au choix du lanceur au moment où il jette le sort. Le pavillon est somptueusement décoré et renferme suffisamment de nourriture pour sustenter 12 créatures par niveau de lanceur de sorts. Tout individu passant 1 heure entière à manger en ce lieu bénéficie d'un effet identique à celui de festin des héros. Enfin, tant qu'elles restent sous le pavillon, les créatures voient leurs blessures guérir au double du rythme habituel (ce qui n'inclut pas la guérison accélérée et la régénération).
+Paysage d’ombre Illusion (ombre)
+Niveau : Druide 9
+Composantes : V, G, FD
+Temps d'incantation : 1 heure
+Portée : longue (120 m + 12 m/niveau)
+Zone d'effet : émanation de 1,5 kilomètre de rayon centrée sur un point dans l'espace
+Durée : 1 jour/niveau (T)
+Jet de sauvegarde : Réflexes, partiel (voir description)
+Résistance à la magie : oui
+En imprégnant les alentours d'une puissance issue du plan de l'Ombre, le lanceur rend son environnement plus sauvage et dangereux.
+L'effet précis du sort dépend du milieu naturel dans lequel il est lancé.
+Déserts. Paysage d'ombre fait du désert un lieu où nul ne se rend de bon cœur. La température moyenne augmente de 15°, ou baisse de 15° si le désert est en réalité une toundra. Toutes les heures, une tempête de sable le parcourt (il s'agit d'une tempête de neige dans le cas de la toundra).
+Forêts. Une forêt frappée par un sort de paysage d'ombre est un lieu terrifiant où la voûte de feuillage pourrissant empêche la lumière du soleil d'atteindre le sol et où les arbres sont étrangement difformes. Les espaces occupés par des broussailles légères sont désormais remplis de broussailles épaisses. Du reste, les espaces occupés par des broussailles épaisses accrochent les voyageurs comme si on leur avait lancé un sort d'enchevêtrement (Réflexes, partiel ; DD égal à celui du sort de paysage d'ombre).
+Collines. Même les collines à pente douce sont perfides sous l'influence de paysage d'ombre. Les broussailles se transforment en broussailles épaisses et les pentes semblent plus raides que ne le laissent penser leur élévation. Il faut utiliser deux cases de déplacement pour parcourir une case de pente douce, et quatre cases de déplacement pour parcourir une case de pente raide. Les à-pic sont parcourus de surplombs et constitués de roche friable. Il faut réussir un test d'Escalade (DD 25) pour les gravir ou les descendre.
+Marécages. Ce type de terrain semble plus marécageux et sinistre encore. La moitié des cases de broussailles se transforment en cases de sables mouvants (cf. page 88 du Guide du Maître).
+Montagnes. Les montagnes prennent la forme de pics accidentés et de pentes glissantes, le tout parsemé de vents hurlants. Pour franchir à-pic et gouffres, il faut réussir un test d'Escalade (DD 25). Les créatures qui ratent leur test d'Escalade ou font beaucoup de bruit ont 10 % de chances de déclencher une avalanche (cf. page 90 du Guide du Maître). Les effets de l'altitude empirent d'une catégorie : les régions situées à moins de 1 500 mètres d'altitude sont considérées comme comprises entre 1 500 et 4 500 mètres, et tout ce qui se trouve à plus de 1 500 mètres d'altitude est considéré comme situé à plus de 4 500 mètres.
+Plaines. Seuls les prés sont modifiés par le sort, mais il s'agit de vastes surfaces parsemées de buissons denses où les orages et les tornades sont monnaie courante. La moitié des cases occupées par des broussailles (légères ou épaisses) accrochent les voyageurs comme si on leur avait lancé un sort d'enchevêtrement (Réflexes, partiel ; DD égal à celui du sort de paysage d'ombre).
+Souterrains. Les donjons classiques ne sont pas affectés par le sort, à l'inverse des cavernes naturelles. Pour entrer dans une case de sol en pierre naturelle, il faut utiliser 4 cases de déplacement. Les stalagmites recouvrent 10 % de l'espace au sol disponible.
+En plus des effets liés au terrain, le sort aggrave le climat qui sévit dans la zone d'effet. Lorsque vous déterminez aléatoirement le climat, lancez deux fois les dés et conservez le résultat le plus élevé. En plaines, lancez trois fois les dés et conservez le résultat le plus élevé. Ne déterminez pas aléatoirement le climat en souterrain.
+Le lanceur du sort ne tient pas compte des effets liés au terrain (enchevêtrement, déplacement ralentis, altitude, DD d'Escalade accrus, etc.). De plus, quand il jette paysage d'ombre, il peut désigner jusqu'à une créature tous les quatre niveaux de lanceur de sorts. Celles-ci ne seront pas victimes des effets liés au terrain engendrés par le sort, mais elles n'en seront pas moins sujettes au mauvais temps.
+Le lanceur a également l'option de désigner des animaux, plantes ou créatures magiques originaires de la zone d'effet du sort qui deviennent les gardiens d'ombre des lieux. Il peut ainsi choisir 1 DV de créatures par niveau de lanceur de sorts, répartis comme bon lui semble. Par exemple, un druide de niveau 20 peut reporter son choix sur deux sylvaniens (7 DV chacun) et un loup sanguinaire (6 DV). Tant que les gardiens d'ombre restent dans la zone d'effet du sort, ils ont une attitude amicale à l'égard du lanceur et des voyageurs désignés par celui-ci (cf. paragraphe précédent). Les gardiens d'ombre acquièrent également les particularités suivantes : résistance au froid (10), vision dans le noir (18 m), réduction des dégâts (5/magie), esquive totale et vision nocturne. Si la créature possède déjà l'une de ces particularités, utilisez la valeur la plus avantageuse.
+Poursuivant implacable Divination
+Niveau : Paladin 4
+Composantes : V, G
+Temps d'incantation : 1 minute
+Portée : longue (120 m + 12 m/niveau)
+Cible : 1 créature
+Durée : 1 heure/niveau (T)
+Jet de sauvegarde : Volonté, annule (voir description)
+Résistance à la magie : oui
+À l'aide de ce sort, le personnage se transforme en traqueur infaillible, parfaitement conscient de l'emplacement de sa proie dès qu'elle se déplace. Ce sort lui révèle la direction et la distance le séparant de celle-ci quand elle achève son tour à plus de 3 mètres de l'endroit où elle l'a commencé.
+Le DD du jet de sauvegarde contre cette divination dépend de la relation qu'entretiennent le chasseur et son gibier. Ainsi, on y ajoute le bonus d'ennemi juré du premier (le cas échéant).
+Dès lors que le personnage parvient à verrouiller la cible, il sait précisément où elle se trouve tant qu'elle se déplace dans le même plan d'existence. Si elle vient à le quitter, le sort lui précise le nom du plan dans lequel elle s'est rendue. Le sort n'offre alors plus la moindre information jusqu'à ce que les deux protagonistes se retrouvent dans le même plan, auquel cas poursuivant implacable reprend son cours.
+Précision bénie Divination
+Niveau : Prêtre 3, Paladin 2
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : 18 m
+Zone d'effet : étendue de 18 m de rayon centrée sur le jeteur de sorts
+Durée : concentration
+Jet de sauvegarde : Volonté, annule (inoffensif)
+Résistance à la magie : non
+Ce sort confère un bonus de moral de +2 aux jets d'attaque à distance effectués par les alliés du lanceur de sorts situés au sein de l'étendue.
+Racines inébranlables Transmutation
+Niveau : Druide 9
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : créature consentante touchée
+Durée : 1 minute/niveau (T)
+Jet de sauvegarde : Vigueur, annule (inoffensif)
+Résistance à la magie : oui (inoffensif)
+Les membres inférieurs de la cible se transforment en racines épaisses qui s'ancrent au sol et confèrent des capacités de guérison. (Si la créature n'est pas en contact avec le sol, le sort n'a aucun effet.)
+Pendant la durée du sort, le sujet ne peut sortir de son espace occupé et aucun effet ne saurait l'en déloger (ce qui inclut bousculades, renversements, sorts comme main impérieuse de Bigby et effets dont la force est inférieure à celle d'un tremblement de terre d'envergure). Ce genre de tentative échoue alors automatiquement. Si une tentative de renversement est effectuée contre le sujet, ce dernier doit bloquer et non éviter la manœuvre. Le sujet remporte automatiquement le test visant à stopper le renversement et a le droit d'effectuer un test de Force (opposé au test de Force ou de Dextérité de l'assaillant) pour mettre son adversaire à terre.
+Les racines tirent leur vigueur du sol. Le sujet récupère ainsi jusqu'à 30 points de vie par round, les poisons qui l'affectent sont automatiquement neutralisés et il est débarrassé de ses niveaux négatifs (comme s'il profitait d'un sort de restauration). Enfin, le sujet bénéficie d'un bonus de +4 aux jets de Vigueur et de Volonté, mais il subit dans le même temps un malus de -4 aux jets de Réflexes.
+Rafale de pluie Évocation [eau, météo]
+Niveau : Druide 2
+Composantes : V, G
+Temps d'incantation : 1 round
+Portée : longue (120 m + 12 m/niveau)
+Zone d'effet : émanation de 30 mètres de rayon
+Durée : 10 minutes/niveau (T)
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+Des nuages s'amoncellent et une forte pluie se met à tomber. Cette averse réduit les portées de visibilité de moitié, infligeant ainsi un malus de -4 aux tests de Détection et de Fouille. Elle éteint automatiquement les flammes sans protection et a 50 % de chances de moucher les autres. Les attaques à distance et tests de Perception auditive sont victimes d'un malus de -4.
+Ce sort n'a aucun effet en intérieur, dans un souterrain, sous l'eau ou sous un climat désertique. Une fois le sort achevé, l'eau s'évapore dans les 10 minutes. Enfin, l'eau ainsi créée n'étanche pas la soif et ne nourrit pas les plantes.
+Raz-de-marée Évocation [eau]
+Niveau : Druide 6
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : une ou plusieurs créatures situées dans un rayonnement de 6 m de rayon Durée : instantanée
+Durée : instantanée
+Jet de sauvegarde : Réflexes, demi-dégâts
+Résistance à la magie : oui
+Le personnage crée une gigantesque vague d'eau qui s'abat sur une ou plusieurs cibles situées à portée. S'il n'y a aucune étendue d'eau naturelle de bonne taille à portée (rivière, lac ou océan), le sort ne peut affecter qu'une cible. Par contre, s'il existe un tel corps d'eau, le sort produit un rayonnement centré sur un point désigné par le personnage. Dans les deux cas, l'eau inflige 1d8 points de dégâts tous les deux niveaux de lanceur de sorts (jusqu'à un maximum de 7d8) à la cible ou aux créatures présentes dans la zone d'effet.
+De plus, les sujets sont victimes d'une attaque de bousculade, ce qui les oblige à effectuer un test de Force opposé contre la vague. Cette dernière a une Force effective de 16 et on considère qu'elle est de taille M (Force 20 et taille G si une source d'eau importante est présente). Le personnage choisit la direction que prend la vague lors de l'incantation. Les créatures qui perdent le test de Force opposé sont repoussées de 1,50 mètre, + 1,50 mètre par tranche de 5 points de marge d'échec. Une vague s'élevant depuis un corps d'eau peut parfaitement repousser les victimes dans les flots. La vague éteint les torches, les feux de camp, les lanternes exposées et autres flammes portées par la cible ou situées dans la zone d'effet et de taille G ou inférieure. Si l'eau frappe un feu magique, celui-ci est victime d'une dissipation de la magie jetée au niveau de lanceur de sorts du personnage.
+Retour macabre Invocation (guérison) [Résurrection]
+Niveau : Prêtre 4, Paladin 4
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : allié défunt touché
+Durée : 1 minute/niveau
+Jet de sauvegarde : aucun (voir description)
+Résistance à la magie : oui (inoffensif)
+Le jeteur de sorts touche un allié mort depuis peu et le ramène temporairement à la vie afin qu'il poursuive le combat. La cible ne doit pas être morte depuis plus de 1 round/niveau de lanceur de sorts. Le sort fonctionne sur le même principe que rappel à la vie, mais le sujet ne perd pas de niveau et possède la moitié de son total de points de vie normal. Il est bien vivant (et pas mort-vivant) et peut être soigné normalement. Toutefois, il meurt au moment même où le sort s'achève. Tant que le sujet se trouve sous l'effet de ce sort, il n'est pas affecté par les sorts Résurrection et rappel à la vie. Enfin, le sujet bénéficie d'un bonus de moral de +1 aux jets d'attaque, jets de dégâts, jets de sauvegarde et tests contre la créature l'ayant terrassé.
+Ronces Transmutation
+Niveau : Prêtre 2, Druide 2
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : contact
+Cible : l'arme touchée, qui doit être en bois
+Durée : 1 round/niveau
+Jet de sauvegarde : aucun
+Résistance à la magie : non
+De petites épines et pointes magiques jaillissent sur toute la surface d'une arme en bois (un bâton, un gourdin, une massue ou un nunchaku, par exemple). Pendant toute la durée du sort, l'arme inflige des dégâts à la fois contondants et perforants. Elle bénéficie d'un bonus d'altération de +1 aux jets d'attaque et ses dégâts sont majorés de 1 point par niveau du lanceur (jusqu'à un maximum de +10). À noter que ce sort ne fonctionne qu'avec des armes dont la surface utilisée pour porter les coups est faite de bois. Un arc, des flèches ou une masse d'armes composée de métal ne pourront donc pas être la cible de ronces.
+Composantes matérielles : une petite épine.
+
+Souffle de dragon Transmutation
+Niveau : Ensorceleur/Magicien 5, Prêtre 5
+Composantes : V, G, M/FD
+Temps d'incantation : 1 action simple
+Portée : personnelle
+Cible : le jeteur de sort
+Durée : 1 round/niveau
+
+Dragon	Souffle	Jet de sauvegarde
+Blanc	Cône de froid de 4,50 m de long,
+1d8/2 niveaux de lanceur de sorts (10d8 maximum)	Réflexes, demi-dégâts
+Bleu	Ligne d'électricité de 9 m de long,
+1d8/2 niveaux de lanceur de sorts (10d8 maximum)	Réflexes, demi-dégâts
+Noir	Ligne d'acide de 9 m de long,
+1d8/2 niveaux de lanceur de sorts (10d8 maximum)	Réflexes, demi-dégâts
+Rouge	Cône de feu de 4,50 m de long,
+1d8/2 niveaux de lanceur de sorts (10d8 maximum)	Réflexes, demi-dégâts
+Vert	Cône d'acide de 4,50 m de long,
+1d8/2 niveaux de lanceur de sorts (10d8 maximum)	Réflexes, demi-dégâts
+Airain	Cône de sommeil de 4,50 m de long,
+dure 1d6 rounds	Volonté, annule
+Argent	Cône de paralysie de 4,50 m de long,
+dure 1d6 rounds	Vigueur, annule
+Bronze	Ligne d'électricité de 9 m de long,
+1d8/2 niveaux de lanceur de sorts (10d8 maximum)	Réflexes, demi-dégâts
+Cuivre	Cône de lenteur de 4,50 m de long,
+dure 1d6 rounds	Volonté, annule
+Or	Cône de feu de 4,50 m de long,
+1d8/2 niveaux de lanceur de sorts (10d8 maximum)	Réflexes, demi-dégâts
+
+Souffle de sable Évocation
+Niveau : Druide 1
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : 3 m
+Effet : rayonnement de sable semi-circulaire de 3 m de long, centré sur les mains du lanceur de sorts
+Durée : instantanée
+Jet de sauvegarde : Réflexes, demi-dégâts
+Résistance à la magie : oui
+Une grêle de sable brûlant jaillit de la main tendue du personnage, infligeant 1d6 points de dégâts non-létaux aux créatures situées dans l'arc de cercle de la zone d'effet. Les créatures qui ratent leur jet de Réflexes sont également étourdies pendant 1 round.
+Vague de limon Invocation (convocation)
+Niveau : Prêtre 7, Druide 7
+Composantes : V, G, M
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m +1,50 m/2 niveaux)
+Zone d'effet : étendue de 4,50 m de rayon
+Durée : 1 round/niveau
+Jet de sauvegarde : Réflexes, annule
+Résistance à la magie : non
+Le personnage crée une vague de limon vert qui débute à la distance choisie et se répand avec force dans les limites de la zone d'effet. La vague éclabousse et recouvre tout ce que la zone contient, le limon s'accrochant même aux murs et au plafond. Les créatures situées dans la zone d'effet qui ratent leur jet de Réflexes sont recouvertes de limon suivant leur espace occupé : un amas de limon vert pour chaque tranche de 1,50 mètre.
+La substance dévore la chair et toutes les matières organiques au moindre contact, et elle attaque même le métal. Chaque amas inflige un affaiblissement temporaire de 1d6 points de Constitution en dévorant la chair de sa victime. Le limon inflige 2d6 points de dégâts par round au métal (dont la solidité n'est pas prise en compte contre cette attaque) et au bois (la solidité s'applique). Il n'affecte pas la pierre.
+Lors du premier round où le contact a lieu, on peut gratter le limon pour en débarrasser la victime (ce qui détruira probablement l'objet employé à cet effet), mais une fois ce délai passé, le limon devra être gelé, brûlé ou découpé (la victime subissant les mêmes dégâts dans l'opération). Un froid ou une chaleur extrêmes, la lumière du soleil ou un sort de guérison des maladies détruisent le limon vert. Contrairement à un limon vert normal, la substance créée par la vague de limon s'évapore petit à petit, disparaissant totalement au terme de la durée du sort.
+Composantes matérielles : quelques gouttes d'eau prélevées dans une mare stagnante.
+
+Vengeance divine Invocation (convocation)
+Niveau : Prêtre 2
+Composantes : V, G, FD
+Temps d'incantation : 1 action simple
+Portée : courte (7,50 m + 1,50 m/2 niveaux)
+Cible : 1 créature
+Durée : instantanée
+Jet de sauvegarde : Volonté, demi-dégâts
+Résistance à la magie : oui
+Le lanceur implore un dieu, dressant la liste des crimes de la cible et pressant la divinité de punir le félon. (L'alignement de la cible n'entre pas en ligne de compte.) La divinité courroucée inflige alors une punition qui prend la forme d'un redoutable coup spirituel. Cette attaque porte automatiquement au but et inflige 1d6 points de dégâts tous les deux niveaux de lanceur de sorts (jusqu'à un maximum de 5d6), ou 1d6 points dégâts par niveau de lanceur de sorts (jusqu'à un maximum de iodé) si le sujet est un mort-vivant. Un jet de Volonté réussi permet de réduire les dégâts de moitié.
+Vents paralysants Évocation
+Niveau : Druide 5
+Composantes : V, G
+Temps d'incantation : 1 action simple
+Portée : moyenne (30 m + 3 m/niveau)
+Cible : 1 créature
+Durée : concentration
+Jet de sauvegarde : Réflexes, annule
+Résistance à la magie : oui
+Une rafale de vent enveloppe et retient le sujet. Les vents paralysants ne se déplacent pas. Ils constituent une barrière physique entourant le sujet. La cible peut agir tout à fait normalement, sauf qu'il lui est impossible de se déplacer. Les vents emportent au loin le son de sa voix. Cela signifie qu'elle est capable de parler, mais que nul ne l'entendra.
+En outre, hormis le rugissement du vent, elle ne peut rien entendre. De plus, aucun sort de son ou de langage ne peut être lancé vers ou depuis les vents paralysants (bien que le sujet puisse jeter des sorts sur lui-même). Les attaques à distance effectuées vers ou depuis les vents paralysants sont victimes d'un malus de -2 au jet d'attaque. Les vents paralysants retiennent les créatures volantes dans les airs.
