@@ -31,26 +31,32 @@ public class MereinetidorSpell extends Spell {
     private transient HtmlPage spellPage;
 
     public void build(HtmlPage page, int i) throws IOException {
-        HtmlAnchor a = (HtmlAnchor) page.getByXPath(SPELL_URL_XPATH.replace("%i%", String.valueOf(i))).get(0);
-        String spellUrl = ScraperHelper.SITE_URL + a.getHrefAttribute();
-        spellPage = ScraperHelper.CLIENT.getPage(spellUrl);
-        extractName();
-        extractSummary();
-        extractBook();
-        extractPage();
-        extractSchool();
-        extractClassAndLevels();
-        extractRange();
-        extractDuration();
-        extractAOE();
-        extractEffect();
-        extractTarget();
-        extractCastTime();
-        extractSave();
-        extractMagicResist();
-        extractComponents();
+        try {
+            HtmlAnchor a = (HtmlAnchor) page.getByXPath(SPELL_URL_XPATH.replace("%i%", String.valueOf(i))).get(0);
+            String spellUrl = ScraperHelper.SITE_URL + a.getHrefAttribute();
+            spellPage = ScraperHelper.CLIENT.getPage(spellUrl);
+            extractName();
+            extractSummary();
+            extractBook();
+            extractPage();
+            extractSchool();
+            extractClassAndLevels();
+            extractRange();
+            extractDuration();
+            extractAOE();
+            extractEffect();
+            extractTarget();
+            extractCastTime();
+            extractSave();
+            extractMagicResist();
+            extractComponents();
 
-        buildClassAndLevels();
+            buildClassAndLevels();
+        } catch (Exception e) {
+            System.out.println("Exception while handling spell with name " + getName());
+            e.printStackTrace();
+            throw e;
+        }
     }
 
     @Override
