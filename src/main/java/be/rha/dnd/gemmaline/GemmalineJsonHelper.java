@@ -17,13 +17,15 @@ public class GemmalineJsonHelper {
     public static final String BASE_JSON_FILE_NAME = "target/base.json";
 
     public List<GemmalineSpell> readGemmalineSpells(String fileName) throws FileNotFoundException {
-        Type collectionType = new TypeToken<Collection<GemmalineSpell>>() {}.getType();
+        Type collectionType = new TypeToken<Collection<GemmalineSpell>>() {
+        }.getType();
         JsonReader reader = new JsonReader(new FileReader(fileName));
         return GSON.fromJson(reader, collectionType);
     }
 
     public List<SpellSummary> readSummaries(String fileName) throws FileNotFoundException {
-        Type collectionType = new TypeToken<Collection<SpellSummary>>() {}.getType();
+        Type collectionType = new TypeToken<Collection<SpellSummary>>() {
+        }.getType();
         JsonReader reader = new JsonReader(new FileReader(fileName));
         return GSON.fromJson(reader, collectionType);
     }

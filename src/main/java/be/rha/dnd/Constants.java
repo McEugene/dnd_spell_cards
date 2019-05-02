@@ -1,5 +1,6 @@
 package be.rha.dnd;
 
+import be.rha.dnd.mereinetidor.JsonHelper;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 

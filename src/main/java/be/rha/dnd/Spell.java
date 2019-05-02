@@ -6,7 +6,7 @@ import java.util.Objects;
 
 import static be.rha.dnd.Constants.MINIFIER;
 
-public class Spell {
+public abstract class Spell {
     public static final String LATEX_NEW_LINE = "\\\\\n";
     private static final int DESCRIPTION_MAX_CHAR = 1000;
     private transient List<ClassAndLevel> classAndLevels = new ArrayList<>();
@@ -241,5 +241,11 @@ public class Spell {
     @Override
     public int hashCode() {
         return Objects.hash(getName(), getType(), getClassAndLevel(), getComponents(), getCastTime(), getRange(), getTarget(), getDuration(), getSave(), getMagicResist(), getAreaOfEffect(), getEffect(), getDescription(), getSummary(), getBook(), getPage());
+    }
+
+    public abstract void buildClassAndLevels();
+
+    public boolean isInBook(List<String> books) {
+        return books.contains(getBook());
     }
 }

@@ -14,7 +14,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import static be.rha.dnd.Constants.*;
+import static be.rha.dnd.Constants.JSON_HELPER;
 import static be.rha.dnd.gemmaline.GemmalineJsonHelper.BASE_JSON_FILE_NAME;
 
 public class GenerateBaseJson {

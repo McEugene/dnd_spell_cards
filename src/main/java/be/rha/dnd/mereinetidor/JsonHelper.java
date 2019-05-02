@@ -1,7 +1,6 @@
-package be.rha.dnd;
+package be.rha.dnd.mereinetidor;
 
-import be.rha.dnd.gemmaline.GemmalineSpell;
-import be.rha.dnd.gemmaline.SpellSummary;
+import be.rha.dnd.Spell;
 import com.google.gson.reflect.TypeToken;
 import com.google.gson.stream.JsonReader;
 
@@ -21,7 +20,7 @@ import static be.rha.dnd.Constants.GSON;
 
 public class JsonHelper {
 
-    public void writeSpells(List<? extends Spell> spells, String fileName) throws IOException {
+    public void writeSpells(Collection<? extends Spell> spells, String fileName) throws IOException {
         String json = GSON.toJson(spells);
 
         Path path = Paths.get(fileName);
@@ -30,8 +29,9 @@ public class JsonHelper {
         }
     }
 
-    public List<Spell> readSpells(String fileName) throws FileNotFoundException {
-        Type collectionType = new TypeToken<Collection<Spell>>() {}.getType();
+    public List<MereinetidorSpell> readSpells(String fileName) throws FileNotFoundException {
+        Type collectionType = new TypeToken<Collection<MereinetidorSpell>>() {
+        }.getType();
         JsonReader reader = new JsonReader(new FileReader(fileName));
         return GSON.fromJson(reader, collectionType);
     }

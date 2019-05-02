@@ -50,6 +50,7 @@ public class GemmalineSpell extends Spell {
         buildClassAndLevels();
     }
 
+    @Override
     public void buildClassAndLevels() {
         if (!getClassAndLevel().trim().isEmpty()) {
             String[] splittedByClassAndLevel = getClassAndLevel().split(",");

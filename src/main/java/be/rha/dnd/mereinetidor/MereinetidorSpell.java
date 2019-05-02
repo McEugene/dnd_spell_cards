@@ -1,7 +1,9 @@
 package be.rha.dnd.mereinetidor;
 
+import be.rha.dnd.ClassAndLevel;
 import be.rha.dnd.Spell;
 import com.gargoylesoftware.htmlunit.html.*;
+import org.apache.commons.lang3.StringUtils;
 import org.w3c.dom.Node;
 
 import java.io.IOException;
@@ -51,8 +53,17 @@ public class MereinetidorSpell extends Spell {
         buildClassAndLevels();
     }
 
-    private void buildClassAndLevels() {
-
+    @Override
+    public void buildClassAndLevels() {
+        if (!getClassAndLevel().trim().isEmpty()) {
+            String[] splittedByComma = getClassAndLevel().split(",");
+            for (int i = 0; i < splittedByComma.length; i++) {
+                String rawCal = splittedByComma[i].replace("(v)", "");
+                addClassAndLevel(new ClassAndLevel(rawCal.substring(0, rawCal.length() - 1), Integer.valueOf(rawCal.substring(rawCal.length() - 1))));
+            }
+        } else {
+            addClassAndLevel(ClassAndLevel.allClassesAndLvl());
+        }
     }
 
     private void extractComponents() {
@@ -91,6 +102,7 @@ public class MereinetidorSpell extends Spell {
         setDuration(simpleText(DURATION_XPATH));
     }
 
+
     private void extractRange() {
         setRange(simpleText(RANGE_XPATH));
     }
@@ -100,9 +112,13 @@ public class MereinetidorSpell extends Spell {
         String rawCal = textContent(node);
         while (node.getNextSibling() != null) {
             node = node.getNextSibling();
-            rawCal += textContent(node);
+            String content = textContent(node);
+            if (StringUtils.isNumeric(content.substring(0, 1))) {
+                rawCal += " ";
+            }
+            rawCal += content;
         }
-        setClassAndLevel(rawCal);
+        setClassAndLevel(rawCal.replace(", ", ",").replace(",", ", "));
     }
 
     private String textContent(Node node) {
@@ -128,18 +144,18 @@ public class MereinetidorSpell extends Spell {
     }
 
     private void extractPage() {
-        setPage(textContent((HtmlSpan)spellPage.getByXPath(PAGE_XPATH).get(0)));
+        setPage(textContent((HtmlSpan) spellPage.getByXPath(PAGE_XPATH).get(0)));
     }
 
     private void extractBook() {
-        setBook(textContent((HtmlAnchor)spellPage.getByXPath(BOOK_XPATH).get(0)));
+        setBook(textContent((HtmlAnchor) spellPage.getByXPath(BOOK_XPATH).get(0)));
     }
 
     private void extractName() {
-        setName(textContent((HtmlDivision)spellPage.getByXPath(NAME_XPATH).get(0)));
+        setName(textContent((HtmlDivision) spellPage.getByXPath(NAME_XPATH).get(0)));
     }
 
     private void extractSummary() {
-        setSummary(clean(textContent((HtmlSpan)spellPage.getByXPath(SUMMARY_XPATH).get(2))));
+        setSummary(clean(textContent((HtmlSpan) spellPage.getByXPath(SUMMARY_XPATH).get(2))));
     }
 }
