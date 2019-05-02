@@ -21,6 +21,7 @@ public class Spell {
     private String save = "";
     private String magicResist = "";
     private String areaOfEffect = "";
+    private String effect = "";
     private String description = "";
     private String summary = "";
     private String book = "";
@@ -40,6 +41,7 @@ public class Spell {
         result += orElse(MINIFIER.minify(save), "", "JDS : ");
         result += orElse(MINIFIER.minify(magicResist), "", "RM : ");
         result += orElse(MINIFIER.minify(areaOfEffect), "", "AOE : ");
+        result += orElse(MINIFIER.minify(effect), "", "EFFET : ");
         result += LATEX_NEW_LINE;
         result += orElse(summary, description, "");
         if (result.length() > DESCRIPTION_MAX_CHAR) {
@@ -201,6 +203,14 @@ public class Spell {
         this.page = page;
     }
 
+    public String getEffect() {
+        return effect;
+    }
+
+    public void setEffect(String effect) {
+        this.effect = effect;
+    }
+
     public void addClassAndLevel(ClassAndLevel cal) {
         classAndLevels.add(cal);
     }
@@ -211,24 +221,25 @@ public class Spell {
         if (o == null || getClass() != o.getClass()) return false;
         Spell spell = (Spell) o;
         return Objects.equals(getName(), spell.getName()) &&
-                Objects.equals(type, spell.type) &&
-                Objects.equals(classAndLevel, spell.classAndLevel) &&
-                Objects.equals(components, spell.components) &&
-                Objects.equals(castTime, spell.castTime) &&
-                Objects.equals(range, spell.range) &&
-                Objects.equals(target, spell.target) &&
-                Objects.equals(duration, spell.duration) &&
-                Objects.equals(save, spell.save) &&
-                Objects.equals(magicResist, spell.magicResist) &&
-                Objects.equals(areaOfEffect, spell.areaOfEffect) &&
-                Objects.equals(description, spell.description) &&
-                Objects.equals(summary, spell.summary) &&
-                Objects.equals(book, spell.book) &&
-                Objects.equals(page, spell.page);
+                Objects.equals(getType(), spell.getType()) &&
+                Objects.equals(getClassAndLevel(), spell.getClassAndLevel()) &&
+                Objects.equals(getComponents(), spell.getComponents()) &&
+                Objects.equals(getCastTime(), spell.getCastTime()) &&
+                Objects.equals(getRange(), spell.getRange()) &&
+                Objects.equals(getTarget(), spell.getTarget()) &&
+                Objects.equals(getDuration(), spell.getDuration()) &&
+                Objects.equals(getSave(), spell.getSave()) &&
+                Objects.equals(getMagicResist(), spell.getMagicResist()) &&
+                Objects.equals(getAreaOfEffect(), spell.getAreaOfEffect()) &&
+                Objects.equals(getEffect(), spell.getEffect()) &&
+                Objects.equals(getDescription(), spell.getDescription()) &&
+                Objects.equals(getSummary(), spell.getSummary()) &&
+                Objects.equals(getBook(), spell.getBook()) &&
+                Objects.equals(getPage(), spell.getPage());
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(getName(), type, classAndLevel, components, castTime, range, target, duration, save, magicResist, areaOfEffect, description, summary, book, page);
+        return Objects.hash(getName(), getType(), getClassAndLevel(), getComponents(), getCastTime(), getRange(), getTarget(), getDuration(), getSave(), getMagicResist(), getAreaOfEffect(), getEffect(), getDescription(), getSummary(), getBook(), getPage());
     }
 }

@@ -12,7 +12,7 @@ import static be.rha.dnd.mereinetidor.ScraperHelper.PRIEST_URL;
 
 public class Scraper {
 
-    public static final int SPELLS_PER_PAGE = 2;
+    public static final int SPELLS_PER_PAGE = 6;
 
     public static void main(String[] args) {
 

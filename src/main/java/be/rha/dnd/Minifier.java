@@ -6,6 +6,10 @@ public class Minifier {
         return toMinify
                 .replace("minutes", "min")
                 .replace("minute", "min")
+                .replace("heures", "h")
+                .replace("heure", "h")
+                .replace("jours", "j")
+                .replace("jour", "j")
                 .replace("niveaux", "lvl")
                 .replace("niveau", "lvl")
                 .replace("action simple", "AS")
