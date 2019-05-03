@@ -30,11 +30,11 @@ public class MereinetidorSpell extends Spell {
 
     private transient HtmlPage spellPage;
 
-    public void build(HtmlPage page, int i) throws IOException {
+    public void build(HtmlPage page, int i) throws IOException, InterruptedException {
         try {
             HtmlAnchor a = (HtmlAnchor) page.getByXPath(SPELL_URL_XPATH.replace("%i%", String.valueOf(i))).get(0);
             String spellUrl = ScraperHelper.SITE_URL + a.getHrefAttribute();
-            spellPage = ScraperHelper.CLIENT.getPage(spellUrl);
+            spellPage = ScraperHelper.getPage(spellUrl);
             extractName();
             extractSummary();
             extractBook();

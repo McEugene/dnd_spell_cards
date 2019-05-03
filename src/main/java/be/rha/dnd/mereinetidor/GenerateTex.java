@@ -34,11 +34,13 @@ public class GenerateTex {
         try (BufferedWriter writer = Files.newBufferedWriter(path, Charset.forName("UTF-8"))) {
             List<MereinetidorSpell> spells = JSON_HELPER.readSpells(FINAL_JSON_FILE_NAME);
             spells.forEach(MereinetidorSpell::buildClassAndLevels);
+            System.out.println(String.format("Found %s spells", spells.size()));
             List<MereinetidorSpell> filtered = spells.stream()
                     .filter(spell -> spell.hasClass(CLASSES))
                     .filter(spell -> spell.hasLvl(LVLS))
                     .filter(spell -> spell.isInBook(BOOKS))
                     .collect(Collectors.toList());
+            System.out.println(String.format("%s spells remaining after filtering", filtered.size()));
             for (Spell spell : filtered) {
                 writer.write(spell.toTex());
             }

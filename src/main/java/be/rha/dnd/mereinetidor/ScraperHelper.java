@@ -1,6 +1,7 @@
 package be.rha.dnd.mereinetidor;
 
 import com.gargoylesoftware.htmlunit.WebClient;
+import com.gargoylesoftware.htmlunit.html.HtmlPage;
 
 public class ScraperHelper {
 
@@ -11,5 +12,12 @@ public class ScraperHelper {
     static {
         CLIENT.getOptions().setCssEnabled(false);
         CLIENT.getOptions().setJavaScriptEnabled(false);
+    }
+
+    public static HtmlPage getPage(String searchUrl) throws java.io.IOException, InterruptedException {
+        long delay = (long) (Math.random() * 3000 + 2);
+        System.out.println(String.format("Will wait for %s s before getting the page", delay));
+        Thread.sleep(delay);
+        return CLIENT.getPage(searchUrl);
     }
 }
