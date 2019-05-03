@@ -54,7 +54,6 @@ public class MereinetidorSpell extends Spell {
             buildClassAndLevels();
         } catch (Exception e) {
             System.out.println("Exception while handling spell with name " + getName());
-            e.printStackTrace();
             throw e;
         }
     }
@@ -64,8 +63,15 @@ public class MereinetidorSpell extends Spell {
         if (!getClassAndLevel().trim().isEmpty()) {
             String[] splittedByComma = getClassAndLevel().split(",");
             for (int i = 0; i < splittedByComma.length; i++) {
-                String rawCal = splittedByComma[i].replace("(v)", "");
-                addClassAndLevel(new ClassAndLevel(rawCal.substring(0, rawCal.length() - 1), Integer.valueOf(rawCal.substring(rawCal.length() - 1))));
+                String rawCal = splittedByComma[i].trim();
+                // sometimes there is just a blank space between 2 commas
+                if (!rawCal.isEmpty()) {
+                    // handle levels with another feat like (v) or (Metal)
+                    if (rawCal.contains("(")) {
+                        rawCal = rawCal.substring(0, rawCal.indexOf("(")).trim();
+                    }
+                    addClassAndLevel(new ClassAndLevel(rawCal.substring(0, rawCal.length() - 1).trim(), Integer.valueOf(rawCal.substring(rawCal.length() - 1))));
+                }
             }
         } else {
             addClassAndLevel(ClassAndLevel.allClassesAndLvl());
